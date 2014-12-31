@@ -44,3 +44,4 @@ Illegal Sites
 - http:// www minecraftmine org/
 - http:// www games-utilities com/
 - http:// www 8minecraft com/
+- http:// www swiftlygames com/ 
