@@ -34,7 +34,6 @@ Illegal Sites
 - http:// www minecraftxl com/
 - http:// www minecraftmore com/
 - http:// 9craft org/
-- http:// dokucraft co uk/
 - http:// minhvietltd com/
 - http:// mineturk com/
 - http:// minecraft minecraftstores com/
