@@ -9,7 +9,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// www modsminecraft org/
 - http:// www skydaz com/
 - http:// www minecraftmods com/
-- http:// minecraftsix com/
 - http:// www minecraftexe com/
 - http:// minecraft-forum net/
 - http:// www minecrafteando com/
@@ -61,3 +60,4 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// all-mod-for-minecraft blogspot com/
 - http:// www 123minecraft com/
 - http:// minecraftmods9 blogspot com/
+- http:// en softonic com/
