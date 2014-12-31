@@ -83,3 +83,4 @@ Rated sites
 | gearcraft us                    |      2      |        5       |   1   |
 | fr-minecraft net                |      2      |        5       |   1   |
 | minecraftiamodpack blogspot com |      5      |        5       |   5   |
+| ru-minecraft ru                 |      5      |        5       |   1   |
