@@ -67,6 +67,7 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// crazyminecraft net/
 - http:// minecraftvip com/
 - http:// minecraftmodding net/
+- http:// gamespot com/
 
 Rated sites
 ===========
