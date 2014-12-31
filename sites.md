@@ -62,3 +62,4 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// minecraftmods9 blogspot com/
 - http:// en softonic com/
 - http:// 3minecraft com/
+- http:// simplesminecraft blogspot com br/
