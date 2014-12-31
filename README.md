@@ -45,3 +45,5 @@ Illegal Sites
 - http:// www games-utilities com/
 - http:// www 8minecraft com/
 - http:// www swiftlygames com/ 
+- http:// mod-for-minecraft net/
+- http://www 2minecraft net/
