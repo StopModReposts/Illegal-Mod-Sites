@@ -46,4 +46,12 @@ Illegal Sites
 - http:// www 8minecraft com/
 - http:// www swiftlygames com/ 
 - http:// mod-for-minecraft net/
-- http://www 2minecraft net/
+- http:// www 2minecraft net/
+- http:// minecraftpw ru/
+- http:// freedownloadminecraft com/
+- http:// www minecrafthd com/
+- http:// download-minecraft-mod com/
+- http:// forminecrafters ru/
+- http:// gameminecraft ru/
+- http:// wc3-maps ru/
+- http:// wpminecraft blogspot com au/
