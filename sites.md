@@ -79,3 +79,8 @@ Rated sites
 | minecraft-mods.org            |      1      |        5       |   5   |
 | minecraft12.com               |      5      |        1       |   5   |
 | minecraftiamods.com           |      5      |        5       |   1   |
+|                               |             |                |       |
+|                               |             |                |       |
+|                               |             |                |       |
+|                               |             |                |       |
+|                               |             |                |       |
