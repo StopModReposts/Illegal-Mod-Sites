@@ -66,14 +66,14 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// gearcraft us/
 - http:// crazyminecraft net/
 - http:// minecraftvip com/
-- http:// minecraftmodding net/
-
++- http:// minecraftmodding net/
 
 Rated sites
 ===========
-                            Advertising               Redistribution             Lying
-minedown.com :                  2                           1                      5
-modsminecraft.com :             2                           1                      5
-minecraft-modding.de :          5                           5                      1
-minecraft-mods.org :            1                           5                      5
-minecraft12.com :               5                           1                      5
+                            Advertising               Redistribution              Lying
+minedown.com :                  2                           1                       5
+modsminecraft.com :             2                           1                       5
+minecraft-modding.de :          5                           5                       1
+minecraft-mods.org :            1                           5                       5
+minecraft12.com :               5                           1                       5
+minecraftiamods.com :           5                           5                       1
