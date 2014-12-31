@@ -61,7 +61,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - 123minecraft com
 - minecraftmods9 blogspot com
 - en softonic com
-- 3minecraft com
 - simplesminecraft blogspot com br
 - gearcraft us
 - crazyminecraft net
@@ -80,7 +79,7 @@ Rated sites
 | minecraft12 com               |      5      |        1       |   5   |
 | minecraftiamods com           |      5      |        5       |   1   |
 | mcmodkit com                  |      5      |        5       |   1   |
-|                               |             |                |       |
+| 3minecraft com                |      3      |        5       |   1   |
 |                               |             |                |       |
 |                               |             |                |       |
 |                               |             |                |       |
