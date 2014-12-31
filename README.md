@@ -41,3 +41,6 @@ Illegal Sites
 - http:// minecraftgood com/
 - http:// minecraftexpert ru/
 - https:// www modgician com/
+- http:// www minecraftmine org/
+- http:// www games-utilities com/
+- http:// www 8minecraft com/
