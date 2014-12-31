@@ -31,3 +31,13 @@ Illegal Sites
 - http:// mcmoddatabase com/
 - http:// www modsminecraft com/
 - http:// minecraft-mods ru/
+- http:// www minecraftxl com/
+- http:// www minecraftmore com/
+- http:// 9craft org/
+- http:// dokucraft co uk/
+- http:// minhvietltd com/
+- http:// mineturk com/
+- http:// minecraft minecraftstores com/
+- http:// minecraftgood com/
+- http:// minecraftexpert ru/
+- https:// www modgician com/
