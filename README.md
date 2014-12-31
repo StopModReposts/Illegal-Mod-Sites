@@ -1,6 +1,6 @@
 Illegal-Mod-Sites
 =================
 
-A list of websites that are illegally redistributing Minecraft mods.
+#StopModReposts ranking system:
 
-Ranking system: http://pastebin.com/e8aq8dNe
+The websites will be ranked from 1-5 in 3 categories. The 3 categories are: Advertising, redistribution and wrong labeled information.
