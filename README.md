@@ -1,7 +1,7 @@
 Illegal Sites
 =============
 
-The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. Remember that even if a site is not listed here, it may still contain stolen mods.
+The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.
 
 - http:// www 9minecraft net/
 - http:// 5minecraft net/
