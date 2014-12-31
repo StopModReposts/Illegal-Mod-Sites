@@ -65,6 +65,8 @@ The following is a list of known sites illegally distributing several mods. The 
 - http:// simplesminecraft blogspot com br/
 - http:// gearcraft us/
 - http:// crazyminecraft net/
+- http:// minecraftvip com/
+- http:// minecraftmodding net/
 
 
 Rated sites
