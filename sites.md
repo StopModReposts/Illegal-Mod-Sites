@@ -47,7 +47,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - swiftlygames com 
 - mod-for-minecraft net
 - 2minecraft net
-- minecraftpw ru
 - freedownloadminecraft com
 - minecrafthd com
 - download-minecraft-mod com
@@ -82,3 +81,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | wc3-maps ru                        |      5      |        5       |   1   |
 | gameminecraft ru                   |      3      |        5       |   5   |
 | forminecrafters ru                 |      2      |        5       |   5   |
+| minecraftpw ru                     |      1      |        5       |   4   |
