@@ -17,9 +17,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - minecraft20 com
 - minecrafttime com
 - yourminecraft com
-- file-minecraft com
-- 6minecraftmods net
-- minecraftdata com
 - modgician com
 - swiftlygames com
 - en softonic com
@@ -84,3 +81,6 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | azminecraft info                   |      3      |        5       |   1   |
 | 9minecraftmods net                 |      2      |        5       |   3   |
 | minecraftspot net                  |      3      |        5       |   3   |
+| minecraftdata com                  |      1      |        5       |   1   |
+| 6minecraftmods net                 |      1      |        5       |   1   |
+| file-minecraft com                 |      3      |        5       |   5   |
