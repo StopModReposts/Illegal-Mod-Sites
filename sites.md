@@ -81,8 +81,8 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | 5minecraft net                     |      3      |        5       |   1   |
 | 9minecraft net                     |      3      |        5       |   1   |
 
-@CoolSquid I don't know how to rate these sites. Help?
-======================================================
+I don't know how to rate these sites. Help?
+===========================================
 |                                    | Advertising | Redistribution | Lying |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|
 | modgician com                      |             |                |       |
