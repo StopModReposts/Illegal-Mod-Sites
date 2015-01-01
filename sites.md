@@ -27,11 +27,9 @@ The following is a list of known sites illegally distributing several mods. The 
 - azminecraft info
 - 8minecraft org
 - 9minecraftaz blogspot com
-- minecraft-inside ru
 - miinecraft org
 - mcmoddatabase com
 - modsminecraft com
-- minecraft-mods ru
 - minecraftxl com
 - minecraftmore com
 - 9craft org
@@ -39,7 +37,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - mineturk com
 - minecraft minecraftstores com
 - minecraftgood com
-- minecraftexpert ru
 - modgician com
 - minecraftmine org
 - games-utilities com
@@ -82,3 +79,6 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | gameminecraft ru                   |      3      |        5       |   5   |
 | forminecrafters ru                 |      2      |        5       |   5   |
 | minecraftpw ru                     |      1      |        5       |   4   |
+| minecraftexpert ru                 |      1      |        5       |   3   |
+| minecraft-mods ru                  |      5      |        5       |   3   |
+| minecraft-inside ru                |      1      |        5       |   3   |
