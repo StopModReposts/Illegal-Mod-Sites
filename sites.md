@@ -22,7 +22,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - minecraftdata com
 - minecraftspot net
 - 9minecraftmods net
-- azminecraft info
 - modgician com
 - swiftlygames com
 - en softonic com
@@ -84,3 +83,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minecraftxl com                    |      3      |        5       |   3   |
 | modsminecraft com                  |      1      |        1       |   1 Why is this on the list?  |
 | mcmoddatabase com                  |      3      |        5       |   5 Malware alert!  |
+| azminecraft info                   |      3      |        5       |   1   |
