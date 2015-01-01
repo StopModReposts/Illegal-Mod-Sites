@@ -62,7 +62,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - minecraftmods9 blogspot com
 - en softonic com
 - simplesminecraft blogspot com br
-- gearcraft us
 - crazyminecraft net
 - minecraftvip com
 - minecraftmodding net
@@ -79,8 +78,9 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | minecraft12 com                 |      5      |        1       |   5   |
 | minecraftiamods com             |      5      |        5       |   1   |
 | mcmodkit com                    |      5      |        5       |   1   |
-| 3minecraft com                  |      3      |        5       |   1   |
-| gearcraft us                    |      2      |        5       |   1   |
+| 3minecraft com                  |      3      |        1       |   3   |
+| gearcraft us                    |      2      |        5       |   3   |
 | fr-minecraft net                |      2      |        5       |   1   |
 | minecraftiamodpack blogspot com |      5      |        5       |   5   |
 | ru-minecraft ru                 |      5      |        5       |   1   |
+| minecraftvip com                |      2      |        5       |   1   |
