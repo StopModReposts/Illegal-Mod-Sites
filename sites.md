@@ -63,24 +63,24 @@ The following is a list of known sites illegally distributing several mods. The 
 - en softonic com
 - simplesminecraft blogspot com br
 - crazyminecraft net
-- minecraftmodding net
 - gamespot com
 
 Rated sites. The score goes from 1 to 5, and 5 means that the websites does it all the time.
 ============================================================================================
-|                                 | Advertising | Redistribution | Lying |
-| ------------------------------- |:-----------:|:--------------:|:-----:|
-| minedown com                    |      2      |        1       |   5   |
-| modsminecraft com               |      2      |        1       |   5   |
-| minecraft-modding de            |      5      |        5       |   1   |
-| minecraft-mods org              |      1      |        5       |   5   |
-| minecraft12 com                 |      5      |        1       |   5   |
-| minecraftiamods com             |      5      |        5       |   1   |
-| mcmodkit com                    |      5      |        5       |   1   |
-| 3minecraft com                  |      3      |        1       |   3   |
-| gearcraft us                    |      2      |        5       |   3   |
-| fr-minecraft net                |      2      |        5       |   1   |
-| minecraftiamodpack blogspot com |      5      |        5       |   5   |
-| ru-minecraft ru                 |      5      |        5       |   1   |
-| minecraftvip com                |      2      |        5       |   1   |
-| minecraftmodding net               |      2      |        5       |   3   |
+|                                  | Advertising | Redistribution | Lying |
+| -------------------------------  |:-----------:|:--------------:|:-----:|
+| minedown com                     |      2      |        1       |   5   |
+| modsminecraft com                |      2      |        1       |   5   |
+| minecraft-modding de             |      5      |        5       |   1   |
+| minecraft-mods org               |      1      |        5       |   5   |
+| minecraft12 com                  |      5      |        1       |   5   |
+| minecraftiamods com              |      5      |        5       |   1   |
+| mcmodkit com                     |      5      |        5       |   1   |
+| 3minecraft com                   |      3      |        1       |   3   |
+| gearcraft us                     |      2      |        5       |   3   |
+| fr-minecraft net                 |      2      |        5       |   1   |
+| minecraftiamodpack blogspot com  |      5      |        5       |   5   |
+| ru-minecraft ru                  |      5      |        5       |   1   |
+| minecraftvip com                 |      2      |        5       |   1   |
+| minecraftmodding net             |      2      |        5       |   3   |
+| simplesminecraft blogspot com br |      1      |        5       |   3   |
