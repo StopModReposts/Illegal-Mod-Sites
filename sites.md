@@ -38,10 +38,7 @@ The following is a list of known sites illegally distributing several mods. The 
 - mod-for-minecraft net
 - 2minecraft net
 - freedownloadminecraft com
-- minecrafthd com
-- download-minecraft-mod com
 - en softonic com
-- crazyminecraft net
 - gamespot com
 
 Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all the time.
@@ -82,3 +79,6 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all
 | miinecraft org                     |      5      |        5       |   3   |
 | 9craft org                         |      1      |        5       |   5   |
 | minecraftmine org                  |      5      |        5       |   5 And we have a winner!  |
+| crazyminecraft net                 |      2      |        1       |   1   |
+| download-minecraft-mod com         |      3      |        5       |   4   |
+| minecrafthd com                    |      3      |        5       |   1   |
