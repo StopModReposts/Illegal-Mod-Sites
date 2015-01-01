@@ -89,3 +89,5 @@ I don't know how to rate these sites. Help?
 | swiftlygames com                   |             |                |       |
 | en softonic com                    |             |                |       |
 | gamespot com                       |             |                |       |
+
+//I'll do it. ~ CoolSquid
