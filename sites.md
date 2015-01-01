@@ -74,11 +74,11 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all
 | 8minecraft org                     |      5      |        5       |   1   |
 | miinecraft org                     |      5      |        5       |   3   |
 | 9craft org                         |      1      |        5       |   5   |
-| minecraftmine org                  |      5      |        5       |   5 And we have a winner!  |
+| minecraftmine org                  |      5      |        5       |   5  And we have a winner!  |
 | crazyminecraft net                 |      2      |        1       |   1   |
 | download-minecraft-mod com         |      3      |        5       |   4   |
 | minecrafthd com                    |      3      |        5       |   1   |
 | freedownloadminecraft com          |      5      |        5       |   3   |
 | 2minecraft net                     |      2      |        5       |   1   |
 | mod-for-minecraft net              |      3      |        5       |   5   |
-| 8minecraft com
+| 8minecraft com                     |      5      |        5       |   1   |
