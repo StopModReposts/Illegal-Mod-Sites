@@ -30,7 +30,7 @@ The following is a list of known sites illegally distributing several mods. The 
 Rated sites. The score goes from 1 to 5, and 5 means that the website does it all the time.
 ===========================================================================================
 |                                    | Advertising | Redistribution | Lying |
-| ---------------------------------- |:-----------:|:--------------:|:-----:|
+|:----------------------------------:|:-----------:|:--------------:|:-----:|
 | minedown com                       |      2      |        1       |   5   |
 | modsminecraft com                  |      2      |        1       |   5   |
 | minecraft-modding de               |      5      |        5       |   1   |
