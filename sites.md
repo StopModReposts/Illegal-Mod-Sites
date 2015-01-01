@@ -6,7 +6,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - 9minecraft net
 - 5minecraft net
 - mod-minecraft net
-- modsminecraft org
 - skydaz com
 - minecraftmods com
 - minecraftexe com
@@ -24,19 +23,15 @@ The following is a list of known sites illegally distributing several mods. The 
 - minecraftspot net
 - 9minecraftmods net
 - azminecraft info
-- 8minecraft org
-- miinecraft org
 - mcmoddatabase com
 - modsminecraft com
 - minecraftxl com
 - minecraftmore com
-- 9craft org
 - minhvietltd com
 - mineturk com
 - minecraft minecraftstores com
 - minecraftgood com
 - modgician com
-- minecraftmine org
 - games-utilities com
 - 8minecraft com
 - swiftlygames com 
@@ -81,4 +76,9 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all
 | minecraft-mods ru                  |      5      |        5       |   3   |
 | minecraft-inside ru                |      1      |        5       |   3   |
 | 9minecraftaz blogspot com          |      3      |        5       |   3   |
-| comoinstalarmodsminecraft com br   |      3      |        1       |   2   |
+| comoinstalarmodsminecraft com br   |      3      |        1       |   3   |
+| modsminecraft org                  |      1      |        5       |   1   |
+| 8minecraft org                     |      5      |        5       |   1   |
+| miinecraft org                     |      5      |        5       |   3   |
+| 9craft org                         |      1      |        5       |   5   |
+| minecraftmine org                  |      5      |        5       |   5 And we have a winner!  |
