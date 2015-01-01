@@ -42,7 +42,7 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | 8minecraft org                     |      5      |        5       |   1   |
 | miinecraft org                     |      5      |        5       |   3   |
 | 9craft org                         |      1      |        5       |   5   |
-| minecraftmine org                  |      5      |        5       |   5 And we have a winner!  |
+| minecraftmine org                  |      5      |        5       |   5   |
 | crazyminecraft net                 |      2      |        1       |   1   |
 | download-minecraft-mod com         |      3      |        5       |   4   |
 | minecrafthd com                    |      3      |        5       |   1   |
@@ -59,7 +59,7 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minhvietltd com                    |      5      |        5       |   1   |
 | minecraftmore com                  |      1      |        5       |   1   |
 | minecraftxl com                    |      3      |        5       |   3   |
-| mcmoddatabase com                  |      3      |        5       |   5 Malware alert!  |
+| mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!**
 | azminecraft info                   |      3      |        5       |   1   |
 | 9minecraftmods net                 |      2      |        5       |   3   |
 | minecraftspot net                  |      3      |        5       |   3   |
@@ -68,7 +68,7 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | file-minecraft com                 |      3      |        5       |   5   |
 | yourminecraft com                  |      3      |        5       |   3   |
 | minecrafttime com                  |      3      |        5       |   3   |
-| minecraftdl com                    |      5      |        1       |   3   |
+| minecraftdl com                    |      5      |        1       |   3   | **Malware alert!**
 | 6minecraft net                     |      3      |        1       |   3   |
 | minecrafteando com                 |      3      |        5       |   3   |
 | minecraft-forum net                |      3      |        5       |   3   |
@@ -80,14 +80,12 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minecraftmods18 net                |      1      |        5       |   1   |
 | 5minecraft net                     |      3      |        5       |   1   |
 | 9minecraft net                     |      3      |        5       |   1   |
+| modgician com                      |      5      |        1       |   1   |
+| swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads.
+| softonic com                       |      5      |        5       |   5   | **Malware alert!**
 
 I don't know how to rate these sites. Help?
 ===========================================
 |                                    | Advertising | Redistribution | Lying |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|
-| modgician com                      |             |                |       |
-| swiftlygames com                   |             |                |       |
-| en softonic com                    |             |                |       |
-| gamespot com                       |             |                |       |
-
-//I'll do it. ~ CoolSquid
+| gamespot com                       |             |                |       | I wasn't able to find any topics there, help?
