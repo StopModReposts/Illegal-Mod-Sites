@@ -3,12 +3,6 @@ Illegal Sites
 
 The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.**
 
-- 9minecraft net
-- 5minecraft net
-- mod-minecraft net
-- skydaz com
-- minecraftmods com
-- minecraftmods18 net
 - modgician com
 - swiftlygames com
 - en softonic com
@@ -83,3 +77,9 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minecraft-forum net                |      3      |        5       |   3   |
 | minecraftspace com                 |      3      |        1       |   3   |
 | minecraftexe com                   |      5      |        1       |   5   |
+| minecraftmods com                  |      3      |        1       |   1   |
+| skydaz com                         |      3      |        5       |   1   |
+| mod-minecraft net                  |      3      |        5       |   2   |
+| minecraftmods18 net                |      1      |        5       |   1   |
+| 5minecraft net                     |      3      |        5       |   1   |
+| 9minecraft net                     |      3      |        5       |   1   |
