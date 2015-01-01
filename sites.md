@@ -51,8 +51,8 @@ The following is a list of known sites illegally distributing several mods. The 
 - crazyminecraft net
 - gamespot com
 
-Rated sites. The score goes from 1 to 5, and 5 means that the websites does it all the time.
-============================================================================================
+Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all the time.
+==========================================================================================
 |                                    | Advertising | Redistribution | Lying |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|
 | minedown com                       |      2      |        1       |   5   |
