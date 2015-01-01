@@ -8,10 +8,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - mod-minecraft net
 - skydaz com
 - minecraftmods com
-- minecraftexe com
-- minecraft-forum net
-- minecrafteando com
-- 6minecraft net
 - minecraftmods18 net
 - modgician com
 - swiftlygames com
@@ -82,3 +78,8 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | yourminecraft com                  |      3      |        5       |   3   |
 | minecrafttime com                  |      3      |        5       |   3   |
 | minecraftdl com                    |      5      |        1       |   3   |
+| 6minecraft net                     |      3      |        1       |   3   |
+| minecrafteando com                 |      3      |        5       |   3   |
+| minecraft-forum net                |      3      |        5       |   3   |
+| minecraftspace com                 |      3      |        1       |   3   |
+| minecraftexe com                   |      5      |        1       |   5   |
