@@ -54,9 +54,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - forminecrafters ru
 - gameminecraft ru
 - wc3-maps ru
-- wpminecraft blogspot com
-- wpminecraft blogspot com au
-- 9mobo com
 - en softonic com
 - crazyminecraft net
 - gamespot com
@@ -83,3 +80,5 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | 123minecraft com                   |      2      |        5       |   5   |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |
 | all-mod-for-minecraft blogspot com |      1      |        5       |   3   |
+| 9mobo com                          |      3      |        5       |   3   |
+| wpminecraft blogspot com           |      1      |        5       |   5   |
