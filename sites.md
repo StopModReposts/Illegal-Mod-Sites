@@ -61,14 +61,13 @@ The following is a list of known sites illegally distributing several mods. The 
 - 123minecraft com
 - minecraftmods9 blogspot com
 - en softonic com
-- simplesminecraft blogspot com br
 - crazyminecraft net
 - gamespot com
 
 Rated sites. The score goes from 1 to 5, and 5 means that the websites does it all the time.
 ============================================================================================
 |                                  | Advertising | Redistribution | Lying |
-| -------------------------------  |:-----------:|:--------------:|:-----:|
+| -------------------------------- |:-----------:|:--------------:|:-----:|
 | minedown com                     |      2      |        1       |   5   |
 | modsminecraft com                |      2      |        1       |   5   |
 | minecraft-modding de             |      5      |        5       |   1   |
@@ -84,3 +83,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | minecraftvip com                 |      2      |        5       |   1   |
 | minecraftmodding net             |      2      |        5       |   3   |
 | simplesminecraft blogspot com br |      1      |        5       |   3   |
+| 123minecraft com                 |      2      |        5       |   5   |
