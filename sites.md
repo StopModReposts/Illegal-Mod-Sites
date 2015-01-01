@@ -58,7 +58,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - wpminecraft blogspot com au
 - 9mobo com
 - all-mod-for-minecraft blogspot com
-- 123minecraft com
 - minecraftmods9 blogspot com
 - en softonic com
 - crazyminecraft net
@@ -84,3 +83,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites does it a
 | minecraftmodding net             |      2      |        5       |   3   |
 | simplesminecraft blogspot com br |      1      |        5       |   3   |
 | 123minecraft com                 |      2      |        5       |   5   |
+| minecraftmods9 blogspot com      |      5      |        5       |   3   |
