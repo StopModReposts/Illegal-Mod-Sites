@@ -3,10 +3,7 @@ Illegal Sites
 
 The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.**
 
-- modgician com
-- swiftlygames com
-- en softonic com
-- gamespot com
+
 
 Rated sites. The score goes from 1 to 5, and 5 means that the website does it all the time.
 ===========================================================================================
@@ -83,3 +80,12 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minecraftmods18 net                |      1      |        5       |   1   |
 | 5minecraft net                     |      3      |        5       |   1   |
 | 9minecraft net                     |      3      |        5       |   1   |
+
+@CoolSquid I don't know how to rate these sites. Help?
+======================================================
+|                                    | Advertising | Redistribution | Lying |
+| ---------------------------------- |:-----------:|:--------------:|:-----:|
+| modgician com                      |             |                |       |
+| swiftlygames com                   |             |                |       |
+| en softonic com                    |             |                |       |
+| gamespot com                       |             |                |       |
