@@ -30,7 +30,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - minhvietltd com
 - mineturk com
 - minecraft minecraftstores com
-- minecraftgood com
 - modgician com
 - swiftlygames com
 - en softonic com
@@ -82,3 +81,6 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | mod-for-minecraft net              |      3      |        5       |   5   |
 | 8minecraft com                     |      5      |        5       |   1   |
 | games-utilities com                |      2      |        1       |   3   |
+| minecraftgood com                  |      5      |        5       |   5   |
+| 9minecraftscom blogspot com        |      1      |        5       |   3   |
+| 9minecrafts com                    |      1      |        5       |   3   |
