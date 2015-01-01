@@ -72,7 +72,6 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | minhvietltd com                    |      5      |        5       |   1   |
 | minecraftmore com                  |      1      |        5       |   1   |
 | minecraftxl com                    |      3      |        5       |   3   |
-| modsminecraft com                  |      1      |        1       |   1 Why is this on the list?  |
 | mcmoddatabase com                  |      3      |        5       |   5 Malware alert!  |
 | azminecraft info                   |      3      |        5       |   1   |
 | 9minecraftmods net                 |      2      |        5       |   3   |
@@ -82,5 +81,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | file-minecraft com                 |      3      |        5       |   5   |
 | yourminecraft com                  |      3      |        5       |   3   |
 | minecrafttime com                  |      3      |        5       |   3   |
-| minecraft20 com                    |      1      |        1       |   1 wot  |
 | minecraftdl com                    |      5      |        1       |   3   |
