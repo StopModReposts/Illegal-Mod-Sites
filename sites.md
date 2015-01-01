@@ -13,7 +13,6 @@ The following is a list of known sites illegally distributing several mods. The 
 - minecraft-forum net
 - minecrafteando com
 - 6minecraft net
-- comoinstalarmodsminecraft com br
 - minecraftdl com
 - minecraftmods18 net
 - minecraft20 com
@@ -82,3 +81,4 @@ Rated sites. The score goes from 1 to 5, and 5 means that the websites do it all
 | minecraft-mods ru                  |      5      |        5       |   3   |
 | minecraft-inside ru                |      1      |        5       |   3   |
 | 9minecraftaz blogspot com          |      3      |        5       |   3   |
+| comoinstalarmodsminecraft com br   |      3      |        1       |   2   |
