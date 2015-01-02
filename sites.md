@@ -83,10 +83,10 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | modgician com                      |      5      |        1       |   1   |          |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
+| minecraftings com                  |      2      |        1       |   3   |          |
 
 I don't know how to rate these sites. Help?
 ===========================================
 |                                    | Advertising | Redistribution | Lying |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|
 | gamespot com                       |             |                |       | I wasn't able to find any topics there, help?
-| minecraftings com                  |             |                |       | Site down
