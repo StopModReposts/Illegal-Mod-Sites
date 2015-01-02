@@ -84,6 +84,7 @@ Rated sites. The score goes from 1 to 5, and 5 means that the website does it al
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
 | minecraftings com                  |      2      |        1       |   3   |       |
+| hubicraft com                      |      1      |        5       |   3   |       |
 
 I don't know how to rate these sites. Help?
 ===========================================
