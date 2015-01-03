@@ -73,6 +73,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mod-for-minecraft net              |      3      |        5       |   5   |       |
 | mod-minecraft net                  |      3      |        5       |   2   |       |
 | modgician com                      |      5      |        1       |   1   |       |
+| modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
