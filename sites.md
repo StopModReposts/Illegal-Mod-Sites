@@ -3,8 +3,8 @@ Illegal Sites
 
 The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.**
 
-Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
-=============================================================
+Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad. The more points, the worse the site.
+==================================================================================================
 |                                    | Advertising | Redistribution | Lying | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | 123minecraft com                   |      2      |        5       |   5   |       |
