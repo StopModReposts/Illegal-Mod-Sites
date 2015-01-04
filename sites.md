@@ -77,7 +77,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
-| mody4mine.ru                       |      3      |        5       |   1   |       |
+| mody4mine ru                       |      3      |        5       |   1   |       |
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
