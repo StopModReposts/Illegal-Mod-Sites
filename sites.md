@@ -74,10 +74,10 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minhvietltd com                    |      5      |        5       |   1   |       |
 | mod-for-minecraft net              |      3      |        5       |   5   |       |
 | mod-minecraft net                  |      3      |        5       |   2   |       |
-| modgician com                      |      5      |        1       |   1   |       |
 | modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
+| mody4mine.ru                       |      3      |        5       |   1   |       |
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
