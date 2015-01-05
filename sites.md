@@ -25,6 +25,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 9mobo com                          |      3      |        5       |   3   |       |
 | all-mod-for-minecraft blogspot com |      1      |        5       |   3   |       |
 | azminecraft info                   |      3      |        5       |   1   |       |
+| bendercraft ru                     |      5      |        5       |   4   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
 | crazyminecraft net                 |      2      |        1       |   1   |       |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
@@ -41,11 +42,18 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | miinecraft org                     |      5      |        5       |   3   |       |
 | minecraft minecraftstores com      |      5      |        5       |   1   |       |
 | minecraft12 com                    |      5      |        1       |   5   |       |
+| minecraft70 ru                     |      4      |        5       |   4   |       |
+| minecraft73 ru                     |      2      |        5       |   5   |       |
+| minecraft-files ru                 |      5      |        5       |   4   |       |
 | minecraft-forum net                |      3      |        5       |   3   |       |
+| minecraft-home ru                  |      2      |        5       |   5   |       |
 | minecraft-inside ru                |      1      |        5       |   3   |       |
+| minecraft-jobs ru                  |      1      |        5       |   5   |       |
+| minecraft-mc ru                    |      2      |        5       |   4   |       |
 | minecraft-modding de               |      5      |        5       |   1   |       |
 | minecraft-mods org                 |      1      |        5       |   5   |       |
 | minecraft-mods ru                  |      5      |        5       |   3   |       |
+| minecraft-soul ru                  |      1      |        1       |   5   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
 | minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
@@ -63,6 +71,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmods18 net                |      1      |        5       |   1   |       |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
 | minecraftmore com                  |      1      |        5       |   1   |       |
+| minecraftnow ru                    |      4      |        5       |   4   |       |
+| minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
@@ -74,6 +84,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minhvietltd com                    |      5      |        5       |   1   |       |
 | mod-for-minecraft net              |      3      |        5       |   5   |       |
 | mod-minecraft net                  |      3      |        5       |   2   |       |
+| modscraft ru                       |      4      |        5       |   4   |       |
 | modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
@@ -83,7 +94,9 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
 | skydaz com                         |      3      |        3       |   1   |       |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
+| space-games ucoz ru                |      5      |        5       |   4   |       |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
+| terrariaw ru                       |      4      |        5       |   5   |       |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
