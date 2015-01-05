@@ -92,4 +92,4 @@ I don't know how to rate these sites. Help?
 ===========================================
 |                                    | Advertising | Redistribution | Lying | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| gamespot com                       |             |                |       | I wasn't able to find any topics there, help? |
+| gamespot com                       |             |                |       |       |
