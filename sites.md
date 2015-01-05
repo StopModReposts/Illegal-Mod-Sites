@@ -47,7 +47,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-mods org                 |      1      |        5       |   5   |       |
 | minecraft-mods ru                  |      5      |        5       |   3   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
-| minecraftdl com                    |      5      |        1       |   3   | **Malware alert!** |
+| minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
 | minecrafteo com                    |      2      |        1       |   3   |       |
 | minecraftexe com                   |      5      |        1       |   5   |       |
