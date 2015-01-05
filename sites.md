@@ -1,7 +1,7 @@
 Illegal Sites
 =============
 
-The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.**
+The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.** Bypassing AdFly links count as redistribution.
 
 Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 =============================================================
@@ -59,7 +59,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftings com                  |      2      |        1       |   3   |       |
 | minecraftmine org                  |      5      |        5       |   5   |       |
 | minecraftmodding net               |      2      |        5       |   3   |       |
-| minecraftmods com                  |      5      |        5       |   1   |       |
+| minecraftmods com                  |      3      |        5       |   1   |       |
 | minecraftmods18 net                |      1      |        5       |   1   |       |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
 | minecraftmore com                  |      1      |        5       |   1   |       |
