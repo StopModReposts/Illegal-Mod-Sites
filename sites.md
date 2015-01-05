@@ -1,80 +1,95 @@
 Illegal Sites
 =============
 
-The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.**
+The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.** Bypassing AdFly links count as redistribution.
 
-- http:// www 9minecraft net/
-- http:// 5minecraft net/
-- http:// mod-minecraft net/
-- http:// www modsminecraft org/
-- http:// www skydaz com/
-- http:// www minecraftmods com/
-- http:// www minecraftexe com/
-- http:// minecraft-forum net/
-- http:// www minecrafteando com/
-- http:// www 6minecraft net/
-- http:// www comoinstalarmodsminecraft com br/
-- http:// www minecraftdl com/
-- http:// www minecraftmods18 net/
-- http:// www minecraft20 com/
-- http:// minecrafttime com/
-- http:// www yourminecraft com/
-- http:// file-minecraft com/
-- http:// 6minecraftmods net/
-- http:// www minecraftdata com/
-- http:// www minecraftspot net/
-- http:// 9minecraftmods net/
-- http:// azminecraft info/
-- http:// www 8minecraft org/
-- http:// 9minecraftaz blogspot com/
-- http:// minecraft-inside ru/
-- http:// www miinecraft org/
-- http:// mcmoddatabase com/
-- http:// www modsminecraft com/
-- http:// minecraft-mods ru/
-- http:// www minecraftxl com/
-- http:// www minecraftmore com/
-- http:// 9craft org/
-- http:// minhvietltd com/
-- http:// mineturk com/
-- http:// minecraft minecraftstores com/
-- http:// minecraftgood com/
-- http:// minecraftexpert ru/
-- https:// www modgician com/
-- http:// www minecraftmine org/
-- http:// www games-utilities com/
-- http:// www 8minecraft com/
-- http:// www swiftlygames com/ 
-- http:// mod-for-minecraft net/
-- http:// www 2minecraft net/
-- http:// minecraftpw ru/
-- http:// freedownloadminecraft com/
-- http:// www minecrafthd com/
-- http:// download-minecraft-mod com/
-- http:// forminecrafters ru/
-- http:// gameminecraft ru/
-- http:// wc3-maps ru/
-- http:// wpminecraft blogspot com/
-- http:// wpminecraft blogspot com au/
-- http:// 9mobo com/
-- http:// all-mod-for-minecraft blogspot com/
-- http:// www 123minecraft com/
-- http:// minecraftmods9 blogspot com/
-- http:// en softonic com/
-- http:// 3minecraft com/
-- http:// simplesminecraft blogspot com br/
-- http:// gearcraft us/
-- http:// crazyminecraft net/
-- http:// minecraftvip com/
-- http:// minecraftmodding net/
+Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
+=============================================================
+|                                    | Advertising | Redistribution | Lying | Notes |
+| ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
+| 123minecraft com                   |      2      |        5       |   5   |       |
+| 2minecraft net                     |      2      |        5       |   1   |       |
+| 3minecraft com                     |      3      |        1       |   3   |       |
+| 5minecraft net                     |      3      |        5       |   1   |       |
+| 6minecraft net                     |      3      |        1       |   3   |       |
+| 6minecraftmods net                 |      1      |        5       |   1   |       |
+| 7minecraft net                     |      2      |        5       |   3   |       |
+| 8minecraft com                     |      5      |        5       |   1   |       |
+| 8minecraft org                     |      5      |        5       |   1   |       |
+| 9craft org                         |      1      |        5       |   5   |       |
+| 9minecraft net                     |      3      |        5       |   1   |       |
+| 9minecraftaz blogspot com          |      3      |        5       |   3   |       |
+| 9minecraftmods net                 |      2      |        5       |   3   |       |
+| 9minecrafts com                    |      1      |        5       |   3   |       |
+| 9minecraftscom blogspot com        |      1      |        5       |   3   |       |
+| 9mobo com                          |      3      |        5       |   3   |       |
+| all-mod-for-minecraft blogspot com |      1      |        5       |   3   |       |
+| azminecraft info                   |      3      |        5       |   1   |       |
+| comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
+| crazyminecraft net                 |      2      |        1       |   1   |       |
+| download-minecraft-mod com         |      3      |        5       |   4   |       |
+| file-minecraft com                 |      3      |        5       |   5   |       |
+| forminecrafters ru                 |      2      |        5       |   5   |       |
+| fr-minecraft net                   |      2      |        5       |   1   |       |
+| freedownloadminecraft com          |      5      |        5       |   3   |       |
+| gameminecraft ru                   |      3      |        5       |   5   |       |
+| games-utilities com                |      2      |        1       |   3   |       |
+| gearcraft us                       |      2      |        5       |   3   |       |
+| hubicraft com                      |      1      |        5       |   3   |       |
+| mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
+| mcmodkit com                       |      5      |        5       |   1   |       |
+| miinecraft org                     |      5      |        5       |   3   |       |
+| minecraft minecraftstores com      |      5      |        5       |   1   |       |
+| minecraft12 com                    |      5      |        1       |   5   |       |
+| minecraft-forum net                |      3      |        5       |   3   |       |
+| minecraft-inside ru                |      1      |        5       |   3   |       |
+| minecraft-modding de               |      5      |        5       |   1   |       |
+| minecraft-mods org                 |      1      |        5       |   5   |       |
+| minecraft-mods ru                  |      5      |        5       |   3   |       |
+| minecraftdata com                  |      1      |        5       |   1   |       |
+| minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
+| minecrafteando com                 |      3      |        5       |   3   |       |
+| minecrafteo com                    |      2      |        1       |   3   |       |
+| minecraftexe com                   |      5      |        1       |   5   |       |
+| minecraftexpert ru                 |      1      |        5       |   3   |       |
+| minecraftgood com                  |      5      |        5       |   5   |       |
+| minecrafthd com                    |      3      |        5       |   1   |       |
+| minecraftiamodpack blogspot com    |      5      |        5       |   5   |       |
+| minecraftiamods com                |      5      |        5       |   1   |       |
+| minecraftings com                  |      2      |        1       |   3   |       |
+| minecraftmine org                  |      5      |        5       |   5   |       |
+| minecraftmodding net               |      2      |        5       |   3   |       |
+| minecraftmods com                  |      3      |        5       |   1   |       |
+| minecraftmods18 net                |      1      |        5       |   1   |       |
+| minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
+| minecraftmore com                  |      1      |        5       |   1   |       |
+| minecraftpw ru                     |      1      |        5       |   4   |       |
+| minecraftspace com                 |      3      |        1       |   3   |       |
+| minecraftspot net                  |      3      |        5       |   3   |       |
+| minecrafttime com                  |      3      |        5       |   3   |       |
+| minecraftvip com                   |      2      |        5       |   1   |       |
+| minecraftxl com                    |      3      |        5       |   3   |       |
+| minedown com                       |      2      |        1       |   5   |       |
+| mineturk com                       |      5      |        5       |   1   |       |
+| minhvietltd com                    |      5      |        5       |   1   |       |
+| mod-for-minecraft net              |      3      |        5       |   5   |       |
+| mod-minecraft net                  |      3      |        5       |   2   |       |
+| modsforminecraft com               |      3      |        1       |   3   |       |
+| modsminecraft com                  |      2      |        1       |   5   |       |
+| modsminecraft org                  |      1      |        5       |   1   |       |
+| mody4mine ru                       |      3      |        5       |   1   |       |
+| ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
+| ru-minecraft ru                    |      5      |        5       |   1   |       |
+| simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
+| skydaz com                         |      3      |        3       |   1   |       |
+| softonic com                       |      5      |        5       |   5   | **Malware alert!** |
+| swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
+| wc3-maps ru                        |      5      |        5       |   1   |       |
+| wpminecraft blogspot com           |      1      |        5       |   5   |       |
+| yourminecraft com                  |      3      |        5       |   3   |       |
 
-Rated sites
-===========
-|                               | Advertising | Redistribution | Lying |
-| ----------------------------- |:-----------:|:--------------:|:-----:|
-| minedown.com                  |      2      |        1       |   5   |
-| modsminecraft.com             |      2      |        1       |   5   |
-| minecraft-modding.de          |      5      |        5       |   1   |
-| minecraft-mods.org            |      1      |        5       |   5   |
-| minecraft12.com               |      5      |        1       |   5   |
-| minecraftiamods.com           |      5      |        5       |   1   |
+I don't know how to rate these sites. Help?
+===========================================
+|                                    | Advertising | Redistribution | Lying | Notes |
+| ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
+| gamespot com                       |             |                |       |       |
