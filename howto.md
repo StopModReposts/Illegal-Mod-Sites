@@ -6,9 +6,7 @@ The more points, the more ads the site has...
 
 ## Redistribution
 If redistribution is 1, the site doesn't redistribute the mod (e.g. Links directly to the original download).  
-If redistribution is 3, the site doesn't actually redistribute the mod (e.g. skydaz/installers).<!---
-Help me describe
--->  
+If redistribution is 3, the site doesn't actually redistribute the mod (e.g. skydaz/installers).  
 If redistribution is 5, the site is redistributing the mod.  
 Bypassing AdFly links count as redistribution.
 
