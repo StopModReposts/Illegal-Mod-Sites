@@ -2,7 +2,7 @@ How To Read The Rating System
 =============================
 
 ## Advertising
-The more points, the more ads the site has
+The more points, the more ads the site has.  
 AdFly links automatically give 5.
 
 ## Redistribution
