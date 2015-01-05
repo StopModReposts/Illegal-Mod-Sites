@@ -81,7 +81,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
-| skydaz com                         |      3      |        5       |   1   |       |
+| skydaz com                         |      3      |        3       |   1   |       |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
