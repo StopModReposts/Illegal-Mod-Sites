@@ -93,6 +93,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | modsminecraft org                  |      1      |        5       |   1   |       |
 | mody4mine ru                       |      3      |        5       |   1   |       |
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
+| onlineplayminecraft com            |      5      |        5       |   3   |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
 | skydaz com                         |      3      |        3       |   1   |       |
