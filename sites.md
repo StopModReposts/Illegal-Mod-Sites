@@ -30,6 +30,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | bendercraft ru                     |      5      |        5       |   4   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
 | crazyminecraft net                 |      2      |        1       |   1   |       |
+| dlminecraft net                    |      3      |        5       |   1   |       |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
 | forminecrafters ru                 |      2      |        5       |   5   |       |
