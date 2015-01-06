@@ -74,6 +74,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmods18 net                |      1      |        5       |   1   |       |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
 | minecraftmore com                  |      1      |        5       |   1   |       |
+| minecraftmodsupdate com            |      5      |        1       |   3   |       |
 | minecraftnow ru                    |      4      |        5       |   4   |       |
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
