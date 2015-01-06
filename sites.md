@@ -14,7 +14,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 4minecraft org                     |      5      |        5       |   1   |       |
 | 5minecraft net                     |      3      |        5       |   1   |       |
 | 6minecraft net                     |      3      |        1       |   3   |       |
-| 6minecraftmods net                 |      1      |        5       |   1   |       |
+| 6minecraftmods net                 |      5      |        5       |   1   |       |
 | 7minecraft net                     |      2      |        5       |   3   |       |
 | 8minecraft com                     |      5      |        5       |   1   |       |
 | 8minecraft org                     |      5      |        5       |   1   |       |
