@@ -81,7 +81,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftspot net                  |      3      |        5       |   3   |       |
 | minecrafttime com                  |      3      |        5       |   3   |       |
 | minecraftvip com                   |      2      |        5       |   1   |       |
-| minecraftxl com                    |      3      |        5       |   3   |       |
+| minecraftxl com                    |      5      |        5       |   3   |       |
 | minedown com                       |      2      |        1       |   5   |       |
 | mineturk com                       |      5      |        5       |   1   |       |
 | minhvietltd com                    |      5      |        5       |   1   |       |
