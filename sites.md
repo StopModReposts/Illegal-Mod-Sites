@@ -78,6 +78,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftnow ru                    |      4      |        5       |   4   |       |
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
+| minecraftsix com                   |      3      |        1       |   1   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
 | minecrafttime com                  |      3      |        5       |   3   |       |
