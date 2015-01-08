@@ -11,7 +11,7 @@ If redistribution is 3, the site doesn't actually redistribute the mod (e.g. sky
 If redistribution is 5, the site is redistributing the mod.  
 Bypassing AdFly links count as redistribution.
 
-##Lying
+## Lying
 Whether the site is lying or not. Stuff taken into account are:
 + credit to original mod author
 + outdated mod versions

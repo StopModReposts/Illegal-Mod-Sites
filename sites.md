@@ -9,10 +9,12 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
+| 2minecraft org                     |      1      |        5       |   4   |       |
 | 3minecraft com                     |      3      |        1       |   3   |       |
+| 4minecraft org                     |      5      |        5       |   1   |       |
 | 5minecraft net                     |      3      |        5       |   1   |       |
 | 6minecraft net                     |      3      |        1       |   3   |       |
-| 6minecraftmods net                 |      1      |        5       |   1   |       |
+| 6minecraftmods net                 |      5      |        5       |   1   |       |
 | 7minecraft net                     |      2      |        5       |   3   |       |
 | 8minecraft com                     |      5      |        5       |   1   |       |
 | 8minecraft org                     |      5      |        5       |   1   |       |
@@ -28,6 +30,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | bendercraft ru                     |      5      |        5       |   4   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
 | crazyminecraft net                 |      2      |        1       |   1   |       |
+| dlminecraft net                    |      3      |        5       |   1   |       |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
 | forminecrafters ru                 |      2      |        5       |   5   |       |
@@ -71,14 +74,16 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmods18 net                |      1      |        5       |   1   |       |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
 | minecraftmore com                  |      1      |        5       |   1   |       |
+| minecraftmodsupdate com            |      5      |        1       |   3   |       |
 | minecraftnow ru                    |      4      |        5       |   4   |       |
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
+| minecraftsix com                   |      3      |        1       |   1   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
 | minecrafttime com                  |      3      |        5       |   3   |       |
 | minecraftvip com                   |      2      |        5       |   1   |       |
-| minecraftxl com                    |      3      |        5       |   3   |       |
+| minecraftxl com                    |      5      |        5       |   3   |       |
 | minedown com                       |      2      |        1       |   5   |       |
 | mineturk com                       |      5      |        5       |   1   |       |
 | minhvietltd com                    |      5      |        5       |   1   |       |
@@ -90,6 +95,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | modsminecraft org                  |      1      |        5       |   1   |       |
 | mody4mine ru                       |      3      |        5       |   1   |       |
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
+| onlineplayminecraft com            |      5      |        5       |   3   |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
 | skydaz com                         |      3      |        3       |   1   |       |
@@ -106,3 +112,4 @@ I don't know how to rate these sites. Help?
 |                                    | Advertising | Redistribution | Lying | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | gamespot com                       |             |                |       |       |
+| geimin co uk                       |             |                |       |       |
