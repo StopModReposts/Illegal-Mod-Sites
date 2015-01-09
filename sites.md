@@ -5,7 +5,7 @@ The following is a list of known sites illegally distributing several mods. The 
 
 Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 =============================================================
-|                                    | Advertising | Redistribution | Lying | Notes |
+|                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
