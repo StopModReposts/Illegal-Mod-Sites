@@ -41,6 +41,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
+| metrominecraft com                 |      5      |        1       |   1   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
 | minecraft minecraftstores com      |      5      |        5       |   1   |       |
 | minecraft12 com                    |      5      |        1       |   5   |       |
@@ -104,7 +105,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
-| metrominecraft com                 |      5      |        1       |   1   |       |
 
 I don't know how to rate these sites. Help?
 ===========================================
