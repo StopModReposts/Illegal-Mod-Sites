@@ -106,7 +106,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 
 I don't know how to rate these sites. Help?
 ===========================================
-|                                    | Advertising | Redistribution | Lying | Notes |
+|                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | gamespot com                       |             |                |       |       |
 | geimin co uk                       |             |                |       |       |
