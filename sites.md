@@ -5,7 +5,7 @@ The following is a list of known sites illegally distributing several mods. The 
 
 Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 =============================================================
-|                                    | Advertising | Redistribution | Lying | Notes |
+|                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
@@ -29,7 +29,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | azminecraft info                   |      3      |        5       |   1   |       |
 | bendercraft ru                     |      5      |        5       |   4   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
-| crazyminecraft net                 |      2      |        1       |   1   |       |
 | dlminecraft net                    |      3      |        5       |   1   |       |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
@@ -42,6 +41,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
+| metrominecraft com                 |      5      |        1       |   1   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
 | minecraft minecraftstores com      |      5      |        5       |   1   |       |
 | minecraft12 com                    |      5      |        1       |   5   |       |
@@ -78,7 +78,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftnow ru                    |      4      |        5       |   4   |       |
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
-| minecraftsix com                   |      3      |        1       |   1   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
 | minecrafttime com                  |      3      |        5       |   3   |       |
@@ -109,7 +108,9 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 
 I don't know how to rate these sites. Help?
 ===========================================
-|                                    | Advertising | Redistribution | Lying | Notes |
+|                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | gamespot com                       |             |                |       |       |
 | geimin co uk                       |             |                |       |       |
+| crazyminecraft net                 |      2      |        1       |   1   |       |
+| minecraftsix com                   |      3      |        1       |   1   |       |
