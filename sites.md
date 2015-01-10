@@ -112,5 +112,3 @@ I don't know how to rate these sites. Help?
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | gamespot com                       |             |                |       |       |
 | geimin co uk                       |             |                |       |       |
-| crazyminecraft net                 |      2      |        1       |   1   |       |
-| minecraftsix com                   |      3      |        1       |   1   |       |
