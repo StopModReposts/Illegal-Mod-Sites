@@ -60,7 +60,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdata com                  |      1      |        5       |   1   |       |
 | minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
-| minecrafteo com                    |      2      |        1       |   3   |       |
 | minecraftexe com                   |      5      |        1       |   5   |       |
 | minecraftexpert ru                 |      1      |        5       |   3   |       |
 | minecraftgood com                  |      5      |        5       |   5   |       |
@@ -89,7 +88,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mod-for-minecraft net              |      3      |        5       |   5   |       |
 | mod-minecraft net                  |      3      |        5       |   2   |       |
 | modscraft ru                       |      4      |        5       |   4   |       |
-| modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
 | mody4mine ru                       |      3      |        5       |   1   |       |
