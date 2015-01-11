@@ -93,7 +93,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | onlineplayminecraft com            |      5      |        5       |   3   |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
-| skydaz com                         |      3      |        3       |   1   |       |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
 | space-games ucoz ru                |      5      |        5       |   4   |       |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
@@ -108,3 +107,4 @@ I don't know how to rate these sites. Help?
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | gamespot com                       |             |                |       |       |
 | geimin co uk                       |             |                |       |       |
+| skydaz com                         |             |                |       |   Not really an illegal site, will be added back in *if* quite a number of people want it back in.    |
