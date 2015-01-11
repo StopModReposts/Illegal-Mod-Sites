@@ -10,7 +10,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
 | 2minecraft org                     |      1      |        5       |   4   |       |
-| 3minecraft com                     |      3      |        1       |   3   |       |
 | 4minecraft org                     |      5      |        5       |   1   |       |
 | 5minecraft net                     |      3      |        5       |   1   |       |
 | 6minecraft net                     |      3      |        1       |   3   |       |
@@ -37,7 +36,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
-| gearcraft us                       |      2      |        1       |   3   |       |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
