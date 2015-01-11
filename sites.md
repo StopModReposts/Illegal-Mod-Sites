@@ -37,7 +37,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
-| gearcraft us                       |      2      |        5       |   3   |       |
+| gearcraft us                       |      2      |        1       |   3   |       |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
