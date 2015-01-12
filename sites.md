@@ -107,4 +107,3 @@ I don't know how to rate these sites. Help?
 |                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | geimin co uk                       |             |                |       |       |
-| skydaz com                         |             |                |       |   http://strawpoll.me/3382994/    |
