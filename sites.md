@@ -1,3 +1,5 @@
+//**DELETE ME– Fixed the no rating section. All three changes added at the end –DELETE ME**//
+
 Illegal Sites
 =============
 
@@ -100,11 +102,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
+| gamespot com                       |      N/A    |        5       |   5   |   This only applies to gamespot user mahung1 and/or other unlisted users (No advertising rating cause of the problem being a 3rd party user and not the site it self)    |
+| skydaz com                         |      2      |        5       |   3   |   Redistributes in the form of installers that break and/or prevent modification of the mod folder    |
+| geimin co uk                       |      2      |        N/A     |   N/A |   No evidence of anything minecraft mod realated, therefore no ratings   |
 
-I don't know how to rate these sites. Help?
-===========================================
-|                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
-| ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| gamespot com                       |             |                |       |       |
-| geimin co uk                       |             |                |       |       |
-| skydaz com                         |             |                |       |   Not really an illegal site, will be added back in *if* quite a number of people want it back in.    |
