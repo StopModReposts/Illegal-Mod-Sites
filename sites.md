@@ -36,6 +36,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
+| gamespot com                       |      1      |        5       |   5   |       |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
@@ -100,7 +101,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
-| gamespot com                       |      1    |        5       |   5   |       |
 
 I don't know how to rate these sites. Help?
 ===========================================
