@@ -10,7 +10,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
 | 2minecraft org                     |      1      |        5       |   4   |       |
-| 3minecraft com                     |      3      |        1       |   3   |       |
 | 4minecraft org                     |      5      |        5       |   1   |       |
 | 5minecraft net                     |      3      |        5       |   1   |       |
 | 6minecraft net                     |      3      |        1       |   3   |       |
@@ -37,10 +36,11 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
-| gearcraft us                       |      2      |        5       |   3   |       |
+| gamespot com                       |      1      |        5       |   5   |       |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
+| mcpatcher net                      |      1      |        5       |   5   | **Malware alert!** |
 | metrominecraft com                 |      5      |        1       |   1   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
 | minecraft minecraftstores com      |      5      |        5       |   1   |       |
@@ -60,7 +60,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdata com                  |      1      |        5       |   1   |       |
 | minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
-| minecrafteo com                    |      2      |        1       |   3   |       |
 | minecraftexe com                   |      5      |        1       |   5   |       |
 | minecraftexpert ru                 |      1      |        5       |   3   |       |
 | minecraftgood com                  |      5      |        5       |   5   |       |
@@ -89,7 +88,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mod-for-minecraft net              |      3      |        5       |   5   |       |
 | mod-minecraft net                  |      3      |        5       |   2   |       |
 | modscraft ru                       |      4      |        5       |   4   |       |
-| modsforminecraft com               |      3      |        1       |   3   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
 | mody4mine ru                       |      3      |        5       |   1   |       |
@@ -97,7 +95,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | onlineplayminecraft com            |      5      |        5       |   3   |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
-| skydaz com                         |      3      |        3       |   1   |       |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
 | space-games ucoz ru                |      5      |        5       |   4   |       |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads. |
@@ -110,7 +107,4 @@ I don't know how to rate these sites. Help?
 ===========================================
 |                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| gamespot com                       |             |                |       |       |
 | geimin co uk                       |             |                |       |       |
-| crazyminecraft net                 |      2      |        1       |   1   |       |
-| minecraftsix com                   |      3      |        1       |   1   |       |
