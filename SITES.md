@@ -40,6 +40,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | hubicraft com                      |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
+| mcpatcher net                      |      1      |        5       |   5   | **Malware alert!** |
 | metrominecraft com                 |      5      |        1       |   1   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
 | minecraft minecraftstores com      |      5      |        5       |   1   |       |
