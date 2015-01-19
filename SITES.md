@@ -41,15 +41,19 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | downloadminecraft altervista org   |      5      |        1       |   5   |       |
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
+| eminecraft net                     |      1      |        5       |   5   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
 | forminecrafters ru                 |      2      |        5       |   5   |       |
 | fr-minecraft net                   |      2      |        5       |   1   |       |
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
+| freeminecraftmods com              |      3      |        5       |   4   |       |
 | galaxythecreative blogspot no      |      5      |        5       |   2   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
 | gamespot com                       |      1      |        5       |   5   |       |
+| gamewise co                        |      3      |        1       |   5   |       |
 | getmod ru                          |      3      |        5       |   2   |       |
+| giga de                            |      3      |        5       |   5   | **Malware alert!** |
 | gigminecraft net                   |      2      |        5       |   3   |       |
 | goldmods-minecraft ru              |      1      |        5       |   5   | **Malware alert!** |
 | hubicraft com                      |      1      |        5       |   3   |       |
