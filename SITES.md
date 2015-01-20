@@ -119,6 +119,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
 | minecraftq ru                      |      3      |        5       |   5   | **Malware alert!** |
+| minecraftsix com                   |      5      |        1       |   1   |       |
 | minecraftsone blogspot no          |      1      |        5       |   3   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
@@ -160,7 +161,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ru-m org                           |      3      |        5       |   3   |       |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
-| sixminecraft                       |      5      |        1       |   1   |       |
 | skachat-mody-minecraft ru          |      1      |        5       |   3   |       |
 | soft32 com                         |      2      |        5       |   5   | **Malware alert!** |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
