@@ -69,6 +69,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftstores com                |      5      |        5       |   1   |       |
 | minecraft-all ru                   |      3      |        5       |   4   |       |
 | minecraft-area ru                  |      3      |        5       |   3   |       |
+| minecraft-downloads com            |      2      |        5       |   3   |       |
 | minecraft-files ru                 |      5      |        5       |   4   |       |
 | minecraft-forum net                |      3      |        5       |   3   |       |
 | minecraft-home ru                  |      2      |        5       |   5   |       |
