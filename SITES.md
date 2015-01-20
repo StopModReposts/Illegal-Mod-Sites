@@ -160,6 +160,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ru-m org                           |      3      |        5       |   3   |       |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
 | simplesminecraft blogspot com br   |      1      |        5       |   3   |       |
+| sixminecraft                       |      5      |        1       |   1   |       |
 | skachat-mody-minecraft ru          |      1      |        5       |   3   |       |
 | soft32 com                         |      2      |        5       |   5   | **Malware alert!** |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
