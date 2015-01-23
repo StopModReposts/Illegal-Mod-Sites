@@ -119,6 +119,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
 | minecraftq ru                      |      3      |        5       |   5   | **Malware alert!** |
+| minecraftsemlimites com            |      3      |        5       |   1   |       |
 | minecraftsix com                   |      5      |        1       |   1   |       |
 | minecraftsone blogspot no          |      1      |        5       |   3   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
@@ -156,6 +157,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | pandoriacraft ru                   |      1      |        5       |   3   |       |
 | planet-m net                       |      5      |        5       |   3   |       |
 | planet-minecraft ru                |      5      |        5       |   3   |       |
+| pocketedition com br               |      3      |        5       |   1   | Cracked MCPE |
 | proud-portal ru                    |      3      |        5       |   3   |       |
 | rinoyundaapk blogspot no           |      1      |        5       |   3   |       |
 | ru-m org                           |      3      |        5       |   3   |       |
