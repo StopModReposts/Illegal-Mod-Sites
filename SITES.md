@@ -175,6 +175,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
 | mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
+| download parcraftmc com            |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks without permission |
 
 I don't know how to rate these sites. Help?
 ===========================================
