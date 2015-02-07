@@ -38,6 +38,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | craftzon ru                        |      4      |        5       |   5   |       |
 | descargarminecraftgratis net       |      5      |        5       |   3   |       |
 | dlminecraft net                    |      3      |        5       |   1   |       |
+| download parcraftmc com            |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks without permission |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | downloadminecraft altervista org   |      5      |        1       |   5   |       |
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
@@ -60,6 +61,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | jojomine com                       |      2      |        4       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
+| mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
 | mcpatcher net                      |      1      |        5       |   5   | **Malware alert!** |
 | mcraft-life ru                     |      2      |        5       |   5   |       |
 | megamods ru                        |      3      |        5       |   3   |       |
@@ -174,8 +176,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
-| mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
-| download parcraftmc com            |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks without permission |
 
 I don't know how to rate these sites. Help?
 ===========================================
