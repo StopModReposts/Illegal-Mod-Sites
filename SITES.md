@@ -34,6 +34,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | bendercraft ru                     |      5      |        5       |   4   |       |
 | bigminecraft ru                    |      3      |        5       |   3   |       |
 | c-raft ru                          |      1      |        5       |   5   |       |
+| clubminecraftbr blogspot com       |      1      |        5       |   3   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
 | craftzon ru                        |      4      |        5       |   5   |       |
 | descargarminecraftgratis net       |      5      |        5       |   3   |       |
@@ -170,6 +171,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | soft32 com                         |      2      |        5       |   5   | **Malware alert!** |
 | softonic com                       |      5      |        5       |   5   | **Malware alert!** |
 | space-games ucoz ru                |      5      |        5       |   4   |       |
+| stoninho blogspot com br           |      1      |        5       |   3   |       |
 | sumycraft ru                       |      2      |        5       |   5   |       |
 | swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads  |
 | terrariaw ru                       |      4      |        5       |   5   |       |
