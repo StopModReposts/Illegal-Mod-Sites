@@ -133,6 +133,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minedown com                       |      2      |        1       |   5   |       |
 | minedown com                       |      5      |        1       |   2   |       |
 | minefan ru                         |      2      |        5       |   5   | **Malware alert!** |
+| mineplanet net                     |      3      |        5       |   5   |       |
 | mineturk com                       |      5      |        5       |   1   |       |
 | minhvietltd com                    |      5      |        5       |   1   |       |
 | mir-crafta ru                      |      4      |        5       |   5   |       |
