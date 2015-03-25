@@ -46,6 +46,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
 | eminecraft net                     |      1      |        5       |   5   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
+| for-minecraft com                  |      3      |        5       |   3   |       |
 | forminecrafters ru                 |      2      |        5       |   5   |       |
 | fr-minecraft net                   |      2      |        5       |   1   |       |
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
@@ -162,6 +163,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | pandoriacraft ru                   |      1      |        5       |   3   |       |
 | planet-m net                       |      5      |        5       |   3   |       |
 | planet-minecraft ru                |      5      |        5       |   3   |       |
+| planetmods net                     |      3      |        5       |   3   |       |
 | proud-portal ru                    |      3      |        5       |   3   |       |
 | rinoyundaapk blogspot no           |      1      |        5       |   3   |       |
 | ru-m org                           |      3      |        5       |   3   |       |
