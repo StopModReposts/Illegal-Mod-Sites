@@ -4,3 +4,6 @@
 - An [Opera plugin](https://addons.opera.com/en/extensions/details/stop-mod-reposts/) which warns the user whenever he/she enters an illegal mod redistribution site.
 
 The plugins are being maintained by *bilde2910*.
+
+Whenever the user visits an illegal site, the following screen will show up:
+![screenshot](https://raw.githubusercontent.com/VictiniX888/Illegal-Mod-Sites/master/assets/plugin.png)
