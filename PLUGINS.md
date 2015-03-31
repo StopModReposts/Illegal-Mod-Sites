@@ -6,4 +6,4 @@
 The plugins are being maintained by *bilde2910*.
 
 Whenever the user visits an illegal site, the following screen will show up:
-![screenshot](https://raw.githubusercontent.com/VictiniX888/Illegal-Mod-Sites/master/assets/plugin.png)
+![screenshot](https://raw.githubusercontent.com/VictiniX888/Illegal-Mod-Sites/master/assets/plugin/SMR-chrome.png)
