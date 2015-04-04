@@ -3,7 +3,7 @@ How To Read The Rating System
 
 ## Advertising
 The more points, the more ads the site has.  
-AdFly links automatically give 5.
+AdFly/other wait 5 seconds to continue links automatically give 5.
 
 ## Redistribution
 If redistribution is 1, the site doesn't redistribute the mod (e.g. Links directly to the original download).  
