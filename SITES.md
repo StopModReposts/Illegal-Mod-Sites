@@ -51,6 +51,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | fr-minecraft net                   |      2      |        5       |   1   |       |
 | freedownloadminecraft com          |      5      |        5       |   3   |       |
 | freeminecraftmods com              |      3      |        5       |   4   |       |
+| fulllistofminecraftmods cf         |      5      |        1       |   1   |       |
 | galaxythecreative blogspot no      |      5      |        5       |   2   |       |
 | gameminecraft ru                   |      3      |        5       |   5   |       |
 | games-utilities com                |      2      |        1       |   3   |       |
