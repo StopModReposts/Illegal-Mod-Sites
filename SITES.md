@@ -66,7 +66,9 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
 | mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
-| mcpatcher net                      |      1      |        5       |   5   | **Malware alert!** |
+| mcpatcher net                      |      1      |        1       |   5   | **Malware alert!** |
+| mcpehub com                        |      5      |        5       |   5   |       |
+| mcpemods net                       |      1      |        5       |   1   |       |
 | mcraft-life ru                     |      2      |        5       |   5   |       |
 | megamods ru                        |      3      |        5       |   3   |       |
 | metrominecraft com                 |      5      |        1       |   1   |       |
