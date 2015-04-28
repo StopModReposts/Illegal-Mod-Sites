@@ -126,7 +126,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftpw ru                     |      1      |        5       |   4   |       |
 | minecraftq ru                      |      3      |        5       |   5   | **Malware alert!** |
 | minecraftsemlimites com            |      3      |        5       |   1   |       |
-| minecraftsix com                   |      5      |        1       |   1   |       |
 | minecraftsone blogspot no          |      1      |        5       |   3   |       |
 | minecraftspace com                 |      3      |        1       |   3   |       |
 | minecraftspot net                  |      3      |        5       |   3   |       |
