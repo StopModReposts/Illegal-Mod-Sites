@@ -110,8 +110,10 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecrafthd com                    |      3      |        5       |   1   |       |
 | minecraftiamodpack blogspot com    |      5      |        5       |   5   |       |
 | minecraftiamods com                |      5      |        5       |   1   |       |
+| minecraftjardl.com                 |      3      |        5       |   5   | **Malware alert!** |
 | minecraftmine org                  |      5      |        5       |   5   |       |
 | minecraftmodding net               |      2      |        5       |   3   |       |
+| minecraftmoddl com                 |      3      |        5       |   5   | **Malware alert!** |
 | minecraftmodlari com               |      4      |        5       |   3   |       |
 | minecraftmods biz                  |      5      |        1       |   2   |       |
 | minecraftmods com                  |      3      |        5       |   1   |       |
