@@ -61,6 +61,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | giga de                            |      3      |        5       |   5   | **Malware alert!** |
 | gigminecraft net                   |      2      |        5       |   3   |       |
 | goldmods-minecraft ru              |      1      |        5       |   5   | **Malware alert!** |
+| hackphoenix com                    |      5      |        5       |   5   | Also distributes cracked launchers, and Mojang's intellectual property |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | jojomine com                       |      2      |        4       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
