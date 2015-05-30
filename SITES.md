@@ -98,7 +98,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft70 ru                     |      4      |        5       |   4   |       |
 | minecraft73 ru                     |      2      |        5       |   5   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
-| minecraftdl com                    |      5      |        5       |   5   | **Malware alert!** |
+| minecraftdl com                    |      5      |        1       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
 | minecrafter-mod ru                 |      3      |        5       |   3   |       |
 | minecraftes com                    |      5      |        1       |   1   |       |
@@ -119,6 +119,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmodlari com               |      4      |        5       |   3   |       |
 | minecraftmods biz                  |      5      |        1       |   2   |       |
 | minecraftmods com                  |      3      |        5       |   1   |       |
+| minecraftmods com br               |      5      |        1       |   1   |       |
 | minecraftmods izben com            |      2      |        5       |   1   |       |
 | minecraftmods18 net                |      1      |        5       |   1   |       |
 | minecraftmods9 blogspot com        |      5      |        5       |   3   |       |
