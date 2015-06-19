@@ -11,6 +11,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 1minecraftsource net               |      3      |        5       |   3   |       |
 | 1st-minecraft ru                   |      2      |        5       |   3   |       |
+| 24mine org                         |      3      |        5       |   5   |       |
 | 2minecraft net                     |      2      |        5       |   1   |       |
 | 2minecraft org                     |      1      |        5       |   4   |       |
 | 2майнкрафтер рф                    |      5      |        5       |   3   |       |
@@ -64,16 +65,20 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | hackphoenix com                    |      5      |        5       |   5   | Also distributes cracked launchers, and Mojang's intellectual property |
 | hubicraft com                      |      1      |        5       |   3   |       |
 | jojomine com                       |      2      |        4       |   3   |       |
+| keepergames ru                     |      3      |        5       |   4   |       |
+| kminecraft ru                      |      2      |        5       |   5   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
 | mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
 | mcpatcher net                      |      1      |        1       |   5   | **Malware alert!** |
 | mcpemods net                       |      1      |        5       |   1   |       |
+| mcraft-info ru                     |      1      |        5       |   4   |       |
 | mcraft-life ru                     |      2      |        5       |   5   |       |
 | megamods ru                        |      3      |        5       |   3   |       |
 | metrominecraft com                 |      5      |        1       |   1   |       |
 | mi-mundo-minecraft blogspot no     |      5      |        5       |   4   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
+| mine-craft ws                      |      1      |        5       |   3   |       |
 | minecraftstores com                |      5      |        5       |   1   |       |
 | minecraft-all ru                   |      3      |        5       |   4   |       |
 | minecraft-area ru                  |      3      |        5       |   3   |       |
@@ -127,6 +132,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmore com                  |      1      |        5       |   1   |       |
 | minecraftnodus do am               |      2      |        5       |   4   |       |
 | minecraftnow ru                    |      4      |        5       |   4   |       |
+| minecraftonly ru                   |      1      |        5       |   3   |       |
 | minecraftplanet ru                 |      1      |        5       |   4   |       |
 | minecraftpw ru                     |      1      |        5       |   4   |       |
 | minecraftq ru                      |      3      |        5       |   5   | **Malware alert!** |
@@ -140,6 +146,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftxl com                    |      5      |        5       |   3   |       |
 | minedown com                       |      5      |        1       |   2   |       |
 | minefan ru                         |      2      |        5       |   5   | **Malware alert!** |
+| minelife net                       |      3      |        5       |   4   |       |
 | mineplanet net                     |      3      |        5       |   5   |       |
 | mineturk com                       |      5      |        5       |   1   |       |
 | minhvietltd com                    |      5      |        5       |   1   |       |
@@ -189,6 +196,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | vencko net                         |      5      |        1       |   3   |       |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
+| xn--18-6kca8bglk2avv xn--p1ai      |      1      |        5       |   3   |       |
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
 
