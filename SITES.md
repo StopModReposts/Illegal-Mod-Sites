@@ -46,6 +46,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | downloadminecraft altervista org   |      5      |        1       |   5   |       |
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
 | eminecraft net                     |      1      |        5       |   5   |       |
+| eviaxa com                         |      5      |        5       |   5   | Rehost of MCF |
 | file-minecraft com                 |      3      |        5       |   5   |       |
 | for-minecraft com                  |      3      |        5       |   3   |       |
 | forminecrafters ru                 |      2      |        5       |   5   |       |
