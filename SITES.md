@@ -123,7 +123,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmoddl com                 |      3      |        5       |   5   | **Malware alert!** |
 | minecraftmodlari com               |      4      |        5       |   3   |       |
 | minecraftmods biz                  |      5      |        1       |   2   |       |
-| minecraftmods com                  |      3      |        5       |   1   |       |
 | minecraftmods com br               |      5      |        1       |   1   |       |
 | minecraftmods izben com            |      2      |        5       |   1   |       |
 | minecraftmods18 net                |      1      |        5       |   1   |       |
