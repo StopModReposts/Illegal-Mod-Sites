@@ -8,6 +8,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 |                                    | Advertising | Redistribution | Miscellaneous | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | 0x10c-zone ru                      |      3      |        5       |   5   |       |
+| 10minecraft ru                     |      3      |        5       |   3   |       |
 | 123minecraft com                   |      2      |        5       |   5   |       |
 | 1minecraftsource net               |      3      |        5       |   3   |       |
 | 1st-minecraft ru                   |      2      |        5       |   3   |       |
