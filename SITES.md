@@ -188,13 +188,13 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | space-games ucoz ru                |      5      |        5       |   4   |       |
 | stoninho blogspot com br           |      1      |        5       |   3   |       |
 | sumycraft ru                       |      2      |        5       |   5   |       |
-| swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads  |
 | terrariaw ru                       |      4      |        5       |   5   |       |
 | the-minecraft fr                   |      5      |        5       |   2   | Mod rehosts, but also texture packs and maps |
 | ultimateminecraftlj weebly com     |      1      |        5       |   4   |       |
 | vencko net                         |      5      |        1       |   3   |       |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
 | wizardhax com                      |      1      |        5       |   2   |       |
+| worldofmods com                    |      3      |        5       |   3   |       |
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | xn--18-6kca8bglk2avv xn--p1ai      |      1      |        5       |   3   |       |
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
