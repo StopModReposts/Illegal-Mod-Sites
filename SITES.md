@@ -104,6 +104,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft70 ru                     |      4      |        5       |   4   |       |
 | minecraft73 ru                     |      2      |        5       |   5   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
+| minecraftdatablog blogspot de      |      1      |        5       |   5   |       |
 | minecraftdl com                    |      5      |        1       |   5   | **Malware alert!** |
 | minecrafteando com                 |      3      |        5       |   3   |       |
 | minecrafter-mod ru                 |      3      |        5       |   3   |       |
