@@ -167,6 +167,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mody4mine ru                       |      3      |        5       |   1   |       |
 | mosminecraft ru                    |      5      |        5       |   3   |       |
 | nextminecraft ru                   |      4      |        5       |   5   |       |
+| niceminecraft net                  |      1      |        5       |   1   |       |
 | ofminecraft ru                     |      4      |        5       |   3   |       |
 | ogmcdownload com                   |      1      |        5       |   5   | **Malware alert!** |
 | old-minecraft ru                   |      1      |        5       |   3   |       |
