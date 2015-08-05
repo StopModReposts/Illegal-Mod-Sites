@@ -102,6 +102,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-x net                    |      1      |        5       |   3   |       |
 | minecraft12 com                    |      5      |        1       |   5   |       |
 | minecraft15 my1 ru                 |      4      |        5       |   2   |       |
+| minecraft5 net                     |      3      |        5       |   3   |       |
 | minecraft70 ru                     |      4      |        5       |   4   |       |
 | minecraft73 ru                     |      2      |        5       |   5   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
