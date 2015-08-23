@@ -82,6 +82,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mi-mundo-minecraft blogspot no     |      5      |        5       |   4   |       |
 | miinecraft org                     |      5      |        5       |   3   |       |
 | mine-craft ws                      |      1      |        5       |   3   |       |
+| minecraftsix.com                   |      1      |        5       |   2   |
 | minecraftstores com                |      5      |        5       |   1   |       |
 | minecraft-all ru                   |      3      |        5       |   4   |       |
 | minecraft-area ru                  |      3      |        5       |   3   |       |
