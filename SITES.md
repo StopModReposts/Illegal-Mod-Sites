@@ -101,6 +101,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-tools org                |      1      |        5       |   5   |       |
 | minecraft-x net                    |      1      |        5       |   3   |       |
 | minecraft12 com                    |      5      |        1       |   5   |       |
+| minecraft123 net                   |      1      |        5       |   3   |       |
 | minecraft15 my1 ru                 |      4      |        5       |   2   |       |
 | minecraft5 net                     |      3      |        5       |   3   |       |
 | minecraft70 ru                     |      4      |        5       |   4   |       |
@@ -205,8 +206,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
 
-I don't know how to rate these sites. Help?
-===========================================
+Unrated sites
+=============
 |                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
 | ---------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | geimin co uk                       |             |                |       |       |
