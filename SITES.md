@@ -109,6 +109,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdata com                  |      1      |        5       |   1   |       |
 | minecraftdatablog blogspot de      |      1      |        5       |   5   |       |
 | minecraftdl com                    |      5      |        1       |   5   | **Malware alert!** |
+| minecraftdrive com                 |      1      |        5       |   1   |       |
 | minecrafteando com                 |      3      |        5       |   3   |       |
 | minecrafter-mod ru                 |      3      |        5       |   3   |       |
 | minecraftes com                    |      5      |        1       |   1   |       |
