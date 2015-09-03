@@ -116,6 +116,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftevi com                   |      4      |        5       |   5   |       |
 | minecraftexe com                   |      5      |        1       |   5   |       |
 | minecraftexpert ru                 |      1      |        5       |   3   |       |
+| minecraftfive com                  |      1      |        5       |   3   |       |
 | minecraftfreemods net              |      5      |        5       |   1   |       |
 | minecraftgate info                 |      5      |        1       |   3   | Surveywall/paywall |
 | minecraftgig ru                    |      1      |        5       |   3   |       |
