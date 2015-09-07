@@ -198,6 +198,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | sumycraft ru                       |      2      |        5       |   5   |       |
 | terrariaw ru                       |      4      |        5       |   5   |       |
 | the-minecraft fr                   |      5      |        5       |   2   | Mod rehosts, but also texture packs and maps |
+| todocraft net                      |      5      |        1       |   3   |       |
 | ultimateminecraftlj weebly com     |      1      |        5       |   4   |       |
 | vencko net                         |      5      |        1       |   3   |       |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
