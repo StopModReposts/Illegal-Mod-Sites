@@ -70,6 +70,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | jojomine com                       |      2      |        4       |   3   |       |
 | keepergames ru                     |      3      |        5       |   4   |       |
 | kminecraft ru                      |      2      |        5       |   5   |       |
+| mcdownloads ru                     |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                       |      5      |        5       |   1   |       |
 | mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
