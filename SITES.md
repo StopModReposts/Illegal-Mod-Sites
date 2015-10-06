@@ -40,6 +40,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | c-raft ru                          |      1      |        5       |   5   |       |
 | clubminecraftbr blogspot com       |      1      |        5       |   3   |       |
 | comoinstalarmodsminecraft com br   |      3      |        1       |   3   |       |
+| crafthd net                        |      3      |        5       |   1   |       |
 | craftzon ru                        |      4      |        5       |   5   |       |
 | descargarminecraftgratis net       |      5      |        5       |   3   |       |
 | dlminecraft net                    |      3      |        5       |   1   |       |
