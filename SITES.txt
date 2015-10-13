@@ -148,6 +148,7 @@ minecraftsy com
 minecrafttime com
 minecraftvip com
 minecraftxl com
+minecraftyard com
 minedown com
 minefan ru
 minelife net
