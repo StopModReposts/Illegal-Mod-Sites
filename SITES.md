@@ -194,6 +194,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | planetmods net                     |      3      |        5       |   3   |       |
 | proud-portal ru                    |      3      |        5       |   3   |       |
 | rareportal com                     |      1      |        5       |   3   | The user named "stalker" is reposting mods |
+| revozin com                        |      3      |        5       |   1   |       |
 | rinoyundaapk blogspot no           |      1      |        5       |   3   |       |
 | ru-m org                           |      3      |        5       |   3   |       |
 | ru-minecraft ru                    |      5      |        5       |   1   |       |
