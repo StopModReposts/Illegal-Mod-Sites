@@ -60,6 +60,13 @@
     "miscellaneous": 1
   },
   {
+    "url": 4minecraft.com",
+    "notes": "Malware alert!",
+    "advertising": 5,
+    "redistribution": 1,
+    "miscellaneous": 3
+  }
+  {
     "url": "4minecraft.org",
     "advertising": 5,
     "redistribution": 5,
@@ -1239,6 +1246,7 @@
   },
   {
     "url": "wizardhax.com",
+    "notes": "Also distributes hacked clients",
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 2
