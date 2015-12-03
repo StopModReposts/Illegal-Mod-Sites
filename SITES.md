@@ -17,6 +17,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 2minecraft org                     |      1      |        5       |   4   |       |
 | 2майнкрафтер рф                    |      5      |        5       |   3   |       |
 | 3minecraft com                     |      3      |        5       |   1   |       |
+| 4minecraft com                     |      5      |        1       |   3   | **Malware alert!** |
 | 4minecraft org                     |      5      |        5       |   1   |       |
 | 5minecraft com                     |      3      |        5       |   1   |       |
 | 5minecraft net                     |      3      |        5       |   1   |       |
