@@ -38,7 +38,7 @@ Sometimes, the message contains a word enclosed in dollar signs `$` and has an a
 },
 ```
 
-In the above sample, `$site$` is a placeholder, and you can have a look in the `placeholders` block to see what it stands for. In this case, `$site$` will be replaced with a domain name when displayed, and an example has been given. That means when you translate, you would translate `message` as it would be if you assume `$site$` means "example.com". Please also keep in mind that if a `placeholders` block is present, you **must not translate it**, you must **only** translate the `message` tag. The original `placeholders` block should also be present in the translated file.
+In the above example, `$site$` is a placeholder, and you can have a look in the `placeholders` block to see what it stands for. In this case, `$site$` will be replaced with a domain name when displayed, and an example has been given. That means when you translate, you would translate `message` as it would be if you assume `$site$` means "example.com". Please also keep in mind that if a `placeholders` block is present, you **must not translate it**, you must **only** translate the `message` tag. The original `placeholders` block should also be present in the translated file. Important: The trailing comma after the `message` tag must not be removed if a placeholder block is present.
 
 ### storedesc.txt
 
