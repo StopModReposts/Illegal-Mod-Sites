@@ -19,7 +19,7 @@ This file contains the strings used in the extensions themselves. The file is in
 },
 ```
 
-You do not need to (and you should not) translate the `description` tag of the entry, only the data after the `message` tag, and within quotes. The `description` tag should not be present in the translated file, though if you forget to remove them, we won't reject your translation because of it. In this case the string you need to translate is:
+You do not need to (and you should not) translate the `description` tag of the entry, only the data after the `message` tag, and within quotes. The `description` tag should not be present in the translated file, though if you forget to remove them, we won't reject your translation because of it. If you remove it, please remember to also remove the comma trailing the `message` tag, otherwise the file may not properly validate as valid JSON. In this case the string you need to translate is:
 
 > Detects and warns against sites known to illegally repost Minecraft mods.
 
