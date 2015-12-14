@@ -67,7 +67,7 @@ We will not add your language to the plugins unless **both** files are fully tra
 
 **We *will* check every submitted translation to ensure that they adhere to these rules.**
 
-Once you have made sure that the files are fully translated, you are free to submit a pull request to this repository with your translation. Please be aware that any contribution to this repository, including translations, are covered under the [contributor license agreement](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/CONTRIBUTING.md) and you may not contribute translations if you do not accept the terms outlined in that agreement.
+Once you have made sure that the files are fully translated, you are free to submit a pull request to this repository with your translation. Please be aware that any contribution to this repository, including translations, are covered under the [contributor license agreement](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/CONTRIBUTING.md) and you may not contribute translations if you do not accept the terms outlined in that agreement. If you find it difficult to submit translations through GitHub, you may choose to send the files via email instead to marius (at) varden (dot) info, and we will review it and publish it for you. Please note that the contributor license agreement still applies.
 
 If the translation is accepted, the changes will be reflected in the Chrome and Opera versions of the plugin. We will also add all of the translations to Firefox at some point, but at the moment, [Firefox does not support translation](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/l10n#Limitations) of the UI functions the plugin uses.
 
