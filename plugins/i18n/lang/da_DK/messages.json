@@ -1,0 +1,110 @@
+{
+    "appdesc": {
+        "message": "Registrerer og advarer mod websider der er kendt for ulovligt at dele Minecraft mods.",
+        "description": "The description of the extension as it appears when searching in Chrome Web Store."
+    },
+    "blacklist_warn": {
+        "message": "Siden er sortlistet af StopModReposts!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "what_happened": {
+        "message": "Denne hjemmeside er på en liste over websider sortlistet af StopModReposts.org for ulovlig at dele Minecraft mods. Det betyder den webside, du var ved at besøge lige nu stjæler mods fra modders uden tilladelse, for herefter at uploade dem her, linke til forældede, inkompatible eller ikke-eksisterende versioner af mods og/eller tjene penge på moddernes arbejde . Du kan stadig gennemse denne side, hvis du vil, men det kan på nogle sider sætte computeren i fare for at blive inficeret med virus og malware.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "Klik her for at lære mere om StopModReposts kampagnen.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "Bedømmelse af $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Klik her for at lære om, hvordan vi vurderer websteder.",
+        "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "Hvert sted får en bedømmelse fra 1 til 5 i tre kategorier: Reklame, omfordeling og diverse. Reklame angiver, hvor mange annoncer der er på siden (flere penge til ejeren af webstedet), omfordeling angiver, i hvilket omfang webstedet omfordeler mods uden tilladelse, og diverse angiver, i hvilket omfang ejeren af webstedet vildleder brugerne om de omfattede mods (f.eks forældet, inkompatible eller ikke-eksisterende mod versioner og om forfatteren krediteres). En lavere score er bedre, hvor 1 stjerne er den bedste score.",
+        "description": "Message which helps users understand what the ratings mean."
+    },
+    "hide_rating_guide": {
+        "message": "(Klik for at skjule)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Kategori",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Reklame",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "Omfordeling",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "DIverse",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "Ondskabs bedømmelse",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "Bedømmelses-niveau",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "Ingen",
+        "description": "Used for sites which do not redistribute mods/advertise etc."
+    },
+    "severity_low": {
+        "message": "Lav",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Medium",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Høj",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Meget høj",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Noter for denne side: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Gå til forrige side",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(anbefalet for din sikkerhed)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Fortsæt til siden",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(kan skade din computer)",
+        "description": "Help text for the above button"
+    }
+}
