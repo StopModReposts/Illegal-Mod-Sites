@@ -1,4 +1,4 @@
-Illegal Sites
+﻿Illegal Sites
 =============
 
 The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.** Bypassing AdFly links count as redistribution.
@@ -52,7 +52,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | downloadminecraft altervista org   |      5      |        1       |   5   |       |
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
 | eminecraft net                     |      1      |        5       |   5   |       |
-| eviaxa com                         |      5      |        5       |   5   | Rehost of MCF |
 | fdminecraft net                    |      4      |        5       |   1   |       |
 | file-minecraft com                 |      3      |        5       |   5   |       |
 | for-minecraft com                  |      3      |        5       |   3   |       |

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "url": "0x10c-zone.ru",
     "advertising": 3,
@@ -60,7 +60,7 @@
     "miscellaneous": 1
   },
   {
-    "url": 4minecraft.com",
+    "url": "4minecraft.com",
     "notes": "Malware alert!",
     "advertising": 5,
     "redistribution": 1,
@@ -262,13 +262,6 @@
   {
     "url": "eminecraft.net",
     "advertising": 1,
-    "redistribution": 5,
-    "miscellaneous": 5
-  },
-  {
-    "url": "eviaxa.com",
-    "notes": "Rehost of MCF",
-    "advertising": 5,
     "redistribution": 5,
     "miscellaneous": 5
   },

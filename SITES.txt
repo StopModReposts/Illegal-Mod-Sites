@@ -1,4 +1,4 @@
-0x10c-zone ru
+﻿0x10c-zone ru
 10minecraft ru
 123minecraft com
 1minecraftsource net
@@ -42,7 +42,6 @@ download-minecraft-mod com
 downloadminecraft altervista org
 downloadminecraftplay com
 eminecraft net
-eviaxa com
 fdminecraft net
 file-minecraft com
 for-minecraft com
