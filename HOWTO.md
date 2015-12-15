@@ -17,6 +17,3 @@ Miscellaneous exacerbating circumstances. Examples of stuff taken into account a
 + non-existent mod versions.
 + bypassing AdFly links
 
-# Submitting Translations
-
-We also allow translations to be submitted now. Please see [TRANSLATING.md](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/plugins/i18n/TRANSLATING.md) for more information.
