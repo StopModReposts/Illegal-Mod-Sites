@@ -103,6 +103,7 @@ minecraft15 my1 ru
 minecraft5 net
 minecraft70 ru
 minecraft73 ru
+minecraftbay com
 minecraftdata com
 minecraftdatablog blogspot de
 minecraftdl com
