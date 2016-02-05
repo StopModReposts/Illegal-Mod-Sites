@@ -30,6 +30,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "24hminecraft.com",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "24mine.org",
     "advertising": 3,
     "redistribution": 5,
@@ -175,6 +181,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "aminecraft.net",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 1
+  },
+  {
     "url": "azminecraft.info",
     "advertising": 3,
     "redistribution": 5,
@@ -223,16 +235,42 @@
     "miscellaneous": 5
   },
   {
+    "url": "dascraft.org",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "day2play.pl",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "descargarminecraftgratis.net",
     "advertising": 5,
     "redistribution": 5,
     "miscellaneous": 3
   },
   {
+    "url": "digitalgamesonlinenowone.com",
+	"notes": "Malware alert!",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "dlminecraft.net",
     "advertising": 3,
     "redistribution": 5,
     "miscellaneous": 1
+  },
+  {
+    "url": "dosakh.ru",
+	"notes": "Malware alert!",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "download.parcraftmc.com",
@@ -246,6 +284,13 @@
     "advertising": 3,
     "redistribution": 5,
     "miscellaneous": 4
+  },
+  {
+    "url": "downloadape.org",
+	"notes": "Malware alert!",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "downloadminecraft.altervista.org",
@@ -500,6 +545,12 @@
     "miscellaneous": 1
   },
   {
+    "url": "minecraft-365.com",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "minecraft-all.ru",
     "advertising": 3,
     "redistribution": 5,
@@ -510,6 +561,12 @@
     "advertising": 3,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "minecraft-en ucoz.com",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 4
   },
   {
     "url": "minecraft-files.ru",
@@ -556,6 +613,12 @@
   {
     "url": "minecraft-modi.ru",
     "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 3
+  },
+  {
+    "url": "minecraft-mods.info",
+    "advertising": 5,
     "redistribution": 5,
     "miscellaneous": 3
   },
@@ -638,6 +701,12 @@
     "miscellaneous": 5
   },
   {
+    "url": "minecraftaz.net",
+    "advertising": 3,
+    "redistribution": 1,
+    "miscellaneous": 3
+  },
+  {
     "url": "minecraftbay.com",
     "advertising": 3,
     "redistribution": 5,
@@ -675,6 +744,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "minecrafteon.com",
+    "advertising": 1,
+    "redistribution": 2,
+    "miscellaneous": 4
+  },
+  {
     "url": "minecrafter-mod.ru",
     "advertising": 3,
     "redistribution": 5,
@@ -703,6 +778,12 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "minecraftfile.net",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "minecraftfive.com",
@@ -750,6 +831,12 @@
   {
     "url": "minecraftiamods.com",
     "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 1
+  },
+  {
+    "url": "minecraftinstallers.com",
+    "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 1
   },
@@ -846,10 +933,22 @@
     "miscellaneous": 3
   },
   {
+    "url": "minecraftpe-mods.com",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 4
+  },
+  {
     "url": "minecraftplanet.ru",
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 4
+  },
+  {
+    "url": "minecraftposts.net",
+    "advertising": 3,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "minecraftpw.ru",
@@ -865,10 +964,28 @@
     "miscellaneous": 5
   },
   {
+    "url": "minecraftquick.com",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 4
+  },
+  {
+    "url": "minecraftresource.com",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "minecraftsemlimites.com",
     "advertising": 3,
     "redistribution": 5,
     "miscellaneous": 1
+  },
+  {
+    "url": "minecraftside.com",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 4
   },
   {
     "url": "minecraftsone.blogspot.no",
@@ -974,6 +1091,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "mobileminecraft.com.br",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 2
+  },
+  {
     "url": "mod-for-minecraft.net",
     "advertising": 3,
     "redistribution": 5,
@@ -1053,6 +1176,41 @@
     "miscellaneous": 3
   },
   {
+    "url": "mybestgamesfilesone.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "myfreemediacloudone.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "mymediadownloadsthirtytwo.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "mymediasearchnowthree.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "newfastmediasearcherfive.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "nextminecraft.ru",
     "advertising": 4,
     "redistribution": 5,
@@ -1090,10 +1248,23 @@
     "miscellaneous": 4
   },
   {
+    "url": "onlinegamesfilesone.com",
+	"notes": "Malware alert!",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "onlineplayminecraft.com",
     "advertising": 5,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "osdarlings.com",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "packs548.rssing.com",
@@ -1106,6 +1277,12 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "pd19.org",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "planet-m.net",
@@ -1151,6 +1328,13 @@
     "miscellaneous": 3
   },
   {
+    "url": "rockybytes.com",
+	"notes": "Malware alert!",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "ru-m.org",
     "advertising": 3,
     "redistribution": 5,
@@ -1165,6 +1349,12 @@
   {
     "url": "simplesminecraft.blogspot.com.br",
     "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 3
+  },
+  {
+    "url": "simplesminecraft.com",
+    "advertising": 3,
     "redistribution": 5,
     "miscellaneous": 3
   },
@@ -1199,6 +1389,13 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "stop-nalogi.ru",
+	"notes": "Malware alert!",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "sumycraft.ru",
@@ -1238,6 +1435,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "voidswrath.com",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 3
+  },
+  {
     "url": "wc3-maps.ru",
     "advertising": 5,
     "redistribution": 5,
@@ -1249,6 +1452,13 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 2
+  },
+  {
+    "url": "world-minecraft.pp.ua",
+    "notes": "Malware alert!",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 5
   },
   {
     "url": "worldofmods.com",
@@ -1275,8 +1485,28 @@
     "miscellaneous": 3
   },
   {
+    "url": "yourfreegamesnow.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
+    "url": "yourgamesdownloadsone.com",
+	"notes": "Malware alert!"
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 5
+  },
+  {
     "url": "yourminecraft.com",
     "advertising": 3,
+    "redistribution": 5,
+    "miscellaneous": 3
+  }
+  {
+    "url": "zip-mc.com",
+    "advertising": 5,
     "redistribution": 5,
     "miscellaneous": 3
   }
