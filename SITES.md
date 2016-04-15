@@ -1,4 +1,4 @@
-Illegal Sites
+﻿Illegal Sites
 =============
 
 The following is a list of known sites illegally distributing several mods. The names are listed as the url without dots. **Remember that even if a site is not listed here, it may still contain stolen mods.** Bypassing AdFly links count as redistribution.
@@ -125,6 +125,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft73 ru                     |      2      |        5       |   5   |       |
 | minecraftaz net                    |      3      |        1       |   3   |       |
 | minecraftbay com                   |      3      |        5       |   5   |       |
+| minecraftbuildinginc com           |      3      |        5       |   1   |       |
 | minecraftdata com                  |      1      |        5       |   1   |       |
 | minecraftdatablog blogspot de      |      1      |        5       |   5   |       |
 | minecraftdl com                    |      5      |        1       |   5   | **Malware alert!** |
