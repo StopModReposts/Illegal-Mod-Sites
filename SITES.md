@@ -110,6 +110,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftgig ru                    |      1      |        5       |   3   |       |
 | minecraftgood com                  |      5      |        5       |   5   |       |
 | minecrafthd com                    |      3      |        5       |   1   |       |
+| minecrafthut com                   |      4      |        4       |   3   | Also distributes hacked clients |
 | minecraftiamodpack blogspot com    |      5      |        5       |   5   |       |
 | minecraftiamods com                |      5      |        5       |   1   |       |
 | minecraftjardl com                 |      3      |        5       |   5   | **Malware alert!** |
