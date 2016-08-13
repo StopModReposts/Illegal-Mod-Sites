@@ -87,6 +87,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mcmodkit com                       |      5      |        5       |   1   |       |
 | mcmodteam blogspot de              |      5      |        5       |   1   | No activity since 16th november 2014 |
 | mcpatcher net                      |      1      |        1       |   5   | **Malware alert!** |
+| mcpebox com                        |      3      |        5       |   2   |       |
 | mcpemods net                       |      1      |        5       |   1   |       |
 | mcraft-info ru                     |      1      |        5       |   4   |       |
 | mcraft-life ru                     |      2      |        5       |   5   |       |

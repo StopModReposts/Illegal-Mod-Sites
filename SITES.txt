@@ -78,6 +78,7 @@ mcmoddatabase com
 mcmodkit com
 mcmodteam blogspot de
 mcpatcher net
+mcpebox com
 mcpemods net
 mcraft-info ru
 mcraft-life ru
