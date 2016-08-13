@@ -1,0 +1,10 @@
+{
+  "name": "stop_mod_reposts",
+  "title": "Stop Mod Reposts",
+  "id": "jid1-sykbIdJBHPRJPA@jetpack",
+  "description": "Detects and warns against sites known to illegally repost Minecraft mods.",
+  "author": "Varden Development",
+  "license": "MPL 2.0",
+  "version": "2.3.8",
+  "main": "./lib/main.js"
+}

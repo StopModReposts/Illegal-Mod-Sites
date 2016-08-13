@@ -1,0 +1,12 @@
+{
+  "name": "Stop Mod Reposts",
+  "version": "3.0.4",
+  "description": "__MSG_appdesc__",
+  "default_locale": "en",
+  "icons": { "128": "icons/icon128.png", "48": "icons/icon48.png", "32": "icons/icon32.png", "16": "icons/icon16.png" },
+  "content_scripts": [
+    { "matches": ["http://*/*", "https://*/*"], "js": ["contentscript.js"] }
+  ],
+  "manifest_version": 2,
+  "content_security_policy": "default-src 'none'; style-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self'"
+}
