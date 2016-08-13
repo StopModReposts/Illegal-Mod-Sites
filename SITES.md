@@ -29,7 +29,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 8minecraft com                     |      5      |        5       |   1   |       |
 | 8minecraft org                     |      5      |        5       |   1   |       |
 | 9craft org                         |      1      |        5       |   5   |       |
-| 9minecraft net                     |      3      |        5       |   1   |       |
+| 9minecraft net                     |      5      |        5       |   1   |       |
 | 9minecraftaz blogspot com          |      3      |        5       |   3   |       |
 | 9minecraftmods net                 |      2      |        5       |   3   |       |
 | 9minecrafts com                    |      1      |        5       |   3   |       |
