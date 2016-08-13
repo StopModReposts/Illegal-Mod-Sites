@@ -96,6 +96,7 @@ minecraft-files ru
 minecraft-forum net
 minecraft-home ru
 minecraft-inside ru
+minecraft-installer com
 minecraft-jobs ru
 minecraft-mc ru
 minecraft-modding de

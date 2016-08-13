@@ -105,6 +105,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-forum net                |      3      |        5       |   3   |       |
 | minecraft-home ru                  |      2      |        5       |   5   |       |
 | minecraft-inside ru                |      1      |        5       |   3   |       |
+| minecraft-installer com            |      2      |        5       |   3   |       |
 | minecraft-jobs ru                  |      1      |        5       |   5   |       |
 | minecraft-mc ru                    |      2      |        5       |   4   |       |
 | minecraft-modding de               |      5      |        5       |   1   |       |
