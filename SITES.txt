@@ -110,6 +110,7 @@ minecraft-x net
 minecraft12 com
 minecraft123 net
 minecraft15 my1 ru
+minecraft172 com
 minecraft5 net
 minecraft70 ru
 minecraft73 ru
@@ -119,6 +120,7 @@ minecraftbuildinginc com
 minecraftdata com
 minecraftdatablog blogspot de
 minecraftdl com
+minecraftdownloadmod blogspot no
 minecraftdrive com
 minecrafteando com
 minecrafteon com
@@ -129,6 +131,7 @@ minecraftexe com
 minecraftexpert ru
 minecraftfile net
 minecraftfive com
+minecraftfreedownloadpro blogspot no
 minecraftfreemods net
 minecraftgate info
 minecraftgig ru
@@ -188,6 +191,7 @@ modminecrafts com
 mododrom ru
 mods-for-minecraft net
 modscraft ru
+modsforminecraft org
 modsgate com
 modsminecraft com
 modsminecraft org
@@ -214,6 +218,7 @@ planet-m net
 planet-minecraft ru
 planetmods net
 proud-portal ru
+q-craft ru
 rareportal com
 revozin com
 rinoyundaapk blogspot no
@@ -225,6 +230,7 @@ simplesminecraft com
 skachat-mody-minecraft ru
 soft32 com
 softonic com
+somecraf net
 space-games ucoz ru
 stoninho blogspot com br
 stop-nalogi ru
@@ -233,6 +239,8 @@ terrariaw ru
 the-minecraft fr
 todocraft net
 ultimateminecraftlj weebly com
+uminecraft at ua
+utk io
 vencko net
 voidswrath com
 wc3-maps ru

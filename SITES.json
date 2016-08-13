@@ -683,6 +683,12 @@
     "miscellaneous": 2
   },
   {
+    "url": "minecraft172.com",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 4
+  },
+  {
     "url": "minecraft5.net",
     "advertising": 3,
     "redistribution": 5,
@@ -735,6 +741,12 @@
     "notes": "Malware alert!",
     "advertising": 5,
     "redistribution": 1,
+    "miscellaneous": 5
+  },
+  {
+    "url": "minecraftdownloadmod blogspot no",
+    "advertising": 5,
+    "redistribution": 4,
     "miscellaneous": 5
   },
   {
@@ -796,6 +808,12 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 3
+  },
+  {
+    "url": "minecraftfreedownloadpro blogspot no",
+    "advertising": 2,
+    "redistribution": 4,
+    "miscellaneous": 5
   },
   {
     "url": "minecraftfreemods.net",
@@ -1158,6 +1176,12 @@
     "miscellaneous": 4
   },
   {
+	"url": "modsforminecraft.org",
+	"advertising": 1,
+	"redistribution": 5,
+	"miscellaneous": 1
+  },
+  {
     "url": "modsgate.com",
     "advertising": 1,
     "redistribution": 5,
@@ -1321,6 +1345,12 @@
     "miscellaneous": 3
   },
   {
+    "url": "q-craft.ru",
+    "advertising": 2,
+    "redistribution": 5,
+    "miscellaneous": 3
+  },
+  {
     "url": "rareportal.com",
     "notes": "The user named \"stalker\" is reposting mods",
     "advertising": 1,
@@ -1391,6 +1421,12 @@
     "miscellaneous": 5
   },
   {
+    "url": "somecraf.net",
+    "advertising": 5,
+    "redistribution": 5,
+    "miscellaneous": 3
+  },
+  {
     "url": "space-games.ucoz.ru",
     "advertising": 5,
     "redistribution": 5,
@@ -1439,6 +1475,18 @@
     "advertising": 1,
     "redistribution": 5,
     "miscellaneous": 4
+  },
+  {
+    "url": "uminecraft.at.ua",
+	"advertising": 1,
+	"redistribution": 5,
+	"miscellaneous": 3
+  },
+  {
+    "url": "utk.io",
+    "advertising": 1,
+    "redistribution": 5,
+    "miscellaneous": 1
   },
   {
     "url": "vencko.net",

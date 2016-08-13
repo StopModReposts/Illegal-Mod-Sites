@@ -200,6 +200,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mododrom ru                        |      1      |        5       |   4   | **Malware alert!** |
 | mods-for-minecraft net             |      1      |        5       |   4   |       |
 | modscraft ru                       |      4      |        5       |   4   |       |
+| modsforminecraft org               |      1      |        5       |   1   |       |
 | modsgate com                       |      1      |        5       |   1   |       |
 | modsminecraft com                  |      2      |        1       |   5   |       |
 | modsminecraft org                  |      1      |        5       |   1   |       |
@@ -248,6 +249,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | todocraft net                      |      5      |        1       |   3   |       |
 | ultimateminecraftlj weebly com     |      1      |        5       |   4   |       |
 | uminecraft at ua                   |      1      |        5       |   3   |       |
+| utk io                             |      1      |        5       |   1   |       |
 | vencko net                         |      5      |        1       |   3   |       |
 | voidswrath com                     |      2      |        5       |   3   |       |
 | wc3-maps ru                        |      5      |        5       |   1   |       |
