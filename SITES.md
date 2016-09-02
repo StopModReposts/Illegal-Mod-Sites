@@ -81,6 +81,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | keepergames ru                     |      3      |        5       |   4   |       |
 | kminecraft ru                      |      2      |        5       |   5   |       |
 | launcherfenix com ar               |      5      |        5       |   3   |       |
+| legacymodpack com                  |      2      |        5       |   1   |       |
 | майнкрафт18 рф                     |      1      |        5       |   3   |       |
 | mcdownloads ru                     |      1      |        5       |   3   |       |
 | mcmoddatabase com                  |      3      |        5       |   5   | **Malware alert!** |
