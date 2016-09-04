@@ -5,6 +5,6 @@
   "description": "Detects and warns against sites known to illegally repost Minecraft mods.",
   "author": "Varden Development",
   "license": "MPL 2.0",
-  "version": "2.3.8",
+  "version": "2.3.9",
   "main": "./lib/main.js"
 }
