@@ -143,7 +143,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftexpert ru                 |      1      |        5       |   3   |       |
 | minecraftfile net                  |      1      |        5       |   5   |       |
 | minecraftfive com                  |      1      |        5       |   3   |       |
-| minecraftfreedownloadpro blogspot no |    2      |        4       |   5   |       |
+| minecraftfreedownloadpro blogspot no |      2      |        4       |   5   |       |
 | minecraftfreemods net              |      5      |        5       |   1   |       |
 | minecraftgate info                 |      5      |        1       |   3   | Surveywall/paywall |
 | minecraftgig ru                    |      1      |        5       |   3   |       |
