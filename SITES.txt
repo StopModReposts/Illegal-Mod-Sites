@@ -175,6 +175,7 @@ minecraftsy com
 minecrafttime com
 minecraftvip com
 minecraftxl com
+minecraftxz com
 minecraftyard com
 minedown com
 minefan ru

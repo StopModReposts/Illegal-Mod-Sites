@@ -184,6 +184,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecrafttime com                       |      3      |        5       |   3   |       |
 | minecraftvip com                        |      2      |        5       |   1   |       |
 | minecraftxl com                         |      5      |        5       |   3   |       |
+| minecraftxz com                         |      4      |        5       |   1   |       |
 | minecraftyard com                       |      3      |        5       |   3   |       |
 | minedown com                            |      5      |        1       |   2   |       |
 | minefan ru                              |      2      |        5       |   5   | **Malware alert!** |
