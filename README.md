@@ -18,16 +18,13 @@ StopModReposts provides its site list in various data formats that may be useful
 
 ### Request
 
-**Method 1**
-
-https://api.varden.info/smr/sitelist.php
-
+**Method 1**  
+https://api.varden.info/smr/sitelist.php  
 Headers:
     
     Accept: application/json
 
-**Method 2**
-
+**Method 2**  
 https://api.varden.info/smr/sitelist.php?format=json
 
 ### Response
@@ -51,16 +48,13 @@ https://api.varden.info/smr/sitelist.php?format=json
 
 ### Request
 
-**Method 1**
-
-https://api.varden.info/smr/sitelist.php
-
+**Method 1**  
+https://api.varden.info/smr/sitelist.php  
 Headers:
     
     Accept: application/xml
 
-**Method 2**
-
+**Method 2**  
 https://api.varden.info/smr/sitelist.php?format=xml
 
 ### Response
@@ -86,16 +80,13 @@ The returned file is not gzip-compressed.
 
 ### Request
 
-**Method 1**
-
-https://api.varden.info/smr/sitelist.php
-
+**Method 1**  
+https://api.varden.info/smr/sitelist.php  
 Headers:
     
     Accept: application/x-nbt
 
-**Method 2**
-
+**Method 2**  
 https://api.varden.info/smr/sitelist.php?format=nbt
 
 ### Response
@@ -119,16 +110,13 @@ root
 
 ### Request
 
-**Method 1**
-
-https://api.varden.info/smr/sitelist.php
-
+**Method 1**  
+https://api.varden.info/smr/sitelist.php  
 Headers:
     
     Accept: text/plain
 
-**Method 2**
-
+**Method 2**  
 https://api.varden.info/smr/sitelist.php?format=text
 
 ### Response
