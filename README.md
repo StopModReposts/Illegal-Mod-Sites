@@ -4,10 +4,10 @@ StopModReposts is a movement against illegal redistribution of Minecraft content
 
 To report a site that might be illegally redistributing mods, please open an issue in our [issue tracker](http://git.io/jaB7) or submit a pull request. We do currently target reposts of the following content types: mods, resource packs, maps, and modpacks. In addition, we target websites providing malicious Minecraft content.
 
-# Submitting Translations
+## Submitting Translations
 
 We also allow translations to be submitted now. Please see [TRANSLATING.md](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/plugins/i18n/TRANSLATING.md) for more information.
 
-# Serialized Formats
+## API / Serialized Formats
 
 StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [API.md](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/API.md) for more information about this API.
