@@ -11,6 +11,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 10minecraft ru                          |      3      |        5       |   3   |       |
 | 123minecraft com                        |      2      |        5       |   5   |       |
 | 1minecraftsource net                    |      3      |        5       |   3   |       |
+| 1ru-minecraft ru                        |      3      |        5       |   5   |       |
 | 1st-minecraft ru                        |      2      |        5       |   3   |       |
 | 24hminecraft com                        |      2      |        5       |   5   |       |
 | 24mine org                              |      3      |        5       |   5   |       |
@@ -52,6 +53,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | day2play pl                             |      5      |        5       |   5   |       |
 | descargarminecraftgratis net            |      5      |        5       |   3   |       |
 | digitalgamesonlinenowone com            |      1      |        5       |   5   | **Malware alert!** |
+| dle01 sofftportall8nn info              |      3      |        5       |   3   | Paywall |
 | dlminecraft net                         |      3      |        5       |   1   |       |
 | dosakh ru                               |      2      |        5       |   5   | **Malware alert!** |
 | download parcraftmc com                 |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks without permission |
@@ -60,8 +62,10 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | downloadatoz com                        |      3      |        5       |   5   | **Malware alert!** |
 | downloadminecraft altervista org        |      5      |        1       |   5   |       |
 | downloadminecraftplay com               |      4      |        5       |   1   |       |
+| duno-farm ru                            |      5      |        5       |   5   | **Malware alert!** |
 | eminecraft net                          |      1      |        5       |   5   |       |
 | en-minecraft org                        |      3      |        5       |   4   |       |
+| evlas ru                                |      2      |        3       |   3   | Paywall |
 | fdminecraft net                         |      4      |        5       |   1   |       |
 | file-minecraft com                      |      3      |        5       |   5   |       |
 | for-minecraft com                       |      3      |        5       |   3   |       |
@@ -69,6 +73,9 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | fr-minecraft net                        |      2      |        5       |   1   |       |
 | freedownloadminecraft com               |      5      |        5       |   3   |       |
 | freeminecraftmods com                   |      3      |        5       |   4   |       |
+| freshminecraft ru                       |      5      |        5       |   3   |       |
+| freshmod ru                             |      5      |        5       |   3   |       |
+| full-mod ru                             |      4      |        3       |   3   | Paywall |
 | fulllistofminecraftmods cf              |      5      |        1       |   1   |       |
 | galaxythecreative blogspot no           |      5      |        5       |   2   |       |
 | gameminecraft ru                        |      3      |        5       |   5   |       |
@@ -79,14 +86,17 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | getmod ru                               |      3      |        5       |   2   |       |
 | giga de                                 |      3      |        5       |   5   | **Malware alert!** |
 | gigminecraft net                        |      2      |        5       |   3   |       |
+| godgames ru                             |      5      |        5       |   3   |       |
 | goldmods-minecraft ru                   |      1      |        5       |   5   | **Malware alert!** |
 | hackphoenix com                         |      5      |        5       |   5   | Also distributes cracked launchers, and Mojang's intellectual property |
 | hubicraft com                           |      1      |        5       |   3   |       |
 | jojomine com                            |      2      |        4       |   3   |       |
 | keepergames ru                          |      3      |        5       |   4   |       |
 | kminecraft ru                           |      2      |        5       |   5   |       |
+| lambdacore ucoz ru                      |      1      |        5       |   3   |       |
 | launcherfenix com ar                    |      5      |        5       |   3   |       |
 | legacymodpack com                       |      2      |        5       |   1   |       |
+| loadminecraft ru                        |      1      |        5       |   2   |       |
 | майнкрафт18 рф                          |      1      |        5       |   3   |       |
 | magnetobrowsers net                     |      5      |        5       |   5   | **Malware alert!** |
 | mcdownloads ru                          |      1      |        5       |   3   |       |
@@ -103,13 +113,18 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mi-mundo-minecraft blogspot no          |      5      |        5       |   4   |       |
 | miinecraft org                          |      5      |        5       |   3   |       |
 | mine-craft ws                           |      1      |        5       |   3   |       |
+| mineblock ru                            |      3      |        5       |   4   |       |
+| minecraft diablo1 ru                    |      3      |        5       |   3   |       |
 | minecraftstores com                     |      5      |        5       |   1   |       |
 | minecraft-365 com                       |      1      |        5       |   5   |       |
 | minecraft-all ru                        |      3      |        5       |   4   |       |
 | minecraft-area ru                       |      3      |        5       |   3   |       |
+| minecraft-book ru                       |      3      |        5       |   2   |       |
+| minecraft-double ru                     |      5      |        5       |   5   |       |
 | minecraft-en ucoz com                   |      5      |        5       |   4   |       |
 | minecraft-files ru                      |      5      |        5       |   4   |       |
 | minecraft-forum net                     |      3      |        5       |   3   |       |
+| minecraft-game ru                       |      5      |        5       |   5   | **Malware alert!** |
 | minecraft-home ru                       |      2      |        5       |   5   |       |
 | minecraft-inside ru                     |      1      |        5       |   3   |       |
 | minecraft-installer com                 |      2      |        5       |   3   |       |
@@ -122,19 +137,24 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-mods ru                       |      5      |        5       |   3   |       |
 | minecraft-modsdownload com              |      4      |        2       |   2   |       |
 | minecraft-open ru                       |      1      |        5       |   3   |       |
+| minecraft-re ru                         |      1      |        5       |   4   | Paywall |
+| minecraft-sodeon ru                     |      5      |        5       |   2   |       |
 | minecraft-soul ru                       |      1      |        1       |   5   |       |
 | minecraft-tools org                     |      1      |        5       |   5   |       |
 | minecraft-x net                         |      1      |        5       |   3   |       |
+| minecraft-zet ru                        |      3      |        5       |   3   |       |
 | minecraft12 com                         |      5      |        1       |   5   |       |
 | minecraft123 net                        |      1      |        5       |   3   |       |
 | minecraft15 my1 ru                      |      4      |        5       |   2   |       |
 | minecraft172 com                        |      5      |        5       |   4   |       |
+| minecraft37 ru                          |      3      |        5       |   5   | **Malware alert!** |
 | minecraft5 net                          |      3      |        5       |   3   |       |
 | minecraft70 ru                          |      4      |        5       |   4   |       |
 | minecraft73 ru                          |      2      |        5       |   5   |       |
 | minecraftaz net                         |      3      |        1       |   3   |       |
 | minecraftbay com                        |      3      |        5       |   5   |       |
 | minecraftbuildinginc com                |      3      |        5       |   1   |       |
+| minecraftch ru                          |      3      |        5       |   3   |       |
 | minecraftdata com                       |      1      |        5       |   1   |       |
 | minecraftdatablog blogspot de           |      1      |        5       |   5   |       |
 | minecraftdl com                         |      5      |        1       |   5   | **Malware alert!** |
@@ -149,6 +169,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftexpert ru                      |      1      |        5       |   3   |       |
 | minecraftfile net                       |      1      |        5       |   5   |       |
 | minecraftfive com                       |      1      |        5       |   3   |       |
+| minecraftfly ru                         |      1      |        5       |   2   |       |
 | minecraftfreedownloadpro blogspot no    |      2      |        4       |   5   |       |
 | minecraftfreemods net                   |      5      |        5       |   1   |       |
 | minecraftgate info                      |      5      |        1       |   3   | Surveywall/paywall |
@@ -158,7 +179,9 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecrafthut com                        |      5      |        3       |   4   |       |
 | minecraftiamodpack blogspot com         |      5      |        5       |   5   |       |
 | minecraftiamods com                     |      5      |        5       |   1   |       |
+| minecraftian net                        |      1      |        5       |   5   | **Malware alert!** |
 | minecraftinstallers com                 |      1      |        5       |   1   |       |
+| minecraftium ru                         |      3      |        5       |   2   |       |
 | minecraftjardl com                      |      3      |        5       |   5   | **Malware alert!** |
 | minecraftmine org                       |      5      |        5       |   5   |       |
 | minecraftmodding net                    |      2      |        5       |   3   |       |
@@ -171,10 +194,12 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmods19 com                     |      3      |        5       |   2   |       |
 | minecraftmods9 blogspot com             |      5      |        5       |   3   |       |
 | minecraftmodsupdate com                 |      5      |        1       |   3   |       |
+| minecraftmonster ru                     |      5      |        5       |   3   |       |
 | minecraftmore com                       |      1      |        5       |   1   |       |
 | minecraftnodus do am                    |      2      |        5       |   4   |       |
 | minecraftnow ru                         |      4      |        5       |   4   |       |
 | minecraftonly ru                        |      1      |        5       |   3   |       |
+| minecraftors ru                         |      3      |        5       |   5   | **Malware alert!** |
 | minecraftpe-mods com                    |      2      |        5       |   4   |       |
 | minecraftplanet ru                      |      1      |        5       |   4   |       |
 | minecraftplanet biz                     |      5      |        5       |   5   |       |
@@ -183,6 +208,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftq ru                           |      3      |        5       |   5   | **Malware alert!** |
 | minecraftquick com                      |      1      |        5       |   4   |       |
 | minecraftresource com                   |      5      |        5       |   5   |       |
+| minecrafts-mod ru                       |      3      |        5       |   3   |       |
 | minecraftsemlimites com                 |      3      |        5       |   1   |       |
 | minecraftside com                       |      5      |        5       |   4   |       |
 | minecraftsone blogspot no               |      1      |        5       |   3   |       |
@@ -201,13 +227,16 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mineturk com                            |      5      |        5       |   1   |       |
 | minhvietltd com                         |      5      |        5       |   1   |       |
 | mir-crafta ru                           |      4      |        5       |   5   |       |
+| mizunospb ru                            |      1      |        5       |   5   | **Malware alert!** |
 | mmods net                               |      5      |        5       |   5   |       |
 | mncraftmods ru                          |      3      |        5       |   3   |       |
 | mobileminecraft com br                  |      2      |        5       |   2   |       |
 | mod-for-minecraft net                   |      3      |        5       |   5   |       |
 | mod-minecraft net                       |      3      |        5       |   2   |       |
+| mod-minecraft ru                        |      1      |        5       |   3   |       |
 | modcraft biz                            |      3      |        5       |   3   |       |
 | moddingames wordpress com               |      5      |        5       |   4   |       |
+| modfast ru                              |      5      |        5       |   3   |       |
 | modminecrafts com                       |      3      |        5       |   3   |       |
 | mododrom ru                             |      1      |        5       |   4   | **Malware alert!** |
 | mods-for-minecraft net                  |      1      |        5       |   4   |       |
@@ -225,12 +254,15 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | newfastmediasearcherfive com            |      1      |        5       |   5   | **Malware alert!** |
 | nextminecraft ru                        |      4      |        5       |   5   |       |
 | niceminecraft net                       |      1      |        5       |   1   |       |
+| niinecrraftik jeclo pp ua               |      5      |        3       |   5   | Paywall |
 | ofminecraft ru                          |      4      |        5       |   3   |       |
 | ogmcdownload com                        |      1      |        5       |   5   | **Malware alert!** |
 | old-minecraft ru                        |      1      |        5       |   3   |       |
 | ominecraft net                          |      4      |        5       |   4   |       |
+| onlinecheats ru                         |      1      |        4       |   2   |       |
 | onlinegamesfilesone com                 |      1      |        5       |   5   | **Malware alert!** |
 | onlineplayminecraft com                 |      5      |        5       |   3   |       |
+| only-minecraft ru                       |      2      |        5       |   2   |       |
 | onminecraft ru                          |      3      |        5       |   3   |       |
 | osdarlings com                          |      5      |        5       |   5   |       |
 | packs548 rssing com                     |      3      |        5       |   1   |       |
@@ -247,6 +279,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | rockybytes com                          |      5      |        5       |   5   | **Malware alert!** |
 | ru-m org                                |      3      |        5       |   3   |       |
 | ru-minecraft ru                         |      5      |        5       |   1   |       |
+| setcraft ru                             |      5      |        5       |   5   | **Malware alert!** |
 | simplesminecraft blogspot com br        |      1      |        5       |   3   |       |
 | simplesminecraft com                    |      3      |        5       |   3   |       |
 | skachat-mody-minecraft ru               |      1      |        5       |   3   |       |
@@ -263,9 +296,13 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ultimateminecraftlj weebly com          |      1      |        5       |   4   |       |
 | uminecraft at ua                        |      1      |        5       |   3   |       |
 | utk io                                  |      1      |        5       |   1   |       |
+| vam-polezno ru                          |      3      |        5       |   5   | **Malware alert!** |
 | vencko net                              |      5      |        1       |   3   |       |
+| vminecraft ru                           |      1      |        5       |   3   |       |
+| vminecrafte ru                          |      1      |        5       |   4   |       |
 | voidswrath com                          |      2      |        5       |   3   |       |
 | wc3-maps ru                             |      5      |        5       |   1   |       |
+| wemine ru                               |      1      |        5       |   3   |       |
 | wizardhax com                           |      1      |        5       |   2   | Also distributes hacked clients. |
 | world-minecraft pp ua                   |      5      |        5       |   5   | **Malware alert!** |
 | worldofmods com                         |      3      |        5       |   3   |       |
@@ -275,6 +312,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | yourfreegamesnow com                    |      1      |        5       |   5   | **Malware alert!** |
 | yourgamesdownloadsone com               |      1      |        5       |   5   | **Malware alert!** |
 | yourminecraft com                       |      3      |        5       |   3   |       |
+| zerocraft ru                            |      3      |        5       |   3   |       |
 | zip-mc com                              |      5      |        5       |   3   |       |
 
 Unrated sites
