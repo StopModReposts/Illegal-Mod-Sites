@@ -82,7 +82,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | gameminecraft ru                        |      3      |        5       |   5   |       |
 | gamemodding net                         |      5      |        5       |   5   | **Malware alert!** |
 | games-utilities com                     |      2      |        1       |   3   |       |
-| gamespot com                            |      1      |        5       |   5   |       |
 | gamewise co                             |      3      |        1       |   5   |       |
 | getmod ru                               |      3      |        5       |   2   |       |
 | giga de                                 |      3      |        5       |   5   | **Malware alert!** |
