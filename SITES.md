@@ -38,6 +38,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 9minecraftscom blogspot com             |      1      |        5       |   3   |       |
 | 9mobo com                               |      3      |        5       |   3   |       |
 | all-mod-for-minecraft blogspot com      |      1      |        5       |   3   |       |
+| all-mods ru                             |      1      |        5       |   4   |       |
 | allfreeapk com                          |      2      |        5       |   5   | **Malware alert!** |
 | aminecraft net                          |      1      |        5       |   1   |       |
 | azminecraft info                        |      3      |        5       |   1   |       |
@@ -96,6 +97,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | lambdacore ucoz ru                      |      1      |        5       |   3   |       |
 | launcherfenix com ar                    |      5      |        5       |   3   |       |
 | legacymodpack com                       |      2      |        5       |   1   |       |
+| lemoncraft ru                           |      1      |        5       |   2   |       |
 | loadminecraft ru                        |      1      |        5       |   2   |       |
 | майнкрафт18 рф                          |      1      |        5       |   3   |       |
 | magnetobrowsers net                     |      5      |        5       |   5   | **Malware alert!** |
@@ -227,6 +229,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mineturk com                            |      5      |        5       |   1   |       |
 | minhvietltd com                         |      5      |        5       |   1   |       |
 | mir-crafta ru                           |      4      |        5       |   5   |       |
+| mirvideogames ru                        |      4      |        5       |   3   |       |
 | mizunospb ru                            |      1      |        5       |   5   | **Malware alert!** |
 | mmods net                               |      5      |        5       |   5   |       |
 | mncraftmods ru                          |      3      |        5       |   3   |       |
