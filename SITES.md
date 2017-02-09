@@ -109,6 +109,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | майнкрафт18 рф                          |      1      |        5       |   3   |       |
 | майнкрафтин рф                          |      2      |        5       |   4   |       |
 | magnetobrowsers net                     |      5      |        5       |   5   | **Malware alert!** |
+| mc-mod net                              |      2      |        5       |   2   |       |
 | mc164 ru                                |      4      |        5       |   3   |       |
 | mcdownloads ru                          |      1      |        5       |   3   |       |
 | mcmoddatabase com                       |      3      |        5       |   5   | **Malware alert!** |
