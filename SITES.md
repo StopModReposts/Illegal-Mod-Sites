@@ -109,9 +109,11 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | майнкрафт18 рф                          |      1      |        5       |   3   |       |
 | майнкрафтин рф                          |      2      |        5       |   4   |       |
 | magnetobrowsers net                     |      5      |        5       |   5   | **Malware alert!** |
+| mc ahgame com                           |      5      |        5       |   3   |       |
 | mc-mod net                              |      2      |        5       |   2   |       |
 | mc164 ru                                |      4      |        5       |   3   |       |
 | mcdownloads ru                          |      1      |        5       |   3   |       |
+| mcmap cc                                |      5      |        5       |   1   |       |
 | mcmoddatabase com                       |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                            |      5      |        5       |   1   |       |
 | mcmods ru                               |      3      |        5       |   3   |       |
@@ -262,6 +264,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | modscraft ru                            |      4      |        5       |   4   |       |
 | modsforminecraft org                    |      1      |        5       |   1   |       |
 | modsgate com                            |      1      |        5       |   1   |       |
+| modsmc com                              |      1      |        1       |   5   |       |
 | modsminecraft com                       |      2      |        1       |   5   |       |
 | modsminecraft org                       |      1      |        5       |   1   |       |
 | modsx ru                                |      3      |        5       |   5   | **Malware alert!** |
@@ -327,6 +330,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | vminecrafte ru                          |      1      |        5       |   4   |       |
 | voidswrath com                          |      2      |        5       |   3   |       |
 | wc3-maps ru                             |      5      |        5       |   1   |       |
+| wdsj2 com                               |      3      |        5       |   1   |       |
 | wemine ru                               |      1      |        5       |   3   |       |
 | wizardhax com                           |      1      |        5       |   2   | Also distributes hacked clients. |
 | world-minecraft pp ua                   |      5      |        5       |   5   | **Malware alert!** |
