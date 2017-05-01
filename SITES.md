@@ -175,6 +175,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdata com                       |      1      |        5       |   1   |       |
 | minecraftdatablog blogspot de           |      1      |        5       |   5   |       |
 | minecraftdl com                         |      5      |        1       |   5   | **Malware alert!** |
+| minecraftdownload in                    |      5      |        5       |   3   |       |
 | minecraftdownloadmod blogspot no        |      5      |        4       |   5   |       |
 | minecraftdrive com                      |      1      |        5       |   1   |       |
 | minecrafteando com                      |      3      |        5       |   3   |       |
@@ -296,6 +297,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | pd19 org                                |      1      |        5       |   5   |       |
 | planet-m net                            |      5      |        5       |   3   |       |
 | planet-minecraft ru                     |      5      |        5       |   3   |       |
+| planetaminecraft com                    |      5      |        4       |   3   |       |
 | planetmods net                          |      3      |        5       |   3   |       |
 | proud-portal ru                         |      3      |        5       |   3   |       |
 | q-craft ru                              |      2      |        5       |   3   |       |
@@ -319,6 +321,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | sumycraft ru                            |      2      |        5       |   5   |       |
 | terrariaw ru                            |      4      |        5       |   5   |       |
 | the-minecraft fr                        |      5      |        5       |   2   | Mod rehosts, but also texture packs and maps |
+| tlauncher org                           |      5      |        1       |   3   |       |
 | todocraft net                           |      5      |        1       |   3   |       |
 | ultimateminecraftlj weebly com          |      1      |        5       |   4   |       |
 | uminecraft at ua                        |      1      |        5       |   3   |       |
