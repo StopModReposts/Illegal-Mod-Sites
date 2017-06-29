@@ -217,6 +217,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftnodus do am                    |      2      |        5       |   4   |       |
 | minecraftnow ru                         |      4      |        5       |   4   |       |
 | minecraftonly ru                        |      1      |        5       |   3   |       |
+| minecraftore com                        |      4      |        5       |   5   | **Malware alert!** |
 | minecraftors ru                         |      3      |        5       |   5   | **Malware alert!** |
 | minecraftpe-mods com                    |      2      |        5       |   4   |       |
 | minecraftplanet ru                      |      1      |        5       |   4   |       |
