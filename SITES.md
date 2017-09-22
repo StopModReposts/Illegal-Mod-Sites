@@ -194,6 +194,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftgig ru                         |      1      |        5       |   3   |       |
 | minecraftgood com                       |      5      |        5       |   5   |       |
 | minecrafthd com                         |      3      |        5       |   1   |       |
+| minecrafthub com                        |      3      |        5       |   3   |       |
 | minecrafthut com                        |      5      |        3       |   4   |       |
 | minecraftiamodpack blogspot com         |      5      |        5       |   5   |       |
 | minecraftiamods com                     |      5      |        5       |   1   |       |
@@ -313,6 +314,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | simplesminecraft blogspot com br        |      1      |        5       |   3   |       |
 | simplesminecraft com                    |      3      |        5       |   3   |       |
 | skachat-mody-minecraft ru               |      1      |        5       |   3   |       |
+| skins-minecraft net                     |      2      |        5       |   3   |       |
 | soft32 com                              |      2      |        5       |   5   | **Malware alert!** |
 | softonic com                            |      5      |        5       |   5   | **Malware alert!** |
 | somecraf net                            |      5      |        5       |   3   |       |
