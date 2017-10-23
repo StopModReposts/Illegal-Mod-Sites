@@ -69,7 +69,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | duno-farm ru                            |      5      |        5       |   5   | **Malware alert!** |
 | eminecraft net                          |      1      |        5       |   5   |       |
 | en-minecraft org                        |      3      |        5       |   4   |       |
-| evlas ru                                |      2      |        3       |   3   | Paywall |
+| evlas ru                                |      2      |        3       |   3   | Paywall, potential malware |
 | exe-craft ru                            |      1      |        4       |   5   | **Malware alert!** |
 | fdminecraft net                         |      4      |        5       |   1   |       |
 | file-minecraft com                      |      3      |        5       |   5   |       |
