@@ -207,6 +207,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftmodding net                    |      2      |        5       |   3   |       |
 | minecraftmoddl com                      |      3      |        5       |   5   | **Malware alert!** |
 | minecraftmodlari com                    |      4      |        5       |   3   |       |
+| minecraftmodpacks net                   |      1      |        1       |   4   | Blacklisted for misleading users about the target Minecraft versions of an extensive number of mods and modpacks |
 | minecraftmods biz                       |      5      |        1       |   2   |       |
 | minecraftmods com br                    |      5      |        1       |   1   |       |
 | minecraftmods izben com                 |      2      |        5       |   1   |       |
