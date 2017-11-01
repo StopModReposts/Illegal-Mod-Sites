@@ -31,6 +31,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | 8minecraft com                          |      5      |        5       |   1   |       |
 | 8minecraft org                          |      5      |        5       |   1   |       |
 | 9craft org                              |      1      |        5       |   5   |       |
+| 9lifehack com                           |      5      |        4       |   1   |       |
 | 9minecraft net                          |      5      |        5       |   1   |       |
 | 9minecraftaz blogspot com               |      3      |        5       |   3   |       |
 | 9minecraftmods net                      |      2      |        5       |   3   |       |
@@ -350,6 +351,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | yourgamesdownloadsone com               |      1      |        5       |   5   | **Malware alert!** |
 | yourminecraft com                       |      3      |        5       |   3   |       |
 | zerocraft ru                            |      3      |        5       |   3   |       |
+| zinchat com                             |      3      |        4       |   1   |       |
 | zip-mc com                              |      5      |        5       |   3   |       |
 
 Unrated sites
