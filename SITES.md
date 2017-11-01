@@ -279,7 +279,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | myfreemediacloudone com                 |      1      |        5       |   5   | **Malware alert!** |
 | mymediadownloadsthirtytwo com           |      1      |        5       |   5   | **Malware alert!** |
 | mymediasearchnowthree com               |      1      |        5       |   5   | **Malware alert!** |
-| network vgchartz com                    |      2      |        5       |   4   |       |
+| network vgchartz com                    |      5      |        5       |   4   |       |
 | newfastmediasearcherfive com            |      1      |        5       |   5   | **Malware alert!** |
 | nextminecraft ru                        |      4      |        5       |   5   |       |
 | niceminecraft net                       |      1      |        5       |   1   |       |
