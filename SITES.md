@@ -184,7 +184,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecrafter-mod ru                      |      3      |        5       |   3   |       |
 | minecraftes com                         |      5      |        1       |   1   |       |
 | minecraftevi com                        |      4      |        5       |   5   |       |
-| minecraftexe com                        |      5      |        1       |   5   |       |
+| minecraftexe com                        |      4      |        5       |   5   | Optional social paywall |
 | minecraftexpert ru                      |      1      |        5       |   3   |       |
 | minecraftfile net                       |      1      |        5       |   5   |       |
 | minecraftfive com                       |      1      |        5       |   3   |       |
