@@ -1,0 +1,110 @@
+{
+    "appdesc": {
+        "message": "Détecte et met en garde contre les site qui reposte illégalement des mods Minecraft.",
+        "description": "Description qui est afficher quand on cherche sur le Chrome Web Store."
+    },
+    "blacklist_warn": {
+        "message": "Site bloquer par StopModReposts!",
+        "description": "Apparaît quand sites visiter est blacklistés. Merci de ne pas traduire StopModReposts c'est le nom de la campagne."
+    },
+    "what_happened": {
+        "message": "Ce site est dans la liste des site bloquer par StopModReposts.org pour redistribution de mod illégal. Ce site que vous alliez visiter propose des mods contrefait , Vous pouvez toujours naviguer sur cette page si vous le souhaitez, mais il est déconseillé et beaucoups de site vous propose des malware.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "En savoirs plus sur la campagne StopModReposts.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "Voter pour $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Cliquez ici pour savoir comment nous évaluons les sites.",
+        "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "Chaque site a une note entre 1 et 5: Publiciter, redistribution and divers. Advertising donne le nombre de pub que le site affiche avant de télécharger le mod (plus d'argent pour le propriétaire du site illégal), redistribution indique dans quelle mesure le site redistribue les mods sans permission, and diversindique dans quelle mesure le propriétaire du site induit les utilisateurs en erreur sur les mods affichés (ex: pas a jours, incompatible ou Version innexistante et si le créateur a été mentionné). Un petit score est mieux, 1 étoile est le plus petit score.",
+        "description": "Message which helps users understand what the ratings mean."
+    },
+    "hide_rating_guide": {
+        "message": "(Clicquer pour cacher)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Catégorie",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Publicité",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "Redistribution",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "Divert",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "Niveau de mal",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "Niveau d'évaluation",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "Rien",
+        "description": "Used for sites which do not redistribute mods/advertise etc."
+    },
+    "severity_low": {
+        "message": "Petit",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Moyen",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Fort",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Trés fort",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Note pour ce site: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Retourner a la page précédant",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(recommander pour votre sécuriter)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Continuer vers le site",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(peut perturber votre ordinateur)",
+        "description": "Help text for the above button"
+    }
+}
