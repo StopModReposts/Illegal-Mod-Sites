@@ -186,6 +186,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftevi com                        |      4      |        5       |   5   |       |
 | minecraftexe com                        |      4      |        5       |   5   | Optional social paywall |
 | minecraftexpert ru                      |      1      |        5       |   3   |       |
+| minecraftfc com                         |      3      |        5       |   1   |       |
 | minecraftfile net                       |      1      |        5       |   5   |       |
 | minecraftfive com                       |      1      |        5       |   3   |       |
 | minecraftfly ru                         |      1      |        5       |   2   |       |
