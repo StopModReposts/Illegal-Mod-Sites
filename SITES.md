@@ -76,7 +76,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | file-minecraft com                      |      3      |        5       |   5   |       |
 | for-minecraft com                       |      3      |        5       |   3   |       |
 | forminecrafters ru                      |      2      |        5       |   5   |       |
-| fr-minecraft net<sub>/14-</sub>         |      2      |        5       |   1   | This site is not known to contain malware. |
 | fr-minecraft net<sub>/mod-minecraft-</sub> |   2      |        5       |   1   | This site is not known to contain malware. |
 | freedownloadminecraft com               |      5      |        5       |   3   |       |
 | freeminecraftmods com                   |      3      |        5       |   4   |       |
