@@ -300,6 +300,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | osdarlings com                          |      5      |        5       |   5   |       |
 | packs548 rssing com                     |      3      |        5       |   1   |       |
 | pandoriacraft ru                        |      1      |        5       |   3   |       |
+| pcminecraft-mods com                    |      1      |        5       |   3   |       |
 | pd19 org                                |      1      |        5       |   5   |       |
 | planet-m net                            |      5      |        5       |   3   |       |
 | planet-minecraft ru                     |      5      |        5       |   3   |       |
