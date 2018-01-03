@@ -316,6 +316,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | ru-minecraft ru                         |      5      |        5       |   1   |       |
 | ru-minecrafty ru                        |      4      |        5       |   3   |       |
 | setcraft ru                             |      5      |        5       |   5   | **Malware alert!** |
+| shadersmod net                          |      1      |        5       |   5   | **Malware alert!** |
 | simplesminecraft blogspot com br        |      1      |        5       |   3   |       |
 | simplesminecraft com                    |      3      |        5       |   3   |       |
 | skachat-mody-minecraft ru               |      1      |        5       |   3   |       |
@@ -331,6 +332,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | the-minecraft fr                        |      5      |        5       |   2   | Mod rehosts, but also texture packs and maps |
 | tlauncher org                           |      5      |        1       |   3   |       |
 | todocraft net                           |      5      |        1       |   3   |       |
+| topminecraftmods com                    |      2      |        5       |   5   | **Malware alert!** |
 | ultimateminecraftlj weebly com          |      1      |        5       |   4   |       |
 | uminecraft at ua                        |      1      |        5       |   3   |       |
 | upload-minecraft ru                     |      1      |        5       |   5   | **Malware alert!** |
