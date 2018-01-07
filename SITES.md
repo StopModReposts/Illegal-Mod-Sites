@@ -177,6 +177,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdatablog blogspot de           |      1      |        5       |   5   |       |
 | minecraftdl com                         |      5      |        1       |   5   | **Malware alert!** |
 | minecraftdownload in                    |      5      |        5       |   3   |       |
+| minecraftdownloadaz blogspot com        |      1      |        5       |   1   |       |
 | minecraftdownloadmod blogspot no        |      5      |        4       |   5   |       |
 | minecraftdrive com                      |      1      |        5       |   1   |       |
 | minecrafteando com                      |      3      |        5       |   3   |       |
