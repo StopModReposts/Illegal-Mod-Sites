@@ -48,6 +48,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | begin-minecraft ru                      |      1      |        5       |   3   |       |
 | bendercraft ru                          |      5      |        5       |   4   |       |
 | bigminecraft ru                         |      3      |        5       |   3   |       |
+| blackspigot com                         |      3      |        5       |   3   |       |
 | bnstbns pro                             |      5      |        5       |   5   | **Malware alert!** |
 | c-raft ru                               |      1      |        5       |   5   |       |
 | clubminecraftbr blogspot com            |      1      |        5       |   3   |       |
