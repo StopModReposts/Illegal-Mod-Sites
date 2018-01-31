@@ -105,6 +105,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | lambdacore ucoz ru                      |      1      |        5       |   3   |       |
 | launcherfenix com ar                    |      5      |        5       |   3   |       |
 | legacymodpack com                       |      2      |        5       |   1   |       |
+| legionminecraft com                     |      2      |        5       |   4   |       |
 | lemoncraft ru                           |      1      |        5       |   2   |       |
 | lestnica44 ru                           |      1      |        5       |   5   | **Malware alert!** |
 | loadminecraft ru                        |      1      |        5       |   2   |       |
@@ -191,6 +192,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftexe com                        |      4      |        5       |   5   | Optional social paywall |
 | minecraftexpert ru                      |      1      |        5       |   3   |       |
 | minecraftfc com                         |      3      |        5       |   1   |       |
+| minecraftfile com                       |      1      |        5       |   3   |       |
 | minecraftfile net                       |      1      |        5       |   5   |       |
 | minecraftfive com                       |      1      |        5       |   3   |       |
 | minecraftfly ru                         |      1      |        5       |   2   |       |
