@@ -366,6 +366,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | zerocraft ru                            |      3      |        5       |   3   |       |
 | zinchat com                             |      3      |        4       |   1   |       |
 | zip-mc com                              |      5      |        5       |   3   |       |
+| zonacraft net                           |      3      |        5       |   4   |       |
 
 Unrated sites
 =============
