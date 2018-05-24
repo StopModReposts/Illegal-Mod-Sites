@@ -57,6 +57,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | craftzon ru                             |      4      |        5       |   5   |       |
 | dascraft org                            |      2      |        5       |   5   |       |
 | day2play pl                             |      5      |        5       |   5   |       |
+| deliverytodaymeta com                   |      1      |        5       |   5   | **Malware alert!** |
 | descargarminecraftgratis net            |      5      |        5       |   3   |       |
 | digitalgamesonlinenowone com            |      1      |        5       |   5   | **Malware alert!** |
 | dle01 sofftportall8nn info              |      3      |        5       |   3   | Paywall |
@@ -264,6 +265,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mmods net                               |      5      |        5       |   5   |       |
 | mncraftmods ru                          |      3      |        5       |   3   |       |
 | mobileminecraft com br                  |      2      |        5       |   2   |       |
+| mod-downloader com                      |      1      |        5       |   5   | **Malware alert!** |
 | mod-for-minecraft net                   |      3      |        5       |   5   |       |
 | mod-minecraft net                       |      3      |        5       |   2   |       |
 | mod-minecraft ru                        |      1      |        5       |   3   |       |
