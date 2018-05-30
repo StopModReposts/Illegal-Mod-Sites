@@ -241,6 +241,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecrafts-mod ru                       |      3      |        5       |   3   |       |
 | minecraftsemlimites com                 |      3      |        5       |   1   |       |
 | minecraftside com                       |      5      |        5       |   4   |       |
+| minecraftsix com                        |      5      |        2       |   5   | Misleading versions for minecraft mods |
+| minecraftsix es                         |      5      |        2       |   5   | Misleading versions for minecraft mods |
 | minecraftsone blogspot no               |      1      |        5       |   3   |       |
 | minecraftspace com                      |      3      |        1       |   3   |       |
 | minecraftspot net                       |      3      |        5       |   3   |       |
