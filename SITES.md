@@ -78,6 +78,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | fdminecraft net                         |      4      |        5       |   1   |       |
 | file-minecraft com                      |      3      |        5       |   5   |       |
 | fileplanet com                          |      3      |        5       |   3   |       |
+| fileversal com                          |      1      |        5       |   1   |       |
 | for-minecraft com                       |      3      |        5       |   3   |       |
 | forminecrafters ru                      |      2      |        5       |   5   |       |
 | fr-minecraft net<sub>/mod-minecraft-</sub> |   2      |        5       |   1   | This site is not known to contain malware. |
@@ -120,6 +121,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mc ahgame com                           |      5      |        5       |   3   |       |
 | mc-mod net                              |      5      |        5       |   2   |       |
 | mc-mods org                             |      3      |        1       |   5   |       |
+| mc-vn net                               |      5      |        5       |   1   |       |
 | mc164 ru                                |      4      |        5       |   3   |       |
 | mcdownloads ru                          |      1      |        5       |   3   |       |
 | mcmap cc                                |      5      |        5       |   1   |       |
@@ -242,6 +244,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftpe-mods com                    |      2      |        5       |   4   |       |
 | minecraftplanet ru                      |      1      |        5       |   4   |       |
 | minecraftplanet biz                     |      5      |        5       |   5   |       |
+| minecraftplus org                       |      5      |        5       |   3   |       |
 | minecraftposts net                      |      3      |        5       |   5   |       |
 | minecraftpw ru                          |      1      |        5       |   4   |       |
 | minecraftq ru                           |      3      |        5       |   5   | **Malware alert!** |
