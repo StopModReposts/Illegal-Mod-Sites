@@ -118,6 +118,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | magnetobrowsers net                     |      5      |        5       |   5   | **Malware alert!** |
 | mc ahgame com                           |      5      |        5       |   3   |       |
 | mc-mod net                              |      5      |        5       |   2   |       |
+| mc-mods org                             |      3      |        1       |   5   |       |
 | mc164 ru                                |      4      |        5       |   3   |       |
 | mcdownloads ru                          |      1      |        5       |   3   |       |
 | mcmap cc                                |      5      |        5       |   1   |       |
