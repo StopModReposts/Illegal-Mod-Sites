@@ -134,6 +134,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mine-craft ws                           |      1      |        5       |   3   |       |
 | mineblock ru                            |      3      |        5       |   4   |       |
 | minecraft diablo1 ru                    |      3      |        5       |   3   |       |
+| minecraftapks com                       |      3      |        5       |   5   |       |
 | minecraftstores com                     |      5      |        5       |   1   |       |
 | minecraft-365 com                       |      1      |        5       |   5   |       |
 | minecraft-all ru                        |      3      |        5       |   4   |       |
