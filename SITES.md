@@ -92,6 +92,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | gamefiles de                            |      3      |        5       |   3   |       |
 | gameminecraft ru                        |      3      |        5       |   5   |       |
 | gamemodding net                         |      5      |        5       |   5   | **Malware alert!** |
+| gameoverus com                          |      5      |        5       |   3   |       |
 | games-utilities com                     |      2      |        1       |   3   |       |
 | gamewise co                             |      3      |        1       |   5   |       |
 | getmod ru                               |      3      |        5       |   2   |       |
