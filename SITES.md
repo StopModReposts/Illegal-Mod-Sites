@@ -96,7 +96,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | gameoverus com                          |      5      |        5       |   3   |       |
 | games-utilities com                     |      2      |        1       |   3   |       |
 | gamewise co                             |      3      |        1       |   5   |       |
-| geroncraft ru                           |      3      |        1       |   4   |       |
 | getmod ru                               |      3      |        5       |   2   |       |
 | giga de                                 |      3      |        5       |   5   | **Malware alert!** |
 | gigminecraft net                        |      2      |        5       |   3   |       |
