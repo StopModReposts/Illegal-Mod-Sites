@@ -196,6 +196,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftdownloadmod blogspot no        |      5      |        4       |   5   |       |
 | minecraftdrive com                      |      1      |        5       |   1   |       |
 | minecrafteando com                      |      3      |        5       |   3   |       |
+| minecrafted su                          |      2      |        5       |   3   |       |
 | minecrafteon com                        |      1      |        2       |   4   |       |
 | minecrafter-mod ru                      |      3      |        5       |   3   |       |
 | minecraftes com                         |      5      |        1       |   1   |       |
@@ -327,6 +328,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | pcminecraft-mods com                    |      1      |        5       |   3   |       |
 | pd19 org                                |      1      |        5       |   5   |       |
 | planet-m net                            |      5      |        5       |   3   |       |
+| planet-mc net                           |      5      |        5       |   3   |       |
 | planet-minecraft ru                     |      5      |        5       |   3   |       |
 | planetaminecraft com                    |      5      |        4       |   3   |       |
 | planetmods net                          |      3      |        5       |   3   |       |
