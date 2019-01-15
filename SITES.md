@@ -286,11 +286,13 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mod-minecraft net                       |      3      |        5       |   2   |       |
 | mod-minecraft ru                        |      1      |        5       |   3   |       |
 | modcraft biz                            |      3      |        5       |   3   |       |
+| modcraft su                             |      3      |        5       |   3   |       |
 | moddingames wordpress com               |      5      |        5       |   4   |       |
 | modfast ru                              |      5      |        5       |   3   |       |
 | modminecrafts com                       |      3      |        5       |   3   |       |
 | mododrom ru                             |      1      |        5       |   4   | **Malware alert!** |
 | mods-for-minecraft net                  |      1      |        5       |   4   |       |
+| modscraft net                           |      3      |        5       |   3   |       |
 | modscraft ru                            |      4      |        5       |   4   |       |
 | modsforminecraft org                    |      1      |        5       |   1   |       |
 | modsgate com                            |      1      |        5       |   1   |       |
