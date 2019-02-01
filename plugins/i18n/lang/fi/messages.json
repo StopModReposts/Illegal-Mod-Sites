@@ -1,18 +1,23 @@
 {
     "appdesc": {
-        "message": "Huomaa ja varoittaa sivuista, jotka tunnetaan Minecraft-modien laittomista uudelleenpostaamisista."
+        "message": "Huomaa ja varoittaa sivuista, jotka tunnetaan Minecraft-modien laittomista uudelleenpostaamisista.",
+        "description": "The description of the extension as it appears when searching in Chrome Web Store."
     },
     "blacklist_warn": {
-        "message": "Sivusto on StopModReposts-kampanjan mustalla listalla!"
+        "message": "Sivusto on StopModReposts-kampanjan mustalla listalla!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Tämä sivusto on StopModRepostsin laittoman modien uudelleenpostaamisen mustalla listalla. Tämä tarkoittaa, että verkkosivu, jolle yritit mennä nyt varastaa modeja modaajilta ilman oikeutta ladata niitä tänne, linkkaa vanhoihin, yhteensopimattomiin tai olemattomiin versioihin modeista, ja/tai ansaitsee rahaa latauslinkeistä, eikä tue modaajien rankkaa työtä. Voit edelleen mennä tälle sivulle jos haluat, mutta sitä ei suositella, ja jotkin sivustot laittavat tietokoneesi mahdollisen virustartunnan riskiin."
+        "message": "Tämä sivusto on StopModRepostsin laittoman modien uudelleenpostaamisen mustalla listalla. Tämä tarkoittaa, että verkkosivu, jolle yritit mennä nyt varastaa modeja modaajilta ilman oikeutta ladata niitä tänne, linkkaa vanhoihin, yhteensopimattomiin tai olemattomiin versioihin modeista, ja\/tai ansaitsee rahaa latauslinkeistä, eikä tue modaajien rankkaa työtä. Voit edelleen mennä tälle sivulle jos haluat, mutta sitä ei suositella, ja jotkin sivustot laittavat tietokoneesi mahdollisen virustartunnan riskiin.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
-        "message": "Paina tästä saadaksesi lisää tietoa StopModRepostsista."
+        "message": "Paina tästä saadaksesi lisää tietoa StopModRepostsista.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
     },
     "this_site": {
         "message": "Arvostelu $site$:lle",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
         "placeholders": {
             "site": {
                 "content": "$1",
@@ -21,66 +26,85 @@
         }
     },
     "learn_more": {
-        "message": "Paina tästä oppiaksesi, kuinka me arvostelemme sivuja."
+        "message": "Paina tästä oppiaksesi, kuinka me arvostelemme sivuja.",
+        "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
-        "message": "Jokaiselle sivulle annetaan arvostelu 1:stä 5:een kolmessa luokassa: Mainostus, Uudelleenjakelu ja Sekalaiset. Mainostus merkitsee, kuinka paljon mainoksia modien lataajille näytetään (lisää rahaa laittoman sivuston omistajalle), uudelleenjakelu merkitsee mihin asti sivusto uudelleenjakaa modeja ilman lupaa, ja sekalaiset tarkoittavat mihin asti sivuston omistaja harhaanjohtaa modien lataajia postatuista modeista (esim. vanhat, yhteensopimattomat ja olemattomat modien versiot), ja annetaanko modien alkuperäiselle tekijälle hyvitystä. Alhaisempi pistemäärä on parempi, eli 1 on paras."
+        "message": "Jokaiselle sivulle annetaan arvostelu 1:stä 5:een kolmessa luokassa: Mainostus, Uudelleenjakelu ja Sekalaiset. Mainostus merkitsee, kuinka paljon mainoksia modien lataajille näytetään (lisää rahaa laittoman sivuston omistajalle), uudelleenjakelu merkitsee mihin asti sivusto uudelleenjakaa modeja ilman lupaa, ja sekalaiset tarkoittavat mihin asti sivuston omistaja harhaanjohtaa modien lataajia postatuista modeista (esim. vanhat, yhteensopimattomat ja olemattomat modien versiot), ja annetaanko modien alkuperäiselle tekijälle hyvitystä. Alhaisempi pistemäärä on parempi, eli 1 on paras.",
+        "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
-        "message": "(klikkaa piilottaaksesi)"
+        "message": "(klikkaa piilottaaksesi)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
-        "message": "Luokka"
+        "message": "Luokka",
+        "description": "Table header for the three categories below."
     },
     "rating_ads": {
-        "message": "Mainostus"
+        "message": "Mainostus",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
     "rating_redist": {
-        "message": "Uudelleenjakelu"
+        "message": "Uudelleenjakelu",
+        "description": "Same as above, except this is for redistribution."
     },
     "rating_misc": {
-        "message": "Sekalaiset"
+        "message": "Sekalaiset",
+        "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
-        "message": "Pahuusarvostelu"
+        "message": "Pahuusarvostelu",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
     },
     "ratelevel": {
-        "message": "Arvostelutaso"
+        "message": "Arvostelutaso",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
     },
     "severity_none": {
-        "message": "Ei ole"
+        "message": "Ei ole",
+        "description": "Used for sites which do not redistribute mods\/advertise etc."
     },
     "severity_low": {
-        "message": "Alhainen"
+        "message": "Alhainen",
+        "description": "Used for sites which do the above to a small extent."
     },
     "severity_medium": {
-        "message": "Keskiverto"
-},
+        "message": "Keskiverto",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
     "severity_high": {
-        "message": "Korkea"
+        "message": "Korkea",
+        "description": "Used for sites which do the above to a large extent."
     },
     "severity_veryhigh": {
-        "message": "Erittäin korkea"
+        "message": "Erittäin korkea",
+        "description": "Used for sites which do the above to a very large extent."
     },
     "site_notes": {
         "message": "Huomautukset sivulle: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
         "placeholders": {
             "reason": {
                 "content": "$1",
-                "example": "Haittaohjelmavaroitus!"
+                "example": "Malware alert!"
             }
         }
     },
     "go_back": {
-        "message": "Mene takaisin edelliselle sivulle"
+        "message": "Mene takaisin edelliselle sivulle",
+        "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "(suositeltu turvallisuuden takia)"
+        "message": "(suositeltu turvallisuuden takia)",
+        "description": "Help text for the above button"
     },
     "continue": {
-        "message": "Jatka sivulle"
+        "message": "Jatka sivulle",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     },
     "why_continue": {
-        "message": "(voi vahingoittaa tietokonettasi)"
+        "message": "(voi vahingoittaa tietokonettasi)",
+        "description": "Help text for the above button"
     }
 }
