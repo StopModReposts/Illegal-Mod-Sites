@@ -46,11 +46,11 @@
         "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
     "rating_redist": {
-        "message": "ridistribuzione",
+        "message": "Ridistribuzione",
         "description": "Same as above, except this is for redistribution."
     },
     "rating_misc": {
-        "message": "varie",
+        "message": "Varie",
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
