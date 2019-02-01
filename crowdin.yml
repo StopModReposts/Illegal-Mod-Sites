@@ -1,0 +1,3 @@
+files:
+  - source: /plugins/i18n/lang/en/*
+    translation: /plugins/i18n/lang/%two_letters_code%/%original_file_name%
