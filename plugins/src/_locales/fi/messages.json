@@ -1,0 +1,86 @@
+{
+    "appdesc": {
+        "message": "Huomaa ja varoittaa sivuista, jotka tunnetaan Minecraft-modien laittomista uudelleenpostaamisista."
+    },
+    "blacklist_warn": {
+        "message": "Sivusto on StopModReposts-kampanjan mustalla listalla!"
+    },
+    "what_happened": {
+        "message": "Tämä sivusto on StopModRepostsin laittoman modien uudelleenpostaamisen mustalla listalla. Tämä tarkoittaa, että verkkosivu, jolle yritit mennä nyt varastaa modeja modaajilta ilman oikeutta ladata niitä tänne, linkkaa vanhoihin, yhteensopimattomiin tai olemattomiin versioihin modeista, ja/tai ansaitsee rahaa latauslinkeistä, eikä tue modaajien rankkaa työtä. Voit edelleen mennä tälle sivulle jos haluat, mutta sitä ei suositella, ja jotkin sivustot laittavat tietokoneesi mahdollisen virustartunnan riskiin."
+    },
+    "campaign_info": {
+        "message": "Paina tästä saadaksesi lisää tietoa StopModRepostsista."
+    },
+    "this_site": {
+        "message": "Arvostelu $site$:lle",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Paina tästä oppiaksesi, kuinka me arvostelemme sivuja."
+    },
+    "how_we_rate": {
+        "message": "Jokaiselle sivulle annetaan arvostelu 1:stä 5:een kolmessa luokassa: Mainostus, Uudelleenjakelu ja Sekalaiset. Mainostus merkitsee, kuinka paljon mainoksia modien lataajille näytetään (lisää rahaa laittoman sivuston omistajalle), uudelleenjakelu merkitsee mihin asti sivusto uudelleenjakaa modeja ilman lupaa, ja sekalaiset tarkoittavat mihin asti sivuston omistaja harhaanjohtaa modien lataajia postatuista modeista (esim. vanhat, yhteensopimattomat ja olemattomat modien versiot), ja annetaanko modien alkuperäiselle tekijälle hyvitystä. Alhaisempi pistemäärä on parempi, eli 1 on paras."
+    },
+    "hide_rating_guide": {
+        "message": "(klikkaa piilottaaksesi)"
+    },
+    "category": {
+        "message": "Luokka"
+    },
+    "rating_ads": {
+        "message": "Mainostus"
+    },
+    "rating_redist": {
+        "message": "Uudelleenjakelu"
+    },
+    "rating_misc": {
+        "message": "Sekalaiset"
+    },
+    "evilness": {
+        "message": "Pahuusarvostelu"
+    },
+    "ratelevel": {
+        "message": "Arvostelutaso"
+    },
+    "severity_none": {
+        "message": "Ei ole"
+    },
+    "severity_low": {
+        "message": "Alhainen"
+    },
+    "severity_medium": {
+        "message": "Keskiverto"
+},
+    "severity_high": {
+        "message": "Korkea"
+    },
+    "severity_veryhigh": {
+        "message": "Erittäin korkea"
+    },
+    "site_notes": {
+        "message": "Huomautukset sivulle: $reason$",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Haittaohjelmavaroitus!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Mene takaisin edelliselle sivulle"
+    },
+    "why_go_back": {
+        "message": "(suositeltu turvallisuuden takia)"
+    },
+    "continue": {
+        "message": "Jatka sivulle"
+    },
+    "why_continue": {
+        "message": "(voi vahingoittaa tietokonettasi)"
+    }
+}
