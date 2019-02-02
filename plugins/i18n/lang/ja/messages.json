@@ -24,5 +24,33 @@
     "rating_misc": {
         "message": "その他",
         "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "ratelevel": {
+        "message": "評価レベル",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "なし",
+        "description": "Used for sites which do not redistribute mods\/advertise etc."
+    },
+    "severity_low": {
+        "message": "低い",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "中間",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "高い",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "非常に高い",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "go_back": {
+        "message": "以前のページへ戻る",
+        "description": "Green button which user can press to return to the previous page they were on"
     }
 }
