@@ -1,4 +1,8 @@
 {
+    "appdesc": {
+        "message": "Minecraft の Mod を不法に再投稿することで知られているサイトを検出および警告します。",
+        "description": "The description of the extension as it appears when searching in Chrome Web Store."
+    },
     "blacklist_warn": {
         "message": "StopModReposts によってブラックリストに載せられたサイトです！",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
@@ -14,7 +18,7 @@
         }
     },
     "hide_rating_guide": {
-        "message": "（非表示するにはクリック）",
+        "message": "（クリックして非表示）",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
@@ -76,7 +80,7 @@
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "（あなたの安全のために推奨）",
+        "message": "（安全のために推奨）",
         "description": "Help text for the above button"
     },
     "continue": {
