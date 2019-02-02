@@ -1,3 +1,28 @@
 {
-
+    "this_site": {
+        "message": "$site$ の評価",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "category": {
+        "message": "カテゴリー",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "広告",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "再配布",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "その他",
+        "description": "Same as above, except this is for the miscellaneous category."
+    }
 }
