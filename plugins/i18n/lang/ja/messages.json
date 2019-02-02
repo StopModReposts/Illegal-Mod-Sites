@@ -94,5 +94,9 @@
     "continue": {
         "message": "サイトに進む",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "（コンピューターに害を及ぼす可能性がある）",
+        "description": "Help text for the above button"
     }
 }
