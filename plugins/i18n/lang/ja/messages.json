@@ -21,6 +21,10 @@
             }
         }
     },
+    "learn_more": {
+        "message": "サイトを評価する方法については、ここをクリックしてください。",
+        "description": "Users click this link to display the message below."
+    },
     "hide_rating_guide": {
         "message": "（クリックして非表示）",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
