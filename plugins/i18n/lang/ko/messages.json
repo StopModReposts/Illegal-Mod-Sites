@@ -26,7 +26,7 @@
         }
     },
     "learn_more": {
-        "message": "사이트를 어떻게 평가하는지 알아보려면 여기를 클릭하세요.",
+        "message": "사이트를 평가하는 방법에 대해 알아보려면 여기를 클릭하세요.",
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
