@@ -29,6 +29,10 @@
         "message": "その他",
         "description": "Same as above, except this is for the miscellaneous category."
     },
+    "evilness": {
+        "message": "有害評価",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
     "ratelevel": {
         "message": "評価レベル",
         "description": "Samea as above, but is used for the five severities below instead of stars."
