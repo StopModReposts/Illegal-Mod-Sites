@@ -1,4 +1,8 @@
 {
+    "blacklist_warn": {
+        "message": "StopModReposts によってブラックリストに載せられたサイトです！",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
     "this_site": {
         "message": "$site$ の評価",
         "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
@@ -70,6 +74,10 @@
     "go_back": {
         "message": "以前のページへ戻る",
         "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "（あなたの安全のために推奨）",
+        "description": "Help text for the above button"
     },
     "continue": {
         "message": "サイトに進む",
