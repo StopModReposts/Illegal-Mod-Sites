@@ -7,4 +7,4 @@ DMCA 및 테이크다운 공고에 실패한 경우에는 커뮤니티에 의존
 
 이 확장은 모딩 커뮤니티의 또 다른 구성원인 bilde2910이 개발하고 있습니다. StopModReposts.org 웹사이트는 다른 구성원들이 설계했고 개발했기에 저희는 서로 직접적으로 관련되어 있지 않습니다. Twitter의 @StopModReposts도 마찬가지입니다. 보고할 것이나 질문이 있다면 언제든지 @bilde2910에게 트윗하거나 marius (골뱅이) varden (점) info로 이메일을 보내주세요. EsperNet IRC 네트워크의 #stopmodreposts에서도 bilde2910을 찾으실 수 있습니다.
 
-이 확장이 경고하는 사이트는 https://github.com/VictiniX888/Illegal-Mod-Sites에 나열된 것과 동일한 사이트이며, 며칠 또는 몇 시간마다 새로운 호스트로 갱신됩니다. 이 사이트 중 하나를 소유하고 있으며 목록에서 제거되기를 원하시는 경우에는 EsperNet의 #stopmodreposts 채널에 있는 분들과 대화를 나눠보시는 것을 제안합니다. 이쪽 분들이 귀하를 제거하는 것이 좋은 생각인지 아닌지 고려해볼 것입니다.
+이 확장이 경고하는 사이트는 https://github.com/VictiniX888/Illegal-Mod-Sites에 나열된 것과 동일한 사이트이며, 며칠 또는 몇 시간마다 새로운 호스트로 갱신됩니다. 이 사이트 중 하나를 소유하고 있으며 목록에서 제거되기를 원하시는 경우에는 EsperNet의 #stopmodreposts 채널에 있는 분들과 대화를 나눠보시는 것을 제안합니다. 이쪽 분들이 귀하를 제거하는 것이 좋은 생각인지 아닌지 알아볼 것입니다.
