@@ -378,7 +378,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wc3-maps ru                             |      5      |        5       |   1   |       |
 | wdsj2 com                               |      3      |        5       |   1   |       |
 | wemine ru                               |      1      |        5       |   3   |       |
-| wizardhax com                           |      1      |        5       |   2   | Also distributes hacked clients. |
+| wizardhax com                           |      5      |        5       |   5   | Likely malware, also distributes hacked clients. |
 | world-minecraft pp ua                   |      5      |        5       |   5   | **Malware alert!** |
 | worldofmods com                         |      3      |        5       |   3   |       |
 | wpminecraft blogspot com                |      1      |        5       |   5   |       |
