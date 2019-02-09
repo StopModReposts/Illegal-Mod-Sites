@@ -263,6 +263,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraftspot net                       |      3      |        5       |   3   |       |
 | minecraftsy com                         |      5      |        5       |   3   |       |
 | minecrafttime com                       |      3      |        5       |   3   |       |
+| minecrafttube net                       |      5      |        5       |   5   | **Malware alert!** |
 | minecraftvip com                        |      2      |        5       |   1   |       |
 | minecraftxl com                         |      5      |        5       |   3   |       |
 | minecraftxz com                         |      4      |        5       |   1   |       |
