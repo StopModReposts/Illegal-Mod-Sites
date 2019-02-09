@@ -175,6 +175,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-tools org                     |      1      |        5       |   5   |       |
 | minecraft-x net                         |      1      |        5       |   3   |       |
 | minecraft-zet ru                        |      3      |        5       |   3   |       |
+| minecraft11 com                         |      4      |        5       |   5   |       |
 | minecraft12 com                         |      5      |        1       |   5   |       |
 | minecraft123 net                        |      1      |        5       |   3   |       |
 | minecraft15 my1 ru                      |      4      |        5       |   2   |       |
