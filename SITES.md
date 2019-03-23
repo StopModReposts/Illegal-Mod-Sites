@@ -374,7 +374,6 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | vminecraft ru                           |      1      |        5       |   3   |       |
 | vminecrafte ru                          |      1      |        5       |   4   |       |
 | vodafoneuksignal com                    |      5      |        5       |   1   |       |
-| voidswrath com                          |      2      |        5       |   3   |       |
 | wc3-maps ru                             |      5      |        5       |   1   |       |
 | wdsj2 com                               |      3      |        5       |   1   |       |
 | wemine ru                               |      1      |        5       |   3   |       |
