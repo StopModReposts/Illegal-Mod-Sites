@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "이 웹사이트는 StopModReposts.org가 불법 모드 재배포를 이유로 블랙리스트에 올린 사이트 목록에 올라가 있습니다. 이는 방금 방문하려고 했던 웹페이지가 모드 제작자들에게서 모드를 여기에 올리기 위한 허가 없이 모드를 도용하거나, 오래되거나 비호환 또는 존재하지 않는 버전의 모드로 연결되거나 아니면 모드 제작자들이 힘들게 만든 작품에서 돈을 번다는 것을 의미합니다. 원한다면 이 페이지를 계속 탐색할 수는 있지만 권장되지 않으며 일부 사이트에서는 컴퓨터가 바이러스 및 맬웨어에 감염될 위험에 노출될 수 있습니다.",
+        "message": "이 웹사이트는 StopModReposts.org가 불법 모드 재배포를 이유로 블랙리스트에 올린 사이트 목록에 올라가 있습니다. 이는 방금 방문하려고 했던 웹페이지가 모드 제작자들에게서 모드를 여기에 업로드하기 위한 허가 없이 도용하거나, 오래되거나 비호환 또는 존재하지 않는 버전의 모드로 연결되거나 아니면 모드 제작자들이 힘들게 만든 작품으로 돈을 번다는 것을 의미합니다. 원한다면 이 페이지를 계속 탐색할 수는 있지만 권장되지 않으며 일부 사이트에서는 컴퓨터가 바이러스 및 맬웨어에 감염될 위험에 노출될 수 있습니다.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
