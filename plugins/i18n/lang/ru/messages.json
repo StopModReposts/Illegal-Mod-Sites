@@ -1,4 +1,12 @@
 {
+    "learn_more": {
+        "message": "Нажмите здесь, чтобы узнать, как мы оцениваем сайты.",
+        "description": "Users click this link to display the message below."
+    },
+    "hide_rating_guide": {
+        "message": "(Нажмите, чтобы скрыть)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
     "category": {
         "message": "Категория",
         "description": "Table header for the three categories below."
@@ -12,11 +20,11 @@
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
-        "message": "Уровень зла",
+        "message": "Рейтинг зла",
         "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
     },
     "ratelevel": {
-        "message": "Рейтинговый уровень",
+        "message": "Уровень",
         "description": "Samea as above, but is used for the five severities below instead of stars."
     },
     "severity_none": {
@@ -48,5 +56,21 @@
                 "example": "Malware alert!"
             }
         }
+    },
+    "go_back": {
+        "message": "Вернуться назад",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(рекомендуется для вашей безопасности)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Всё равно открыть сайт",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(может нанести вред вашему компьютеру)",
+        "description": "Help text for the above button"
     }
 }
