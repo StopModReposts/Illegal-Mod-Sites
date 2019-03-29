@@ -11,8 +11,42 @@
         "message": "Прочее",
         "description": "Same as above, except this is for the miscellaneous category."
     },
+    "evilness": {
+        "message": "Уровень зла",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "Рейтинговый уровень",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "Нет",
+        "description": "Used for sites which do not redistribute mods\/advertise etc."
+    },
     "severity_low": {
         "message": "Низкий",
         "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Средний",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Высокий",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Очень высокий",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Примечания для этого сайта: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
     }
 }
