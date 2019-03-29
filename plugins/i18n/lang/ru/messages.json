@@ -1,7 +1,21 @@
 {
+    "this_site": {
+        "message": "Рейтинг для $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
     "learn_more": {
         "message": "Нажмите здесь, чтобы узнать, как мы оцениваем сайты.",
         "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "Каждому сайту присваивается оценка от 1 до 5 по трём категориям: реклама, нелегальное распространение и ввод в заблуждение. Реклама отображает количество объявлений показываемых игрокам (уровень заработка владельца нелегального сайта), нелегальное распространение указывает на то, как сильно сайт распространяет моды без разрешения и ввод в заблуждение отвечает за актуальность, совместимость и подлинность версий публикуемых модов, а также указание автора.",
+        "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
         "message": "(Нажмите, чтобы скрыть)",
@@ -15,8 +29,12 @@
         "message": "Реклама",
         "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
+    "rating_redist": {
+        "message": "Нелегальное распространение",
+        "description": "Same as above, except this is for redistribution."
+    },
     "rating_misc": {
-        "message": "Прочее",
+        "message": "Ввод в заблуждение",
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
