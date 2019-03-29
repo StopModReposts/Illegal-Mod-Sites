@@ -1,22 +1,18 @@
 {
     "appdesc": {
-        "message": "Minecraft 모드를 불법적으로 다시 올리는 것으로 알려진 사이트를 감지 및 경고합니다.",
+        "message": "Minecraft の Mod を不法に再投稿することで知られているサイトを検出および警告します。",
         "description": "The description of the extension as it appears when searching in Chrome Web Store."
     },
     "blacklist_warn": {
-        "message": "StopModReposts가 블랙리스트에 올린 사이트입니다!",
+        "message": "StopModReposts によってブラックリストに載せられたサイトです！",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
-    "what_happened": {
-        "message": "이 웹사이트는 StopModReposts.org가 불법 모드 재배포를 이유로 블랙리스트에 올린 사이트 목록에 올라가 있습니다. 이는 방금 방문하려고 했던 웹페이지가 모드 제작자들에게서 모드를 여기에 업로드하기 위한 허가 없이 도용하거나, 오래되거나 비호환 또는 존재하지 않는 버전의 모드로 연결되거나 아니면 모드 제작자들이 힘들게 만든 작품으로 돈을 번다는 것을 의미합니다. 원한다면 이 페이지를 계속 탐색할 수는 있지만 권장되지 않으며 일부 사이트에서는 컴퓨터가 바이러스 및 맬웨어에 감염될 위험에 노출될 수 있습니다.",
-        "description": "The message that is shown to users when they land on a blacklisted page."
-    },
     "campaign_info": {
-        "message": "StopModReposts 운동에 대해 자세히 알아보려면 여기를 클릭하세요.",
+        "message": "StopModReposts キャンペーンの詳細については、ここをクリックしてください。",
         "description": "Displayed at the end of the previous message to link to the campaign site."
     },
     "this_site": {
-        "message": "$site$의 등급",
+        "message": "$site$ の評価",
         "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
         "placeholders": {
             "site": {
@@ -26,63 +22,59 @@
         }
     },
     "learn_more": {
-        "message": "사이트를 평가하는 방법에 대해 알아보려면 여기를 클릭하세요.",
+        "message": "サイトを評価する方法については、ここをクリックしてください。",
         "description": "Users click this link to display the message below."
     },
-    "how_we_rate": {
-        "message": "각 사이트에는 광고, 재배포 및 기타의 세 가지 범주에서 1부터 5까지의 등급이 부여됩니다. 광고는 모드를 다운로드하는 사람에게 사이트가 표시하는 광고의 수(불법 사이트 소유자에게 돈이 더 들어오게 됨)를 나타냅니다. 재배포는 사이트가 허가 없이 모드를 재배포하는 정도를 나타냅니다. 그리고 기타는 올린 모드에 대해 사이트가 사용자들이 오해하게 만드는 정도(예: 오래된 버전, 호환되지 않거나 존재하지 않는 버전 및 저작자 표시 여부)를 나타냅니다. 점수가 낮을수록 좋으며, 별 1개가 최고 점수입니다.",
-        "description": "Message which helps users understand what the ratings mean."
-    },
     "hide_rating_guide": {
-        "message": "(클릭해 숨기기)",
+        "message": "（クリックして非表示）",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
-        "message": "범주",
+        "message": "カテゴリー",
         "description": "Table header for the three categories below."
     },
     "rating_ads": {
-        "message": "광고",
+        "message": "広告",
         "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
     "rating_redist": {
-        "message": "재배포",
+        "message": "再配布",
         "description": "Same as above, except this is for redistribution."
     },
     "rating_misc": {
-        "message": "기타",
+        "message": "その他",
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
-        "message": "유해 등급",
+        "message": "有害評価",
         "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
     },
     "ratelevel": {
-        "message": "등급 수준",
+        "message": "評価レベル",
         "description": "Samea as above, but is used for the five severities below instead of stars."
     },
     "severity_none": {
-        "message": "없음",
+        "message": "なし",
         "description": "Used for sites which do not redistribute mods\/advertise etc."
     },
     "severity_low": {
-        "message": "낮음",
+        "message": "低い",
         "description": "Used for sites which do the above to a small extent."
     },
     "severity_medium": {
-        "message": "중간",
+        "message": "中間",
         "description": "Used for sites which do the above to a slightly larger extent."
     },
     "severity_high": {
-        "message": "높음",
+        "message": "高い",
         "description": "Used for sites which do the above to a large extent."
     },
     "severity_veryhigh": {
-        "message": "매우 높음",
+        "message": "非常に高い",
         "description": "Used for sites which do the above to a very large extent."
     },
     "site_notes": {
-        "message": "이 사이트에 대한 참고 사항: $reason$",
+        "message": "このサイトに関するノート：$reason$",
         "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
         "placeholders": {
             "reason": {
@@ -92,19 +84,19 @@
         }
     },
     "go_back": {
-        "message": "이전 페이지로 돌아가기",
+        "message": "以前のページへ戻る",
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "(안전을 위해 권장됨)",
+        "message": "（安全のために推奨）",
         "description": "Help text for the above button"
     },
     "continue": {
-        "message": "사이트로 계속하기",
+        "message": "サイトに進む",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     },
     "why_continue": {
-        "message": "(컴퓨터를 손상시킬 수 있음)",
+        "message": "（コンピューターに害を及ぼす可能性がある）",
         "description": "Help text for the above button"
     }
 }
