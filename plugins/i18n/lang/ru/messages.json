@@ -1,3 +1,18 @@
 {
-
+    "category": {
+        "message": "Категория",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Реклама",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_misc": {
+        "message": "Прочее",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "severity_low": {
+        "message": "Низкий",
+        "description": "Used for sites which do the above to a small extent."
+    }
 }
