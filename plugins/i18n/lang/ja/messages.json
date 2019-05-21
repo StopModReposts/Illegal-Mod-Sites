@@ -25,6 +25,10 @@
         "message": "サイトを評価する方法については、ここをクリックしてください。",
         "description": "Users click this link to display the message below."
     },
+    "how_we_rate": {
+        "message": "それぞれのサイトには1から5の評価が3つのカテゴリーにつけられています: 広告、再配布、その他。広告は、Modをダウンロードするサイトにどのぐらい広告がついているかを示します(不法なサイトのオーナーにお金が入ります)、再配布は、許可なしにサイトがどの程度Modを再配布しているかを示します、そしてその他は、サイトのオーナーが投稿したModについてどの程度までほかのユーザーを誤解させるかを示します(例: 古い、非対応、もしくは存在しないModのバージョン、さらに作者がクレジットされているかどうか)。低いスコアは良く、星1は最高スコアです。",
+        "description": "Message which helps users understand what the ratings mean."
+    },
     "hide_rating_guide": {
         "message": "（クリックして非表示）",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
