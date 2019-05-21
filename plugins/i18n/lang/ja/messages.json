@@ -7,6 +7,10 @@
         "message": "StopModReposts によってブラックリストに載せられたサイトです！",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
+    "what_happened": {
+        "message": "このサイト不法なMod再配布によって StopModReposts.org からブラックリストに登録されています。これは今見ているサイトはModを作者から許可なく奪い、アップロードしたり、もしくは古い、非対応、もしくは存在しないバージョンのModにリンクしています。そしてもしかしたら、Modderの人たちが苦労したものを使ってお金を得ているかもしれません。あなたが望むならば、このサイトをまだ閲覧できますが、それは推奨されておらず、サイトによってはマルウェアもしくはウイルスに感染するおそれがあります。",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
     "campaign_info": {
         "message": "StopModReposts キャンペーンの詳細については、ここをクリックしてください。",
         "description": "Displayed at the end of the previous message to link to the campaign site."
