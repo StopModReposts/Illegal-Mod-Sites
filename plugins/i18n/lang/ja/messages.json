@@ -92,7 +92,7 @@
         }
     },
     "go_back": {
-        "message": "以前のページへ戻る",
+        "message": "前のページへ戻る",
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
@@ -100,11 +100,11 @@
         "description": "Help text for the above button"
     },
     "continue": {
-        "message": "サイトに進む",
+        "message": "サイトへ進む",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     },
     "why_continue": {
-        "message": "（コンピューターに害を及ぼす可能性がある）",
+        "message": "（コンピューターに害を及ぼす可能性があります）",
         "description": "Help text for the above button"
     }
 }
