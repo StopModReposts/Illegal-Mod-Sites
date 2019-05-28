@@ -149,7 +149,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-book ru                       |      3      |        5       |   2   |       |
 | minecraft-cube ru                       |      1      |        5       |   3   |       |
 | minecraft-double ru                     |      5      |        5       |   5   |       |
-| minecraft-downloads com                 |      5      |        5       |   4   |       |
+| minecraft-downloads com                 |      5      |        5       |   4   | Fake optifine download with virus |
 | minecraft-en ucoz com                   |      5      |        5       |   4   |       |
 | minecraft-files ru                      |      5      |        5       |   4   |       |
 | minecraft-forum net                     |      3      |        5       |   3   |       |
