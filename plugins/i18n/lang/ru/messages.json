@@ -1,22 +1,22 @@
 {
     "appdesc": {
-        "message": "Minecraft の Mod を不法に再投稿することで知られているサイトを検出および警告します。",
+        "message": "Обнаруживает и предупреждает о сайтах, замеченных в незаконном распространении Minecraft модов.",
         "description": "The description of the extension as it appears when searching in Chrome Web Store."
     },
     "blacklist_warn": {
-        "message": "StopModReposts によってブラックリストに載せられたサイトです！",
+        "message": "Сайт в чёрном списке StopModReposts!",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "このサイト不法なMod再配布によって StopModReposts.org からブラックリストに登録されています。これは今見ているサイトはModを作者から許可なく奪い、アップロードしたり、もしくは古い、非対応、もしくは存在しないバージョンのModにリンクしています。そしてもしかしたら、Modderの人たちが苦労したものを使ってお金を得ているかもしれません。あなたが望むならば、このサイトをまだ閲覧できますが、それは推奨されておらず、サイトによってはマルウェアもしくはウイルスに感染するおそれがあります。",
+        "message": "Этот сайт в чёрном списке StopModReposts.org за нелегальное распространение модов. Это значит, что сайт, который вы только что собирались открыть, ворует моды без разрешения создателей на их публикацию, даёт ссылки на устаревшие, несовместимые или несуществующие версии модов, и\/или зарабатывает деньги на упорном труде разработчиков. Вы всё равно можете открыть сайт, но на некоторых сайтах это может подвергнуть ваш компьютер риску заражения вирусами и вредоносными программами.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
-        "message": "StopModReposts キャンペーンの詳細については、ここをクリックしてください。",
+        "message": "Нажмите здесь, чтобы узнать больше о кампании StopModReposts.",
         "description": "Displayed at the end of the previous message to link to the campaign site."
     },
     "this_site": {
-        "message": "$site$ の評価",
+        "message": "Рейтинг для $site$",
         "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
         "placeholders": {
             "site": {
@@ -26,63 +26,63 @@
         }
     },
     "learn_more": {
-        "message": "サイトを評価する方法については、ここをクリックしてください。",
+        "message": "Нажмите здесь, чтобы узнать, как мы оцениваем сайты.",
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
-        "message": "それぞれのサイトには1から5の評価が3つのカテゴリーにつけられています: 広告、再配布、その他。広告は、Modをダウンロードするサイトにどのぐらい広告がついているかを示します(不法なサイトのオーナーにお金が入ります)、再配布は、許可なしにサイトがどの程度Modを再配布しているかを示します、そしてその他は、サイトのオーナーが投稿したModについてどの程度までほかのユーザーを誤解させるかを示します(例: 古い、非対応、もしくは存在しないModのバージョン、さらに作者がクレジットされているかどうか)。低いスコアは良く、星1は最高スコアです。",
+        "message": "Каждому сайту присваивается оценка от 1 до 5 по трём категориям: реклама, нелегальное распространение и ввод в заблуждение. Реклама отображает количество объявлений показываемых игрокам (уровень заработка владельца нелегального сайта), нелегальное распространение указывает на то, как сильно сайт распространяет моды без разрешения и ввод в заблуждение отвечает за актуальность, совместимость и подлинность версий публикуемых модов, а также указание автора.",
         "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
-        "message": "（クリックして非表示）",
+        "message": "(Нажмите, чтобы скрыть)",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
-        "message": "カテゴリー",
+        "message": "Категория",
         "description": "Table header for the three categories below."
     },
     "rating_ads": {
-        "message": "広告",
+        "message": "Реклама",
         "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
     "rating_redist": {
-        "message": "再配布",
+        "message": "Нелегальное распространение",
         "description": "Same as above, except this is for redistribution."
     },
     "rating_misc": {
-        "message": "その他",
+        "message": "Ввод в заблуждение",
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
-        "message": "有害評価",
+        "message": "Рейтинг зла",
         "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
     },
     "ratelevel": {
-        "message": "評価レベル",
+        "message": "Уровень",
         "description": "Samea as above, but is used for the five severities below instead of stars."
     },
     "severity_none": {
-        "message": "なし",
+        "message": "Нет",
         "description": "Used for sites which do not redistribute mods\/advertise etc."
     },
     "severity_low": {
-        "message": "低い",
+        "message": "Низкий",
         "description": "Used for sites which do the above to a small extent."
     },
     "severity_medium": {
-        "message": "中間",
+        "message": "Средний",
         "description": "Used for sites which do the above to a slightly larger extent."
     },
     "severity_high": {
-        "message": "高い",
+        "message": "Высокий",
         "description": "Used for sites which do the above to a large extent."
     },
     "severity_veryhigh": {
-        "message": "非常に高い",
+        "message": "Очень высокий",
         "description": "Used for sites which do the above to a very large extent."
     },
     "site_notes": {
-        "message": "このサイトに関するノート：$reason$",
+        "message": "Примечания для этого сайта: $reason$",
         "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
         "placeholders": {
             "reason": {
@@ -92,19 +92,19 @@
         }
     },
     "go_back": {
-        "message": "前のページへ戻る",
+        "message": "Вернуться назад",
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "（安全のために推奨）",
+        "message": "(рекомендуется для вашей безопасности)",
         "description": "Help text for the above button"
     },
     "continue": {
-        "message": "サイトへ進む",
+        "message": "Всё равно открыть сайт",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     },
     "why_continue": {
-        "message": "（コンピューターに害を及ぼす可能性があります）",
+        "message": "(может нанести вред вашему компьютеру)",
         "description": "Help text for the above button"
     }
 }
