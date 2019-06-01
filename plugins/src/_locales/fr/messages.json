@@ -1,22 +1,22 @@
 {
     "appdesc": {
-        "message": "Erkennt und warnt den Nutzer vor Seiten, die illegal Minecraft Mods publizieren.",
+        "message": "Détecte et met en garde contre les sites connus pour reposter illégalement les mods Minecraft.",
         "description": "The description of the extension as it appears when searching in Chrome Web Store."
     },
     "blacklist_warn": {
-        "message": "Seite von StopModReposts geblockt!",
+        "message": "Site sur la liste noire de StopModReposts !",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Diese Website ist auf einer Liste von StopModReposts.org geblockten Websites für illegale Modpublizierung. Das bedeutet, dass die Website die Du gerade besuchen willst Minecraft Mods von Moddern ohne deren Erlaubnis stiehlt, zu veralteten inkompatibeln oder nicht existierenden Versionen der Mods verlinkt, und\/oder verdient Geld von der harten Arbeit der Modder. Du kannst die Website immernoch besuchen wenn du möchtest, aber das ist nicht empfohlen, da manche Websiten Deinen Computer mit Viren und Malware infizieren können.",
+        "message": "Ce site Web figure sur une des listes noires de StopModReposts.org pour redistribution illégale de mods. Cela signifie que la page Web que vous étiez sur le point de visiter volait des mods sans autorisation pour les héberger ici, établissait un lien vers des versions obsolètes, incompatibles ou inexistantes des mods et\/ou gagnait de l'argent sur le dos de ces modeurs. Vous pouvez toujours consulter cette page si vous le souhaitez, mais cela vous est déconseillé et peut, sur certains sites, exposer votre ordinateur à un risque d'infection par des virus et des logiciels malveillants.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
-        "message": "Klicke hier um mehr über die StopModReposts Kampagne zu erfahren.",
+        "message": "Cliquez ici pour en savoir plus sur la campagne de StopModReposts.",
         "description": "Displayed at the end of the previous message to link to the campaign site."
     },
     "this_site": {
-        "message": "Einstufung für $site$",
+        "message": "Notes de $site$",
         "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
         "placeholders": {
             "site": {
@@ -26,63 +26,63 @@
         }
     },
     "learn_more": {
-        "message": "Klicke hier, um mehr darüber zu erfahren wie wir Websites einstufen.",
+        "message": "Cliquez ici pour savoir comment nous évaluons les sites.",
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
-        "message": "Jede Website hat eine Einstufung von 1 bis 5 in drei Kategorien: Werbung, Weiterverteilung und Andere. Werbung bedeutet wie viele Werbeeinblendungen die Website zu Mod Downloadern anzeigt (mehr Geld für den Besitzer der illegalen Website), Weiterverteilung bedeutet wie stark die Website Mods ohne Genehmigung weiterverteilt, und Andere bedeutet wie stark der Besitzer der Website falsche Informationen zu Nutzern über die angebotenen Mods angibt (z.B. veraltete, inkompatible oder nicht existierende Versionen von Mods und ob der originale Autor anerkannt wird). Je niedriger die Einstufung, desto besser. 1 ist die beste Wertung.",
+        "message": "Chaque site reçoit une note de 1 à 5 dans trois catégories: publicité, redistribution et divers. La publicité indique le nombre d’annonces affichées sur le site (plus d’argent pour le propriétaire du site illégal), la redistribution indique dans quelle mesure le site redistribue les mods sans autorisation, et divers indique à quel point le propriétaire du site induit les utilisateurs en erreur au sujet des mods publiés (Par exemple avec des versions de mod obsolètes, incompatibles ou inexistantes oiu si l'auteur n'est pas crédité). Un score inférieur est meilleur, 1 étoile étant le meilleur score.",
         "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
-        "message": "(Klicke hier um die Nachricht auszublenden)",
+        "message": "(Cliquer pour masquer)",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
-        "message": "Kategorie",
+        "message": "Catégorie",
         "description": "Table header for the three categories below."
     },
     "rating_ads": {
-        "message": "Werbung",
+        "message": "Publicité",
         "description": "Advertising category of the rating, this name is displayed in the evilness table."
     },
     "rating_redist": {
-        "message": "Weiterverteilung",
+        "message": "Redistribution",
         "description": "Same as above, except this is for redistribution."
     },
     "rating_misc": {
-        "message": "Andere",
+        "message": "Divers",
         "description": "Same as above, except this is for the miscellaneous category."
     },
     "evilness": {
-        "message": "Bösartigkeit",
+        "message": "Cote de méchanceté",
         "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
     },
     "ratelevel": {
-        "message": "Wertung",
+        "message": "Évaluation",
         "description": "Samea as above, but is used for the five severities below instead of stars."
     },
     "severity_none": {
-        "message": "Keine",
+        "message": "Aucun",
         "description": "Used for sites which do not redistribute mods\/advertise etc."
     },
     "severity_low": {
-        "message": "Niedrig",
+        "message": "Basse",
         "description": "Used for sites which do the above to a small extent."
     },
     "severity_medium": {
-        "message": "Mittel",
+        "message": "Moyenne",
         "description": "Used for sites which do the above to a slightly larger extent."
     },
     "severity_high": {
-        "message": "Hoch",
+        "message": "Élevée",
         "description": "Used for sites which do the above to a large extent."
     },
     "severity_veryhigh": {
-        "message": "Sehr hoch",
+        "message": "Très élevée",
         "description": "Used for sites which do the above to a very large extent."
     },
     "site_notes": {
-        "message": "Anmerkungen für diese Website: $reason$",
+        "message": "Notes pour ce site : $reason$",
         "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
         "placeholders": {
             "reason": {
@@ -92,19 +92,19 @@
         }
     },
     "go_back": {
-        "message": "Zurück zur vorherigen Seite",
+        "message": "Retour à la page précédente",
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "(empfohlen zu Deiner Sicherheit)",
+        "message": "(recommandé pour votre sécurité)",
         "description": "Help text for the above button"
     },
     "continue": {
-        "message": "Weiter zu dieser Website",
+        "message": "Continuer vers le site",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     },
     "why_continue": {
-        "message": "(könnte Deinem Computer schaden)",
+        "message": "(peut endommager votre ordinateur)",
         "description": "Help text for the above button"
     }
 }

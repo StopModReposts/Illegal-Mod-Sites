@@ -1,6 +1,6 @@
 {
     "name": "Stop Mod Reposts",
-    "version": "4.0.2",
+    "version": "4.0.3",
     "description": "__MSG_appdesc__",
     "default_locale": "en",
     "icons": { "128": "icons/icon128.png", "48": "icons/icon48.png", "32": "icons/icon32.png", "16": "icons/icon16.png" },

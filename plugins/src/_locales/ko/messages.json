@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "이 웹사이트는 StopModReposts.org가 불법 모드 재배포를 이유로 블랙리스트에 올린 사이트 목록에 올라가 있습니다. 이는 방금 방문하려고 했던 웹페이지가 모드 제작자들에게서 모드를 여기에 올리기 위한 권한을 받지 않고 도용하거나, 오래된 버전으로 연결되거나, 호환되지 않거나 존재하지 않는 버전의 모드, 그리고\/또는 모드 제작자들이 힘들게 만든 작품에서 돈을 번다는 것을 의미합니다. 원한다면 이 페이지를 계속 탐색할 수는 있지만 권장되지 않으며 일부 사이트에서는 컴퓨터가 바이러스 및 맬웨어에 감염될 위험에 노출될 수 있습니다.",
+        "message": "이 웹사이트는 StopModReposts.org가 불법 모드 재배포를 이유로 블랙리스트에 올린 사이트 목록에 올라가 있습니다. 이는 방금 방문하려고 했던 웹페이지가 모드 제작자들에게서 모드를 여기에 업로드하기 위한 허가 없이 도용하거나, 오래되거나 비호환 또는 존재하지 않는 버전의 모드로 연결되거나 아니면 모드 제작자들이 힘들게 만든 작품으로 돈을 번다는 것을 의미합니다. 원한다면 이 페이지를 계속 탐색할 수는 있지만 권장되지 않으며 일부 사이트에서는 컴퓨터가 바이러스 및 맬웨어에 감염될 위험에 노출될 수 있습니다.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
@@ -26,15 +26,15 @@
         }
     },
     "learn_more": {
-        "message": "사이트를 어떻게 평가하는지 알아보려면 여기를 클릭하세요.",
+        "message": "사이트를 평가하는 방법에 대해 알아보려면 여기를 클릭하세요.",
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
-        "message": "각 사이트에는 광고, 재배포 및 기타의 세 가지 범주에서 1부터 5까지의 등급이 부여됩니다. 광고는 모드를 다운로드하는 사람에게 사이트가 얼마나 많은 광고를 표시함으로써 불법 사이트 운영자에게 돈이 들어오는지를 나타냅니다. 재배포는 사이트가 권한 없이 모드를 재배포하는 정도를 나타냅니다. 그리고 기타 등급은 올린 모드에 대해 사이트가 사용자들에게 오해의 소지를 제공하는 정도를 나타냅니다. 예를 들어 오래되었거나, 호환되지 않거나, 존재하지 않는 버전 및 저작자가 표시되어 있는지 등이 여기에 포함됩니다. 점수가 낮을수록 좋으며, 별 1개가 가장 최고의 점수입니다.",
+        "message": "각 사이트에는 광고, 재배포 및 기타의 세 가지 범주에서 1부터 5까지의 등급이 부여됩니다. 광고는 모드를 다운로드하는 사람에게 사이트가 표시하는 광고의 수(불법 사이트 소유자에게 돈이 더 들어오게 됨)를 나타냅니다. 재배포는 사이트가 어느 정도까지 허가 없이 모드를 재배포하는지를 나타냅니다. 그리고 기타는 올린 모드에 대해 사이트가 어느 정도까지 사용자들이 오해하게 만드는지(예: 오래된 버전, 호환되지 않거나 존재하지 않는 버전 및 저작자 표시 여부)를 나타냅니다. 점수가 낮을수록 좋으며, 별 1개가 최고 점수입니다.",
         "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
-        "message": "(숨기려면 클릭)",
+        "message": "(클릭해 숨기기)",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
