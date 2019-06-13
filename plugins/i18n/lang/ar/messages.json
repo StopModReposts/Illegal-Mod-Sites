@@ -6,5 +6,9 @@
     "blacklist_warn": {
         "message": "الموقع موجود في القائمة السوداء بواسطة StopModReposts!",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "what_happened": {
+        "message": "هذا الموقع يوجد في القائمة السوداء بواسطة StopModReposts.org لإعادة نشر المودات بطريقة غير قانونية. هذا يعني ان الموقع الذي انت كنت علي وشك زيارته الان يسرق المودات من المودرز بدون الأذن منهم من اجل رفعهم هنا, يقوم بالربط الي اصدارات قديمة, غير متوافقة, او غير موجودة من الاساس, وظاو يكسبون النقود من عمل الشاق للمودرز. يمكنك ان تكمل تصفح هذه الصفحة ان اردت, و لكنه محبط و قد يعرض الكمبيوتر لخطر الاصابة الفيروسات و الرامج الضارة.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
     }
 }
