@@ -1,0 +1,10 @@
+{
+    "appdesc": {
+        "message": "يكشف و يحذر من المواقع التي تعيد نشر مودات ماينكرافت بطريقة غير قانونية.",
+        "description": "The description of the extension as it appears when searching in Chrome Web Store."
+    },
+    "blacklist_warn": {
+        "message": "الموقع موجود في القائمة السوداء بواسطة StopModReposts!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    }
+}
