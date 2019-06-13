@@ -10,5 +10,101 @@
     "what_happened": {
         "message": "هذا الموقع يوجد في القائمة السوداء بواسطة StopModReposts.org لإعادة نشر المودات بطريقة غير قانونية. هذا يعني ان الموقع الذي انت كنت علي وشك زيارته الان يسرق المودات من المودرز بدون الأذن منهم من اجل رفعهم هنا, يقوم بالربط الي اصدارات قديمة, غير متوافقة, او غير موجودة من الاساس, وظاو يكسبون النقود من عمل الشاق للمودرز. يمكنك ان تكمل تصفح هذه الصفحة ان اردت, و لكنه محبط و قد يعرض الكمبيوتر لخطر الاصابة الفيروسات و الرامج الضارة.",
         "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "اضغط هنا لتتعلم اكثر عن حملة StopModReposts.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "التقييم للموقع $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "انقر هنا لمعرفة كيف نقيم المواقع.",
+        "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "يتم إعطاء تصنيف لكل موقع من 1 إلى 5 في ثلاث فئات: الإعلان وإعادة التوزيع والتنوع. الإعلان يشير إلى عدد الإعلانات التي يعرضها الموقع علي تنزيل المودات (المزيد من الاموال لمالك الموقع الغير القانوني), تشير إعادة التوزيع إلى أي مدى يعيد الموقع إعادة توزيع المودز دون إذن, و يشير النتوع الي أي مدى يضلل مالك الموقع المستخدمين بشأن المودز التي تنشر هنا (مثال جيد. اصدارات فديمة, غير متوافقة او غير موجودة من الاساس وما اذا كان صاحب الموذ قد فضل). تقييم اقل يكون افضل, مع نجمة واحدة افضل تقييم.",
+        "description": "Message which helps users understand what the ratings mean."
+    },
+    "hide_rating_guide": {
+        "message": "(اضغط للاخفاء)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "فئة",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "الإعلان",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "إعادة التوزيع",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "التنوع",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "تصنيف الشر",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "مستوى التصنيف",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "لا يوجد",
+        "description": "Used for sites which do not redistribute mods\/advertise etc."
+    },
+    "severity_low": {
+        "message": "منخفضة",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "متوسطة",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "عالية",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "عالية جدا",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "ملاحظات علي هذا الموقع: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "الرجوع إلي الصفحة السابقة",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(مستحبة لسلامتك)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "المتابعة لهذا الموقع",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(قد يضر بجهازك)",
+        "description": "Help text for the above button"
     }
 }
