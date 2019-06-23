@@ -12,7 +12,7 @@
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
-        "message": "StopModReposts キャンペーンの詳細については、ここをクリックしてください。",
+        "message": "StopModReposts 運動の詳細については、ここをクリックしてください。",
         "description": "Displayed at the end of the previous message to link to the campaign site."
     },
     "this_site": {
