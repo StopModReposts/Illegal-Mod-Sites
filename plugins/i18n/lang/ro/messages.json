@@ -28,5 +28,83 @@
     "learn_more": {
         "message": "Apasă aici pentru a afla cum clasificăm site-uri.",
         "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "Fiecărui site îi este atribuită o valoare de la 1 la 5 în trei categorii: Reclame, redistribuție şi diverse. Categoria reclame indică cât de multe anunțuri\/reclame site-ul încearcă să afișe, categoria redistribuție indică în ce măsură site-ul redistribuie mod-uri fara permisiune, iar categorie diverse indică în ce măsură deținătorul site-ului induce în eroare utilizatorii despre mod-urile postate (versiuni vechi, incompatibile, sau neexistente). Un scor mai mic este mai bun, o singură stea fiind cel mai bun scor.",
+        "description": "Message which helps users understand what the ratings mean."
+    },
+    "hide_rating_guide": {
+        "message": "(Apasă pentru a ascunde)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Categorie",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Reclame",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "Redistribuție",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "Diverse",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "Scor",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "Nivel",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "Niciunul",
+        "description": "Used for sites which do not redistribute mods\/advertise etc."
+    },
+    "severity_low": {
+        "message": "Scăzut",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Mediu",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Ridicat",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Sever",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Informații suplimentare despre acest site: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Întoarce-te la pagina anterioară",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(recomandat pentru siguranța voastră)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Continuă navigarea la acest site",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(poate dăuna calculatorului vostru)",
+        "description": "Help text for the above button"
     }
 }
