@@ -6,5 +6,27 @@
     "blacklist_warn": {
         "message": "Site blocat de StopModReposts!",
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "what_happened": {
+        "message": "Acest site este blocat de StopModReposts.org pentru redistribuirea ilegală a mod-urilor. Asta înseamnă că această pagină fură mod-uri fără permisiune pentru a le încărca aici, conține link-uri la versiuni de mod-uri vechi, incompatibile, sau neexistente, şi\/sau face bani de pe munca grea a dezvoltatoriilor de mod-uri. Încă poți vizita pagina dacă dorești, dar nu este recomandat, deoarece anumite site-uri pot conține viruși.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "Apasă aici pentru a afla mai multe despre campania StopModReposts.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "Clasificare pentru $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Apasă aici pentru a afla cum clasificăm site-uri.",
+        "description": "Users click this link to display the message below."
     }
 }
