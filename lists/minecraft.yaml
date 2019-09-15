@@ -63,7 +63,7 @@
     advertising: 5
     redistribution: 1
     miscellaneous: 3
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: '4minecraft.org'
     advertising: 5
@@ -179,7 +179,7 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'aminecraft.net'
     advertising: 1
@@ -215,7 +215,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'c-raft.ru'
     advertising: 1
@@ -256,7 +256,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'descargarminecraftgratis.net'
     advertising: 5
@@ -267,7 +267,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'dle01.sofftportall8nn.info'
     advertising: 3
@@ -284,7 +284,7 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'download-minecraft-mod.com'
     advertising: 3
@@ -301,13 +301,13 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'downloadatoz.com'
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'downloadminecraft.altervista.org'
     advertising: 5
@@ -318,7 +318,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'downloadminecraftplay.com'
     advertising: 4
@@ -329,7 +329,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'eminecraft.net'
     advertising: 1
@@ -351,7 +351,7 @@
     advertising: 1
     redistribution: 4
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'fdminecraft.net'
     advertising: 4
@@ -445,7 +445,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'gameoverus.com'
     advertising: 5
@@ -471,7 +471,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'gigminecraft.net'
     advertising: 2
@@ -482,7 +482,7 @@
     advertising: 2
     redistribution: 4
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'godgames.ru'
     advertising: 5
@@ -493,7 +493,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'hackphoenix.com'
     advertising: 5
@@ -555,7 +555,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'loadminecraft.ru'
     advertising: 1
@@ -566,7 +566,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mc-mod.net'
     advertising: 5
@@ -607,7 +607,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mcmodkit.com'
     advertising: 5
@@ -629,7 +629,7 @@
     advertising: 1
     redistribution: 1
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mcpebox.com'
     advertising: 3
@@ -735,7 +735,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraft-home.ru'
     advertising: 2
@@ -761,7 +761,7 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraft-jobs.ru'
     advertising: 1
@@ -883,7 +883,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraft5.net'
     advertising: 3
@@ -939,7 +939,7 @@
     advertising: 5
     redistribution: 1
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftdls.com'
     advertising: 5
@@ -1087,7 +1087,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftinstallers.com'
     advertising: 1
@@ -1103,7 +1103,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftmine.org'
     advertising: 5
@@ -1119,7 +1119,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftmodlari.com'
     advertising: 4
@@ -1201,13 +1201,13 @@
     advertising: 4
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftors.ru'
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftpe-mods.com'
     advertising: 2
@@ -1243,7 +1243,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftquick.com'
     advertising: 1
@@ -1316,7 +1316,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minecraftvip.com'
     advertising: 2
@@ -1352,7 +1352,7 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'minelife.net'
     advertising: 3
@@ -1398,7 +1398,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mmods.net'
     advertising: 5
@@ -1419,7 +1419,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mod-for-minecraft.net'
     advertising: 3
@@ -1465,7 +1465,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 4
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mods-for-minecraft.net'
     advertising: 1
@@ -1511,7 +1511,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mody4mine.ru'
     advertising: 3
@@ -1527,25 +1527,25 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'myfreemediacloudone.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mymediadownloadsthirtytwo.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'mymediasearchnowthree.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'network.vgchartz.com'
     advertising: 5
@@ -1556,7 +1556,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'nextminecraft.ru'
     advertising: 4
@@ -1593,7 +1593,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'old-minecraft.ru'
     advertising: 1
@@ -1614,7 +1614,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'onlineplayminecraft.com'
     advertising: 5
@@ -1715,7 +1715,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'ru-m.org'
     advertising: 3
@@ -1741,13 +1741,13 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'shadersmod.net'
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'simplesminecraft.blogspot.com.br'
     advertising: 1
@@ -1783,13 +1783,13 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'softonic.com'
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'somecraf.net'
     advertising: 5
@@ -1810,7 +1810,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'sumycraft.ru'
     advertising: 2
@@ -1842,7 +1842,7 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'ultimateminecraftlj.weebly.com'
     advertising: 1
@@ -1858,7 +1858,7 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'utk.io'
     advertising: 1
@@ -1869,7 +1869,7 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'vencko.net'
     advertising: 5
@@ -1916,7 +1916,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'worldofmods.com'
     advertising: 3
@@ -1952,13 +1952,13 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'yourgamesdownloadsone.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 5
-    notes: '**Malware alert!**'
+    notes: 'Malware alert!'
 -
     domain: 'yourminecraft.com'
     advertising: 3
