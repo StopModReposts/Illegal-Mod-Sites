@@ -1,1996 +1,1996 @@
 -
     domain: '0x10c-zone.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '10minecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '123minecraft.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '1minecraftsource.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '1ru-minecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '1st-minecraft.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '24hminecraft.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '24mine.org'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '2minecraft.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '2minecraft.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: '2майнкрафтер.рф'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '3minecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '4minecraft.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
     notes: '**Malware alert!**'
 -
     domain: '4minecraft.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '5minecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '5minecraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '5minecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '6minecraft.net'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: '6minecraft.org'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: '6minecraftmods.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '7minecraft.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '8minecraft.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '8minecraft.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '9craft.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: '9lifehack.com'
-    advertising: '5'
-    redistribution: '4'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 4
+    miscellaneous: 1
 -
     domain: '9minecraft.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: '9minecraftaz.blogspot.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '9minecraftmods.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '9minecrafts.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '9minecrafts.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '9minecraftscom.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: '9mobo.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'all-mod-for-minecraft.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'all-mods.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'allforminecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'allfreeapk.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'aminecraft.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'azminecraft.info'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'begin-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'bendercraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'bigminecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'blackspigot.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'bnstbns.pro'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'c-raft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'clubminecraftbr.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'comoinstalarmodsminecraft.com.br'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'crafthd.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'craftzon.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'dascraft.org'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'day2play.pl'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'deliverytodaymeta.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'descargarminecraftgratis.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'digitalgamesonlinenowone.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'dle01.sofftportall8nn.info'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
     notes: 'Paywall'
 -
     domain: 'dlminecraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'dosakh.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'download-minecraft-mod.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'download.parcraftmc.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
     notes: 'Hosts hundreds of mods and several modpacks without permission'
 -
     domain: 'downloadape.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'downloadatoz.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'downloadminecraft.altervista.org'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'downloadminecraft4free.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'downloadminecraftplay.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'duno-farm.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'eminecraft.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'en-minecraft.org'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'evlas.ru'
-    advertising: '2'
-    redistribution: '3'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
     notes: 'Paywall, potential malware'
 -
     domain: 'exe-craft.ru'
-    advertising: '1'
-    redistribution: '4'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 4
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'fdminecraft.net'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'file-minecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'fileplanet.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'fileversal.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'for-minecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'forminecrafters.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'fr-minecraft.net'
     path: '/mod-minecraft-'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 1
     notes: 'This site is not known to contain malware.'
 -
     domain: 'free-mods.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'freedownloadminecraft.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'freeminecraftmods.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'freshminecraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'freshmod.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'full-mod.ru'
-    advertising: '4'
-    redistribution: '3'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 3
+    miscellaneous: 3
     notes: 'Paywall'
 -
     domain: 'fulllistofminecraftmods.cf'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 1
 -
     domain: 'galaxythecreative.blogspot.no'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'gamefiles.de'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'gameminecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'gamemodding.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'gameoverus.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'games-utilities.com'
-    advertising: '2'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'gamewise.co'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'getmod.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'giga.de'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'gigminecraft.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'gl-mods.ru'
-    advertising: '2'
-    redistribution: '4'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 4
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'godgames.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'goldmods-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'hackphoenix.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: 'Also distributes cracked launchers, and Mojang''s intellectual property'
 -
     domain: 'hubicraft.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'jojomine.com'
-    advertising: '2'
-    redistribution: '4'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 4
+    miscellaneous: 3
 -
     domain: 'keepergames.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'kgamek.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'kminecraft.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'lambdacore.ucoz.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'launcherfenix.com.ar'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'legacymodpack.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'legionminecraft.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'lemoncraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'lestnica44.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'loadminecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'magnetobrowsers.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mc-mod.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'mc-mods.org'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'mc-vn.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mc.ahgame.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mc164.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mcdownloads.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mcmap.cc'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mcmoddatabase.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mcmodkit.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mcmods.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mcmodteam.blogspot.de'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
     notes: 'No activity since 16th november 2014'
 -
     domain: 'mcpatcher.net'
-    advertising: '1'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mcpebox.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'mcpemods.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mcraft-info.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'mcraft-life.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'megamods.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'metrominecraft.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 1
 -
     domain: 'mi-mundo-minecraft.blogspot.no'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'miinecraft.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mine-craft.ws'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mineblock.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-365.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-all.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-area.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-book.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraft-cube.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-double.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-downloads.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-en.ucoz.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-files.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-forum.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-game.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraft-home.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-inside.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-inside.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-installer.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-installer.de'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraft-jobs.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-mc.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft-modding.de'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraft-modi.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-mods-base.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-mods.info'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-mods.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-mods.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-modsdownload.com'
-    advertising: '4'
-    redistribution: '2'
-    miscellaneous: '2'
+    advertising: 4
+    redistribution: 2
+    miscellaneous: 2
 -
     domain: 'minecraft-open.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-re.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
     notes: 'Paywall'
 -
     domain: 'minecraft-sodeon.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraft-soul.ru'
-    advertising: '1'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'minecraft-tools.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft-x.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft-zet.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft.diablo1.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft.soft32.com'
-    advertising: '5'
-    redistribution: '4'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 4
+    miscellaneous: 4
 -
     domain: 'minecraft11.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft12.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'minecraft123.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft15.my1.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraft172.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft37.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraft5.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraft70.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraft73.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftapks.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftaz.net'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'minecraftbay.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftbuildinginc.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftch.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftdata.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftdatablog.blogspot.de'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftdl.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftdls.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 4
 -
     domain: 'minecraftdownload.in'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftdownloadaz.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftdownloadmod.blogspot.no'
-    advertising: '5'
-    redistribution: '4'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 4
+    miscellaneous: 5
 -
     domain: 'minecraftdrive.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecrafteando.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecrafted.su'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecrafteon.com'
-    advertising: '1'
-    redistribution: '2'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 2
+    miscellaneous: 4
 -
     domain: 'minecrafter-mod.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftes.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 1
 -
     domain: 'minecraftevi.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftexe.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
     notes: 'Optional social paywall'
 -
     domain: 'minecraftexpert.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftfc.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftfile.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftfile.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftfive.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftfly.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraftfreedownloadpro.blogspot.no'
-    advertising: '2'
-    redistribution: '4'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 4
+    miscellaneous: 5
 -
     domain: 'minecraftfreemods.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftgate.info'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
     notes: 'Surveywall/paywall'
 -
     domain: 'minecraftgig.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftgood.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecrafthd.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecrafthub.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecrafthut.com'
-    advertising: '5'
-    redistribution: '3'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 3
+    miscellaneous: 4
 -
     domain: 'minecraftiamodpack.blogspot.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftiamods.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftian.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftinstallers.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftium.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraftjardl.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftmine.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftmodding.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftmoddl.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftmodlari.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftmodpacks.net'
-    advertising: '1'
-    redistribution: '1'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 4
     notes: 'Blacklisted for misleading users about the target Minecraft versions of an extensive number of mods and modpacks'
 -
     domain: 'minecraftmods.biz'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 2
 -
     domain: 'minecraftmods.com.br'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 1
 -
     domain: 'minecraftmods.izben.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftmods18.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftmods19.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraftmods9.blogspot.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftmodsupdate.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'minecraftmodz.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftmonster.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftmore.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftnodus.do.am'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftnow.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftonly.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftore.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftors.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftpe-mods.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftplanet.biz'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftplanet.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftplus.org'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftposts.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraftpw.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftq.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftquick.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftresource.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecrafts-mod.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftsemlimites.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftside.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'minecraftsix.com'
-    advertising: '5'
-    redistribution: '2'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 2
+    miscellaneous: 5
     notes: 'Misleading versions for minecraft mods'
 -
     domain: 'minecraftsix.es'
-    advertising: '5'
-    redistribution: '2'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 2
+    miscellaneous: 5
     notes: 'Misleading versions for minecraft mods'
 -
     domain: 'minecraftsone.blogspot.no'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftspace.com'
-    advertising: '3'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'minecraftspot.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftstores.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftsy.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecrafttime.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecrafttube.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minecraftvip.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftxl.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftxz.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minecraftyard.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftym.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minedown.com'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 2
 -
     domain: 'minefan.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'minelife.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'mineplan.ru'
-    advertising: '5'
-    redistribution: '2'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 2
+    miscellaneous: 1
 -
     domain: 'mineplanet.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'mineturk.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'minezona.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minhvietltd.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mir-crafta.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'mirvideogames.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mizunospb.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mmods.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'mncraftmods.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mobileminecraft.com.br'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'mod-downloader.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mod-for-minecraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'mod-minecraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'mod-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'modcraft.biz'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'modcraft.su'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'moddingames.wordpress.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'modfast.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'modminecrafts.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mododrom.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
     notes: '**Malware alert!**'
 -
     domain: 'mods-for-minecraft.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'modscraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'modscraft.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'modsforminecraft.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'modsgate.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'modsmc.com'
-    advertising: '1'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'modsminecraft.com'
-    advertising: '2'
-    redistribution: '1'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 1
+    miscellaneous: 5
 -
     domain: 'modsminecraft.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'modsx.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mody4mine.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'mosminecraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mybestgamesfilesone.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'myfreemediacloudone.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mymediadownloadsthirtytwo.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'mymediasearchnowthree.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'network.vgchartz.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'newfastmediasearcherfive.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'nextminecraft.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'niceminecraft.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'niinecrraftik.jeclo.pp.ua'
-    advertising: '5'
-    redistribution: '3'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 3
+    miscellaneous: 5
     notes: 'Paywall'
 -
     domain: 'o-crafte.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'o-minecraft.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'ofminecraft.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'ogmcdownload.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'old-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'ominecraft.net'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'onlinecheats.ru'
-    advertising: '1'
-    redistribution: '4'
-    miscellaneous: '2'
+    advertising: 1
+    redistribution: 4
+    miscellaneous: 2
 -
     domain: 'onlinegamesfilesone.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'onlineplayminecraft.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'only-minecraft.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'onlycraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'onminecraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'oo-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'osdarlings.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'packs548.rssing.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'pandoriacraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'pcminecraft-mods.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'pd19.org'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'planet-m.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'planet-mc.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'planet-minecraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'planetaminecraft.com'
-    advertising: '5'
-    redistribution: '4'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 4
+    miscellaneous: 3
 -
     domain: 'planetmods.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'proud-portal.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'q-craft.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'revozin.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'rinoyundaapk.blogspot.no'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'rockybytes.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'ru-m.org'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'ru-minecraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'ru-minecrafty.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'secure.downloadfp.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'setcraft.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'shadersmod.net'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'simplesminecraft.blogspot.com.br'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'simplesminecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'skachat-mody-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'skins-minecraft.net'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'skydaz.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'skyworxz.com'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'soft32.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'softonic.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'somecraf.net'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'space-games.ucoz.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'stoninho.blogspot.com.br'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'stop-nalogi.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'sumycraft.ru'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'terrariaw.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'the-minecraft.fr'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '2'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 2
     notes: 'Mod rehosts, but also texture packs and maps'
 -
     domain: 'tlauncher.org'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'todocraft.net'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'topminecraftmods.com'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'ultimateminecraftlj.weebly.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'uminecraft.at.ua'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'upload-minecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'utk.io'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'vam-polezno.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'vencko.net'
-    advertising: '5'
-    redistribution: '1'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
 -
     domain: 'vminecraft.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'vminecrafte.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'vodafoneuksignal.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'wc3-maps.ru'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'wdsj2.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 1
 -
     domain: 'wemine.ru'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'wizardhax.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: 'Likely malware, also distributes hacked clients.'
 -
     domain: 'world-minecraft.pp.ua'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'worldofmods.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'wpminecraft.blogspot.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'xn--18-6kca8bglk2avv.xn--p1ai'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'xn--2-8sbausglk2acux.xn--p1ai'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'xn--80aaycfjjdyvv.xn--p1ai'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'yaminecraft.ru'
-    advertising: '4'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 4
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'yourfreegamesnow.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'yourgamesdownloadsone.com'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '5'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: '**Malware alert!**'
 -
     domain: 'yourminecraft.com'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'zerocraft.ru'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'zinchat.com'
-    advertising: '3'
-    redistribution: '4'
-    miscellaneous: '1'
+    advertising: 3
+    redistribution: 4
+    miscellaneous: 1
 -
     domain: 'zip-mc.com'
-    advertising: '5'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'zonacraft.net'
-    advertising: '3'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'майнкрафт18.рф'
-    advertising: '1'
-    redistribution: '5'
-    miscellaneous: '3'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'майнкрафтин.рф'
-    advertising: '2'
-    redistribution: '5'
-    miscellaneous: '4'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
