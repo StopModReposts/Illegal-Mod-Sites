@@ -185,9 +185,10 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
--   domain: 'atomcraft.ru'
+-    
+    domain: 'atomcraft.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'azminecraft.info'
@@ -221,9 +222,14 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'blockminecraft.com'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 1
+-
     domain: 'borealis.su'
     advertising: 2
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'c-raft.ru'
@@ -243,7 +249,7 @@
 -
     domain: 'cooll.pp.ua'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'crafthd.net'
@@ -258,7 +264,7 @@
 -
     domain: 'cubixworld.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'dascraft.org'
@@ -471,7 +477,7 @@
 -
     domain: 'gamepoint.su'
     advertising: 2
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'games-utilities.com'
@@ -519,12 +525,12 @@
 -
     domain: 'grand-mine.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 1
 -
     domain: 'greatray.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'hackphoenix.com'
@@ -535,7 +541,7 @@
 -
     domain: 'hcs.land'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'hubicraft.com'
@@ -627,7 +633,7 @@
 -
     domain: 'mc.twrx.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'mc164.ru'
@@ -669,7 +675,7 @@
 -
     domain: 'mcmp.su'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'mcpatcher.net'
@@ -700,7 +706,7 @@
 -
     domain: 'mcskill.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'megamods.ru'
@@ -900,6 +906,11 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'minecraft.fr'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 2
 -
     domain: 'minecraft.soft32.com'
     advertising: 5
@@ -1659,7 +1670,7 @@
 -
     domain: 'oneland.su'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'onlinecheats.ru'
@@ -1760,12 +1771,12 @@
 -
     domain: 'realmine.net'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'redserver.su'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 1
 -
     domain: 'revozin.com'
@@ -1818,7 +1829,7 @@
 -
     domain: 'simpleminecraft.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'simplesminecraft.blogspot.com.br'
@@ -1843,7 +1854,7 @@
 -
     domain: 'sky-mine.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'skydaz.com'
@@ -1880,7 +1891,7 @@
 -
     domain: 'squareland.ru'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'stoninho.blogspot.com.br'
@@ -1896,7 +1907,7 @@
 -
     domain: 'streamcraft.net'
     advertising: 1
-    redistribution: 5
+    redistribution: 3
     miscellaneous: 2
 -
     domain: 'sumycraft.ru'
