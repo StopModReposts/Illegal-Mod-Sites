@@ -185,6 +185,10 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
+-   domain: 'atomcraft.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'azminecraft.info'
     advertising: 3
@@ -217,6 +221,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'borealis.su'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'c-raft.ru'
     advertising: 1
     redistribution: 5
@@ -232,6 +241,11 @@
     redistribution: 1
     miscellaneous: 3
 -
+    domain: 'cooll.pp.ua'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'crafthd.net'
     advertising: 3
     redistribution: 5
@@ -241,6 +255,11 @@
     advertising: 4
     redistribution: 5
     miscellaneous: 5
+-
+    domain: 'cubixworld.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'dascraft.org'
     advertising: 2
@@ -384,11 +403,9 @@
     miscellaneous: 5
 -
     domain: 'fr-minecraft.net'
-    path: '/mod-minecraft-'
     advertising: 2
     redistribution: 5
     miscellaneous: 1
-    notes: 'This site is not known to contain malware.'
 -
     domain: 'free-mods.ru'
     advertising: 5
@@ -452,6 +469,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'gamepoint.su'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'games-utilities.com'
     advertising: 2
     redistribution: 1
@@ -495,11 +517,26 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'grand-mine.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
+-
+    domain: 'greatray.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'hackphoenix.com'
     advertising: 5
     redistribution: 5
     miscellaneous: 5
     notes: 'Also distributes cracked launchers, and Mojang''s intellectual property'
+-
+    domain: 'hcs.land'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'hubicraft.com'
     advertising: 1
@@ -588,6 +625,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'mc.twrx.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'mc164.ru'
     advertising: 4
     redistribution: 5
@@ -625,6 +667,11 @@
     miscellaneous: 1
     notes: 'No activity since 16th november 2014'
 -
+    domain: 'mcmp.su'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'mcpatcher.net'
     advertising: 1
     redistribution: 1
@@ -650,6 +697,11 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
+-
+    domain: 'mcskill.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'megamods.ru'
     advertising: 3
@@ -1605,6 +1657,11 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'oneland.su'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'onlinecheats.ru'
     advertising: 1
     redistribution: 4
@@ -1701,6 +1758,16 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'realmine.net'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
+-
+    domain: 'redserver.su'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 1
+-
     domain: 'revozin.com'
     advertising: 3
     redistribution: 5
@@ -1749,6 +1816,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'simpleminecraft.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'simplesminecraft.blogspot.com.br'
     advertising: 1
     redistribution: 5
@@ -1768,6 +1840,11 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'sky-mine.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'skydaz.com'
     advertising: 4
@@ -1801,6 +1878,11 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'squareland.ru'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'stoninho.blogspot.com.br'
     advertising: 1
     redistribution: 5
@@ -1811,6 +1893,11 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'streamcraft.net'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'sumycraft.ru'
     advertising: 2
