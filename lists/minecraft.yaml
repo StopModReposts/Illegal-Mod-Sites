@@ -409,6 +409,7 @@
     miscellaneous: 5
 -
     domain: 'fr-minecraft.net'
+    path: '/mod-minecraft-'
     advertising: 2
     redistribution: 5
     miscellaneous: 1
@@ -553,6 +554,11 @@
     advertising: 2
     redistribution: 4
     miscellaneous: 3
+-
+    domain: 'jtrent238-hammermod.decanterreviews.zero.lpk7.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'keepergames.ru'
     advertising: 3
@@ -1272,6 +1278,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'minecraftpatch.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'minecraftpe-mods.com'
     advertising: 2
     redistribution: 5
@@ -1778,6 +1789,12 @@
     advertising: 1
     redistribution: 3
     miscellaneous: 1
+-
+    domain: 'resourcepack.info'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
+    notes: 'Mostly redistributes resource packs, but also mods'
 -
     domain: 'revozin.com'
     advertising: 3
