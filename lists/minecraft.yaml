@@ -491,6 +491,11 @@
     redistribution: 1
     miscellaneous: 5
 -
+    domain: 'geroncraft.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'getmod.ru'
     advertising: 3
     redistribution: 5
@@ -611,6 +616,11 @@
     redistribution: 5
     miscellaneous: 2
 -
+    domain: 'loveminecraft.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
+-
     domain: 'magnetobrowsers.net'
     advertising: 5
     redistribution: 5
@@ -651,6 +661,12 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'mchacks.net'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Malware alert!'
 -
     domain: 'mcmap.cc'
     advertising: 5
@@ -779,6 +795,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 4
+    notes: 'Malware alert!'
 -
     domain: 'minecraft-en.ucoz.com'
     advertising: 5
@@ -1043,6 +1060,11 @@
     domain: 'minecrafted.su'
     advertising: 2
     redistribution: 5
+    miscellaneous: 3
+-
+    domain: 'minecrafteo.com'
+    advertising: 3
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'minecrafteon.com'
