@@ -185,7 +185,17 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
--    
+-
+    domain: 'armscraft.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
+    domain: 'atisot.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'atomcraft.ru'
     advertising: 1
     redistribution: 3
@@ -305,6 +315,11 @@
     redistribution: 5
     miscellaneous: 1
 -
+    domain: 'dms.yt'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'dosakh.ru'
     advertising: 2
     redistribution: 5
@@ -356,6 +371,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'eincraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'eminecraft.net'
     advertising: 1
     redistribution: 5
@@ -371,6 +391,11 @@
     redistribution: 3
     miscellaneous: 3
     notes: 'Paywall, potential malware'
+-
+    domain: 'excalibur-craft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
 -
     domain: 'exe-craft.ru'
     advertising: 1
@@ -397,6 +422,11 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
+-
+    domain: 'finemine.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
 -
     domain: 'fmcpe.com'
     advertising: 2
@@ -555,10 +585,20 @@
     redistribution: 3
     miscellaneous: 2
 -
+    domain: 'hil.su'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'hubicraft.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'imperialcraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 1
 -
     domain: 'jojomine.com'
     advertising: 2
@@ -615,6 +655,11 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'letragon.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 4
 -
     domain: 'loadminecraft.ru'
     advertising: 1
@@ -721,6 +766,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'mcpe-minecraftmods.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'mcpebox.com'
     advertising: 3
     redistribution: 5
@@ -776,6 +826,11 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'mine-play.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'mineblock.ru'
     advertising: 3
@@ -909,6 +964,11 @@
     advertising: 4
     redistribution: 2
     miscellaneous: 2
+-
+    domain: 'minecraft-moscow.com'
+    advertising: 4
+    redistribution: 3
+    miscellaneous: 4
 -
     domain: 'minecraft-open.ru'
     advertising: 1
@@ -1800,6 +1860,16 @@
     redistribution: 5
     miscellaneous: 5
 -
+    domain: 'pentacraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
+    domain: 'pixelmon.pro'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'planet-m.net'
     advertising: 5
     redistribution: 5
@@ -1825,6 +1895,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'playways.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'proud-portal.ru'
     advertising: 3
     redistribution: 5
@@ -1834,6 +1909,11 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'qoobworld.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'realmine.net'
     advertising: 1
@@ -1887,6 +1967,11 @@
     domain: 'ru-minecrafty.ru'
     advertising: 4
     redistribution: 5
+    miscellaneous: 3
+-
+    domain: 'rus-minecraft.com'
+    advertising: 1
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'secure.downloadfp.com'
@@ -1999,6 +2084,11 @@
     redistribution: 5
     miscellaneous: 5
 -
+    domain: 'svida.org'
+    advertising: 3
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'terrariaw.ru'
     advertising: 4
     redistribution: 5
@@ -2057,6 +2147,16 @@
     advertising: 5
     redistribution: 1
     miscellaneous: 3
+-
+    domain: 'victorycraft.ru'
+    advertising: 3
+    redistribution: 3
+    miscellaneous: 4
+-
+    domain: 'vimeworld.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'vminecraft.ru'
     advertising: 1
