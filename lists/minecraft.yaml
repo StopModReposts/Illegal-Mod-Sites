@@ -921,6 +921,12 @@
     miscellaneous: 4
     notes: 'Paywall'
 -
+    domain: 'minecraft-resourcepacks.com'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
+    notes: 'Reposts texture packs and Optifine'
+-
     domain: 'minecraft-sodeon.ru'
     advertising: 5
     redistribution: 5
@@ -1609,6 +1615,12 @@
     redistribution: 5
     miscellaneous: 1
 -
+    domain: 'modsline.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Also reposts resource packs and data packs'
+-
     domain: 'modsmc.com'
     advertising: 1
     redistribution: 1
@@ -1828,6 +1840,13 @@
     redistribution: 3
     miscellaneous: 2
 -
+    domain: 'reddit.com'
+    path: '/r/modpiracy'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Subreddit dedicated to redistributing paid mods'
+-
     domain: 'redserver.su'
     advertising: 1
     redistribution: 3
@@ -1886,6 +1905,11 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'sharemods.com'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'simpleminecraft.ru'
     advertising: 1
@@ -2063,6 +2087,11 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'wikiminecraft.com'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 1
 -
     domain: 'wizardhax.com'
     advertising: 5
