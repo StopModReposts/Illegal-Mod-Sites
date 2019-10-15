@@ -233,7 +233,7 @@
     notes: 'Malware alert!'
 -
     domain: 'blockminecraft.com'
-    advertising: 3
+    advertising: 5
     redistribution: 1
     miscellaneous: 1
 -
