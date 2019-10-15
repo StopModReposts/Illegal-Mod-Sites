@@ -398,6 +398,11 @@
     redistribution: 5
     miscellaneous: 1
 -
+    domain: 'fmcpe.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
+-
     domain: 'for-minecraft.com'
     advertising: 3
     redistribution: 5
@@ -637,6 +642,11 @@
     redistribution: 1
     miscellaneous: 5
 -
+    domain: 'mc-pe.net'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'mc-vn.net'
     advertising: 5
     redistribution: 5
@@ -656,6 +666,11 @@
     advertising: 4
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'mcbbs.net'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 5
 -
     domain: 'mcdownloads.ru'
     advertising: 1
@@ -710,6 +725,12 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 2
+-
+    domain: 'mcpefl.com'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 1
+    notes: 'This website was down when we tried to review it, but it was previously reported as a mod redistributing site.'
 -
     domain: 'mcpemods.net'
     advertising: 1
