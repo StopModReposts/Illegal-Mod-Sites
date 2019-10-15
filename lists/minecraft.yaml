@@ -1665,6 +1665,12 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'modsfire.download'
+    advertising:
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Malware alert!'
+-
     domain: 'modsforminecraft.org'
     advertising: 1
     redistribution: 5
