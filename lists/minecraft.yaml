@@ -186,6 +186,21 @@
     redistribution: 5
     miscellaneous: 1
 -
+    domain: 'armscraft.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
+    domain: 'atisot.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
+-
+    domain: 'atomcraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'azminecraft.info'
     advertising: 3
     redistribution: 5
@@ -217,6 +232,16 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'blockminecraft.com'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 1
+-
+    domain: 'borealis.su'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'c-raft.ru'
     advertising: 1
     redistribution: 5
@@ -232,6 +257,11 @@
     redistribution: 1
     miscellaneous: 3
 -
+    domain: 'cooll.pp.ua'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'crafthd.net'
     advertising: 3
     redistribution: 5
@@ -241,6 +271,11 @@
     advertising: 4
     redistribution: 5
     miscellaneous: 5
+-
+    domain: 'cubixworld.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'dascraft.org'
     advertising: 2
@@ -279,6 +314,11 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 1
+-
+    domain: 'dms.yt'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
 -
     domain: 'dosakh.ru'
     advertising: 2
@@ -331,6 +371,11 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'eincraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'eminecraft.net'
     advertising: 1
     redistribution: 5
@@ -346,6 +391,11 @@
     redistribution: 3
     miscellaneous: 3
     notes: 'Paywall, potential malware'
+-
+    domain: 'excalibur-craft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
 -
     domain: 'exe-craft.ru'
     advertising: 1
@@ -373,6 +423,16 @@
     redistribution: 5
     miscellaneous: 1
 -
+    domain: 'finemine.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
+    domain: 'fmcpe.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
+-
     domain: 'for-minecraft.com'
     advertising: 3
     redistribution: 5
@@ -388,7 +448,6 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 1
-    notes: 'This site is not known to contain malware.'
 -
     domain: 'free-mods.ru'
     advertising: 5
@@ -452,6 +511,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'gamepoint.su'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'games-utilities.com'
     advertising: 2
     redistribution: 1
@@ -461,6 +525,11 @@
     advertising: 3
     redistribution: 1
     miscellaneous: 5
+-
+    domain: 'geroncraft.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 4
 -
     domain: 'getmod.ru'
     advertising: 3
@@ -495,21 +564,51 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'grand-mine.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 1
+-
+    domain: 'greatray.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'hackphoenix.com'
     advertising: 5
     redistribution: 5
     miscellaneous: 5
     notes: 'Also distributes cracked launchers, and Mojang''s intellectual property'
 -
+    domain: 'hcs.land'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
+    domain: 'hil.su'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'hubicraft.com'
     advertising: 1
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'imperialcraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 1
+-
     domain: 'jojomine.com'
     advertising: 2
     redistribution: 4
     miscellaneous: 3
+-
+    domain: 'jtrent238-hammermod.decanterreviews.zero.lpk7.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'keepergames.ru'
     advertising: 3
@@ -557,10 +656,20 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'letragon.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'loadminecraft.ru'
     advertising: 1
     redistribution: 5
     miscellaneous: 2
+-
+    domain: 'loveminecraft.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 4
 -
     domain: 'magnetobrowsers.net'
     advertising: 5
@@ -578,6 +687,11 @@
     redistribution: 1
     miscellaneous: 5
 -
+    domain: 'mc-pe.net'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'mc-vn.net'
     advertising: 5
     redistribution: 5
@@ -588,15 +702,31 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'mc.twrx.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'mc164.ru'
     advertising: 4
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'mcbbs.net'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 5
+-
     domain: 'mcdownloads.ru'
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'mchacks.net'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Malware alert!'
 -
     domain: 'mcmap.cc'
     advertising: 5
@@ -625,16 +755,32 @@
     miscellaneous: 1
     notes: 'No activity since 16th november 2014'
 -
+    domain: 'mcmp.su'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'mcpatcher.net'
     advertising: 1
     redistribution: 1
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'mcpe-minecraftmods.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'mcpebox.com'
     advertising: 3
     redistribution: 5
     miscellaneous: 2
+-
+    domain: 'mcpefl.com'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 1
+    notes: 'This website was down when we tried to review it, but it was previously reported as a mod redistributing site.'
 -
     domain: 'mcpemods.net'
     advertising: 1
@@ -650,6 +796,11 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 5
+-
+    domain: 'mcskill.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'megamods.ru'
     advertising: 3
@@ -675,6 +826,11 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'mine-play.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'mineblock.ru'
     advertising: 3
@@ -715,6 +871,7 @@
     advertising: 5
     redistribution: 5
     miscellaneous: 4
+    notes: 'Malware alert!'
 -
     domain: 'minecraft-en.ucoz.com'
     advertising: 5
@@ -808,6 +965,11 @@
     redistribution: 2
     miscellaneous: 2
 -
+    domain: 'minecraft-moscow.com'
+    advertising: 4
+    redistribution: 3
+    miscellaneous: 4
+-
     domain: 'minecraft-open.ru'
     advertising: 1
     redistribution: 5
@@ -818,6 +980,12 @@
     redistribution: 5
     miscellaneous: 4
     notes: 'Paywall'
+-
+    domain: 'minecraft-resourcepacks.com'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 2
+    notes: 'Reposts texture packs and Optifine'
 -
     domain: 'minecraft-sodeon.ru'
     advertising: 5
@@ -848,6 +1016,11 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'minecraft.fr'
+    advertising: 3
+    redistribution: 1
+    miscellaneous: 2
 -
     domain: 'minecraft.soft32.com'
     advertising: 5
@@ -974,6 +1147,11 @@
     domain: 'minecrafted.su'
     advertising: 2
     redistribution: 5
+    miscellaneous: 3
+-
+    domain: 'minecrafteo.com'
+    advertising: 3
+    redistribution: 3
     miscellaneous: 3
 -
     domain: 'minecrafteon.com'
@@ -1208,6 +1386,11 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'minecraftpatch.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'minecraftpe-mods.com'
     advertising: 2
@@ -1482,6 +1665,12 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'modsfire.download'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Malware alert!'
+-
     domain: 'modsforminecraft.org'
     advertising: 1
     redistribution: 5
@@ -1491,6 +1680,12 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
+-
+    domain: 'modsline.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Also reposts resource packs and data packs'
 -
     domain: 'modsmc.com'
     advertising: 1
@@ -1605,6 +1800,11 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'oneland.su'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'onlinecheats.ru'
     advertising: 1
     redistribution: 4
@@ -1666,6 +1866,16 @@
     redistribution: 5
     miscellaneous: 5
 -
+    domain: 'pentacraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
+    domain: 'pixelmon.pro'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'planet-m.net'
     advertising: 5
     redistribution: 5
@@ -1691,6 +1901,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'playways.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'proud-portal.ru'
     advertising: 3
     redistribution: 5
@@ -1700,6 +1915,34 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'qoobworld.ru'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 2
+-
+    domain: 'realmine.net'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
+    domain: 'reddit.com'
+    path: '/r/modpiracy'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Subreddit dedicated to redistributing mods'
+-
+    domain: 'redserver.su'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 1
+-
+    domain: 'resourcepack.info'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 4
+    notes: 'Mostly redistributes resource packs, but also mods'
 -
     domain: 'revozin.com'
     advertising: 3
@@ -1732,6 +1975,11 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'rus-minecraft.com'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'secure.downloadfp.com'
     advertising: 3
     redistribution: 5
@@ -1748,6 +1996,16 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'sharemods.com'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 5
+-
+    domain: 'simpleminecraft.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
 -
     domain: 'simplesminecraft.blogspot.com.br'
     advertising: 1
@@ -1768,6 +2026,11 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'sky-mine.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
 -
     domain: 'skydaz.com'
     advertising: 4
@@ -1801,6 +2064,11 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'squareland.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'stoninho.blogspot.com.br'
     advertising: 1
     redistribution: 5
@@ -1812,10 +2080,20 @@
     miscellaneous: 5
     notes: 'Malware alert!'
 -
+    domain: 'streamcraft.net'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'sumycraft.ru'
     advertising: 2
     redistribution: 5
     miscellaneous: 5
+-
+    domain: 'svida.org'
+    advertising: 3
+    redistribution: 3
+    miscellaneous: 4
 -
     domain: 'terrariaw.ru'
     advertising: 4
@@ -1876,6 +2154,16 @@
     redistribution: 1
     miscellaneous: 3
 -
+    domain: 'victorycraft.ru'
+    advertising: 3
+    redistribution: 3
+    miscellaneous: 4
+-
+    domain: 'vimeworld.ru'
+    advertising: 1
+    redistribution: 3
+    miscellaneous: 2
+-
     domain: 'vminecraft.ru'
     advertising: 1
     redistribution: 5
@@ -1905,6 +2193,11 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 3
+-
+    domain: 'wikiminecraft.com'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 1
 -
     domain: 'wizardhax.com'
     advertising: 5
