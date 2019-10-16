@@ -1,1 +1,60 @@
-{}
+{
+    "hide_rating_guide": {
+        "message": "(Clique para esconder)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Categoria",
+        "description": "Table header for the three categories below."
+    },
+    "rating_misc": {
+        "message": "Diversos",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "Taxa de maldade",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "severity_low": {
+        "message": "Baixa",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Média",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Alta",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Muito Alta",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Notas para este site: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Voltar a página anterior",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(recomendado para sua segurança)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Continuar ao site",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(pode prejudicar seu computador)",
+        "description": "Help text for the above button"
+    }
+}
