@@ -1666,7 +1666,7 @@
     miscellaneous: 4
 -
     domain: 'modsfire.download'
-    advertising:
+    advertising: 5
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
