@@ -1,4 +1,12 @@
 {
+    "blacklist_warn": {
+        "message": "Este site está na lista negra do StopModReposts!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "learn_more": {
+        "message": "Clique aqui para entender sobre como avaliamos os sites.",
+        "description": "Users click this link to display the message below."
+    },
     "hide_rating_guide": {
         "message": "(Clique para esconder)",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
@@ -7,6 +15,10 @@
         "message": "Categoria",
         "description": "Table header for the three categories below."
     },
+    "rating_redist": {
+        "message": "Redistribução",
+        "description": "Same as above, except this is for redistribution."
+    },
     "rating_misc": {
         "message": "Diversos",
         "description": "Same as above, except this is for the miscellaneous category."
@@ -14,6 +26,10 @@
     "evilness": {
         "message": "Taxa de maldade",
         "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "severity_none": {
+        "message": "Nenhum",
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "Baixa",
