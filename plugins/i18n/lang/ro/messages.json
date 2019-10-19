@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Acest site este blocat de StopModReposts.org pentru redistribuirea ilegală a mod-urilor. Asta înseamnă că această pagină fură mod-uri fără permisiune pentru a le încărca aici, conține link-uri la versiuni de mod-uri vechi, incompatibile, sau neexistente, şi\/sau face bani de pe munca grea a dezvoltatoriilor de mod-uri. Încă poți vizita pagina dacă dorești, dar nu este recomandat, deoarece anumite site-uri pot conține viruși.",
+        "message": "Acest site este blocat de StopModReposts.org pentru redistribuirea ilegală a mod-urilor. Asta înseamnă că această pagină fură mod-uri fără permisiune pentru a le încărca aici, conține link-uri la versiuni de mod-uri vechi, incompatibile, sau neexistente, şi/sau face bani de pe munca grea a dezvoltatoriilor de mod-uri. Încă poți vizita pagina dacă dorești, dar nu este recomandat, deoarece anumite site-uri pot conține viruși.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
@@ -30,7 +30,7 @@
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
-        "message": "Fiecărui site îi este atribuită o valoare de la 1 la 5 în trei categorii: Reclame, redistribuție şi diverse. Categoria reclame indică cât de multe anunțuri\/reclame site-ul încearcă să afișe, categoria redistribuție indică în ce măsură site-ul redistribuie mod-uri fara permisiune, iar categorie diverse indică în ce măsură deținătorul site-ului induce în eroare utilizatorii despre mod-urile postate (versiuni vechi, incompatibile, sau neexistente). Un scor mai mic este mai bun, o singură stea fiind cel mai bun scor.",
+        "message": "Fiecărui site îi este atribuită o valoare de la 1 la 5 în trei categorii: Reclame, redistribuție şi diverse. Categoria reclame indică cât de multe anunțuri/reclame site-ul încearcă să afișe, categoria redistribuție indică în ce măsură site-ul redistribuie mod-uri fara permisiune, iar categorie diverse indică în ce măsură deținătorul site-ului induce în eroare utilizatorii despre mod-urile postate (versiuni vechi, incompatibile, sau neexistente). Un scor mai mic este mai bun, o singură stea fiind cel mai bun scor.",
         "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
@@ -63,7 +63,7 @@
     },
     "severity_none": {
         "message": "Niciunul",
-        "description": "Used for sites which do not redistribute mods\/advertise etc."
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "Scăzut",
@@ -78,7 +78,7 @@
         "description": "Used for sites which do the above to a large extent."
     },
     "severity_veryhigh": {
-        "message": "Sever",
+        "message": "Foarte Ridicat",
         "description": "Used for sites which do the above to a very large extent."
     },
     "site_notes": {
