@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Ce site Web figure sur une des listes noires de StopModReposts.org pour redistribution illégale de mods. Cela signifie que la page Web que vous étiez sur le point de visiter volait des mods sans autorisation pour les héberger ici, établissait un lien vers des versions obsolètes, incompatibles ou inexistantes des mods et\/ou gagnait de l'argent sur le dos de ces modeurs. Vous pouvez toujours consulter cette page si vous le souhaitez, mais cela vous est déconseillé et peut, sur certains sites, exposer votre ordinateur à un risque d'infection par des virus et des logiciels malveillants.",
+        "message": "Ce site Web figure sur une des listes noires de StopModReposts.org pour redistribution illégale de mods. Cela signifie que la page Web que vous étiez sur le point de visiter volait des mods sans autorisation pour les héberger ici, établissait un lien vers des versions obsolètes, incompatibles ou inexistantes des mods et/ou gagnait de l'argent sur le dos de ces modeurs. Vous pouvez toujours consulter cette page si vous le souhaitez, mais cela vous est déconseillé et peut, sur certains sites, exposer votre ordinateur à un risque d'infection par des virus et des logiciels malveillants.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
@@ -63,7 +63,7 @@
     },
     "severity_none": {
         "message": "Aucun",
-        "description": "Used for sites which do not redistribute mods\/advertise etc."
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "Basse",
