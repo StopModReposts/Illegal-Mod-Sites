@@ -63,7 +63,7 @@
     },
     "severity_none": {
         "message": "无风险－安全",
-        "description": "Used for sites which do not redistribute mods\/advertise etc."
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "低风险",
