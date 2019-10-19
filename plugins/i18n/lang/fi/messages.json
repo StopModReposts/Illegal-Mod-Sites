@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Tämä sivusto on StopModRepostsin laittoman modien uudelleenpostaamisen mustalla listalla. Tämä tarkoittaa, että verkkosivu, jolle yritit mennä nyt varastaa modeja modaajilta ilman oikeutta ladata niitä tänne, linkkaa vanhoihin, yhteensopimattomiin tai olemattomiin versioihin modeista, ja\/tai ansaitsee rahaa latauslinkeistä, eikä tue modaajien rankkaa työtä. Voit edelleen mennä tälle sivulle jos haluat, mutta sitä ei suositella, ja jotkin sivustot laittavat tietokoneesi mahdollisen virustartunnan riskiin.",
+        "message": "Tämä sivusto on StopModRepostsin laittoman modien uudelleenpostaamisen mustalla listalla. Tämä tarkoittaa, että verkkosivu, jolle yritit mennä nyt varastaa modeja modaajilta ilman oikeutta ladata niitä tänne, linkkaa vanhoihin, yhteensopimattomiin tai olemattomiin versioihin modeista, ja/tai ansaitsee rahaa latauslinkeistä, eikä tue modaajien rankkaa työtä. Voit edelleen mennä tälle sivulle jos haluat, mutta sitä ei suositella, ja jotkin sivustot laittavat tietokoneesi mahdollisen virustartunnan riskiin.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
@@ -63,7 +63,7 @@
     },
     "severity_none": {
         "message": "Ei ole",
-        "description": "Used for sites which do not redistribute mods\/advertise etc."
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "Alhainen",
