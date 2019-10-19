@@ -8,7 +8,7 @@
         "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
     },
     "what_happened": {
-        "message": "Diese Website ist auf einer Liste von StopModReposts.org geblockten Websites für illegale Modpublizierung. Das bedeutet, dass die Website die Du gerade besuchen willst Minecraft Mods von Moddern ohne deren Erlaubnis stiehlt, zu veralteten inkompatibeln oder nicht existierenden Versionen der Mods verlinkt, und\/oder verdient Geld von der harten Arbeit der Modder. Du kannst die Website immernoch besuchen wenn du möchtest, aber das ist nicht empfohlen, da manche Websiten Deinen Computer mit Viren und Malware infizieren können.",
+        "message": "Diese Website ist auf einer Liste von StopModReposts.org geblockten Websites für illegale Modpublizierung. Das bedeutet, dass die Website die Du gerade besuchen willst Minecraft Mods von Moddern ohne deren Erlaubnis stiehlt, zu veralteten inkompatibeln oder nicht existierenden Versionen der Mods verlinkt, und/oder verdient Geld von der harten Arbeit der Modder. Du kannst die Website immernoch besuchen wenn du möchtest, aber das ist nicht empfohlen, da manche Websiten Deinen Computer mit Viren und Malware infizieren können.",
         "description": "The message that is shown to users when they land on a blacklisted page."
     },
     "campaign_info": {
@@ -63,7 +63,7 @@
     },
     "severity_none": {
         "message": "Keine",
-        "description": "Used for sites which do not redistribute mods\/advertise etc."
+        "description": "Used for sites which do not redistribute mods/advertise etc."
     },
     "severity_low": {
         "message": "Niedrig",
