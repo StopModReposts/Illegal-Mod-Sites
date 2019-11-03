@@ -777,10 +777,9 @@
     miscellaneous: 2
 -
     domain: 'mcpefl.com'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 1
-    notes: 'This website was down when we tried to review it, but it was previously reported as a mod redistributing site.'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 3
 -
     domain: 'mcpemods.net'
     advertising: 1
