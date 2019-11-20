@@ -1,4 +1,9 @@
 -
+    domain: '3dmgame.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
+-
     domain: 'gamepressure.com'
     advertising: 5
     redistribution: 5
