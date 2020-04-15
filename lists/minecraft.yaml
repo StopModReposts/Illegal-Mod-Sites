@@ -500,6 +500,11 @@
     redistribution: 5
     miscellaneous: 5
 -
+    domain: 'gamemodd.com'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
+-
     domain: 'gamemodding.net'
     advertising: 5
     redistribution: 5
@@ -1020,6 +1025,11 @@
     advertising: 5
     redistribution: 4
     miscellaneous: 4
+-
+    domain: 'minecraft.org.pl'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
 -
     domain: 'minecraft11.com'
     advertising: 4
