@@ -335,7 +335,6 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 1
-    notes: 'Hosts hundreds of mods and several modpacks without permission'
 -
     domain: 'downloadape.org'
     advertising: 5
@@ -1312,7 +1311,6 @@
     advertising: 1
     redistribution: 1
     miscellaneous: 4
-    notes: 'Blacklisted for misleading users about the target Minecraft versions of an extensive number of mods and modpacks'
 -
     domain: 'minecraftmods.biz'
     advertising: 5
@@ -1437,6 +1435,11 @@
     redistribution: 5
     miscellaneous: 4
 -
+    domain: 'minecraftred.com'
+    advertising: 2
+    redistribution: 3
+    miscellaneous: 3
+-
     domain: 'minecraftresource.com'
     advertising: 5
     redistribution: 5
@@ -1461,13 +1464,11 @@
     advertising: 5
     redistribution: 2
     miscellaneous: 5
-    notes: 'Misleading versions for minecraft mods'
 -
     domain: 'minecraftsix.es'
     advertising: 5
     redistribution: 2
     miscellaneous: 5
-    notes: 'Misleading versions for minecraft mods'
 -
     domain: 'minecraftsone.blogspot.no'
     advertising: 1
@@ -1481,6 +1482,11 @@
 -
     domain: 'minecraftspot.net'
     advertising: 3
+    redistribution: 5
+    miscellaneous: 3
+-
+    domain: 'minecraftstorage.com'
+    advertising: 2
     redistribution: 5
     miscellaneous: 3
 -
@@ -1875,6 +1881,11 @@
     redistribution: 3
     miscellaneous: 3
 -
+    domain: 'pimpminecraft.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'pixelmon.pro'
     advertising: 2
     redistribution: 3
@@ -1898,6 +1909,11 @@
     domain: 'planetaminecraft.com'
     advertising: 5
     redistribution: 4
+    miscellaneous: 3
+-
+    domain: 'planetlemoncraft.com'
+    advertising: 4
+    redistribution: 5
     miscellaneous: 3
 -
     domain: 'planetmods.net'
