@@ -26,7 +26,7 @@
         }
     },
     "learn_more": {
-        "message": "サイトを評価する方法については、ここをクリックしてください。",
+        "message": "StopModReposts がサイトをどのように評価するかについては、ここをクリックしてください。",
         "description": "Users click this link to display the message below."
     },
     "how_we_rate": {
