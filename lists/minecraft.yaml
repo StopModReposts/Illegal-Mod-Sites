@@ -2038,13 +2038,6 @@
     miscellaneous: 2
 -
     domain: 'reddit.com'
-    path: '/r/modpiracy'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Closed down'
--
-    domain: 'reddit.com'
     path: '/r/modpiracy2'
     advertising: 1
     redistribution: 5
