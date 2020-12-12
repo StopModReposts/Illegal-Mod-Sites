@@ -427,6 +427,12 @@
     redistribution: 3
     miscellaneous: 3
 -
+    domain: 'filesforpc.xyz'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Many sites link to it'
+-
     domain: 'fmcpe.com'
     advertising: 2
     redistribution: 5
@@ -845,7 +851,8 @@
     domain: 'minecraft-dl.com'
     advertising: 1
     redistribution: 5
-    miscellaneous: 2
+    miscellaneous: 5
+    notes: 'Many sites link to it'
 -
     domain: 'mine-craft.ws'
     advertising: 1
@@ -995,6 +1002,12 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'minecraft-mods.pro'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Launcher and mod downloads'
+-
     domain: 'minecraft-modsdownload.com'
     advertising: 4
     redistribution: 2
@@ -1071,6 +1084,11 @@
     advertising: 5
     redistribution: 1
     miscellaneous: 5
+-
+    domain: 'minecraft20.ru'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraft123.net'
     advertising: 1
@@ -1240,6 +1258,12 @@
     redistribution: 5
     miscellaneous: 3
 -
+    domain: 'minecraftforged.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    notes: 'Fake Forge website'
+-
     domain: 'minecraftfly.ru'
     advertising: 1
     redistribution: 5
@@ -1349,6 +1373,11 @@
     redistribution: 1
     miscellaneous: 2
 -
+    domain: 'minecraftmodspc.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
+-
     domain: 'minecraftmods.com.br'
     advertising: 5
     redistribution: 1
@@ -1434,7 +1463,7 @@
     domain: 'minecraftpatch.com'
     advertising: 2
     redistribution: 5
-    miscellaneous: 3
+    miscellaneous: 5
 -
     domain: 'minecraftpe-mods.com'
     advertising: 2
@@ -1557,6 +1586,11 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'minecraftupdate.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'minecraftvip.com'
     advertising: 2
@@ -1748,6 +1782,11 @@
     advertising: 1
     redistribution: 1
     miscellaneous: 5
+-
+    domain: 'mods-minecraft.ru'
+    advertising: 2
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'modsminecraft.com'
     advertising: 2
@@ -2003,6 +2042,13 @@
     advertising: 1
     redistribution: 5
     miscellaneous: 5
+    notes: 'Closed down'
+-
+    domain: 'reddit.com'
+    path: '/r/modpiracy2'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
     notes: 'Subreddit dedicated to redistributing mods'
 -
     domain: 'redserver.su'
@@ -2020,6 +2066,11 @@
     redistribution: 5
     miscellaneous: 4
     notes: 'Mostly redistributes resource packs, but also mods'
+-
+    domain: 'resourcepacks.download'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 2
 -
     domain: 'revozin.com'
     advertising: 3
@@ -2073,6 +2124,12 @@
     redistribution: 5
     miscellaneous: 5
     notes: 'Malware alert!'
+-
+    domain: 'shadersmod.download'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 5
+    notes: 'Download links dont work'
 -
     domain: 'sharemods.com'
     advertising: 3
