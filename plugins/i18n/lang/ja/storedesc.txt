@@ -5,6 +5,6 @@ DMCAやテイクダウンが失敗した場合、私たちがこれらのサイ�
 - サイトが違法であることを閲覧している人に知らせる。 ホストの行動が法律に反していること、ホストがMod作成者の権利を無視していることに気づいていない場合は、これらのサイトを使用する人々を止めることはできません。 したがって、この拡張機能はそのようなサイトを閲覧する際にオーバーレイを表示します。
 - これらのサイトを訪れるとコンピュータが危険にさらされることを知らせる。 マルウェアに感染したいと思う人はいません。サイトがPCに損害を与える可能性がある場合に警告します。
 
-This extension is developed by bilde2910, just another member of the modding community. The website StopModReposts.org is designed and developed by other members, so we're not directly affiliated with each other. The same goes for @StopModReposts on Twitter. If you have any reports or questions, feel free to tweet at @bilde2910, or send an e-mail to marius (at) varden (dot) info. You can also look for bilde2910 in the StopModReposts discord server (https://discord.gg/zg4tt2M).
+この拡張機能はModdingコミュニティのひとり、bilde2910によって開発されました。 StopModReposts.org は他のメンバーによって設計および開発されているため、私たちはお互いに直接提携していません。 Twitterの @StopModReposts でも同様です。 報告や質問がある場合は、@bilde2910に対してツイートするか、Marius (at) varden (dot) infoにメールを送信してください。 StopModRepostsのDiscordサーバー(https://discord.gg/zg4tt2M)からbilde2910を探して、メッセージを送ることもできます。
 
-The sites this extension warns about are the same sites as are listed on https://github.com/StopModReposts/Illegal-Mod-Sites and is updated every few days or hours with new hosts. If you own one of these sites and want to be removed from the list, I suggest you have a chat with the people of the #stopmodreposts channel on EsperNet, they'll see if it's a good idea or not to have you removed.
+この拡張機能が警告するサイトは https://github.com/StopModReposts/Illegal-Mod-Sites に記載されているサイトと同じで、数日または数時間ごとに新しいホストで更新されます。 これらのサイトのいずれかを所有し、リストから削除したい場合は、EsperNetの #stopmodreposts チャンネルの人たちとチャットすることをお勧めします。 彼らはそれが良いかどうかを判断し、削除またはそのままにします。
