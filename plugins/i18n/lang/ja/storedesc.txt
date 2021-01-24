@@ -1,9 +1,9 @@
-著作権侵害はMod作成者にとって日常的なことです。 やや人気のあるModのほとんどは違法にコピーされ、開発者から許可や承認を得らずにサードパーティのサイトで再配布されています。 これらのウェブサイトの多くはベトナム、またはロシアでホストされており、異なる著作権法のためにテイクダウンするのは困難です。 Many of these sites illegally monetize their download links to earn money off of the modders' hard work, and several even go as far as to claim ownership of the illegal content. Some of them are known to host malware and viruses and claim that these are real, harmless mods. This has to stop.
+著作権侵害はMod作成者にとって日常的なことです。 やや人気のあるModのほとんどは違法にコピーされ、開発者から許可や承認を得らずにサードパーティのサイトで再配布されています。 これらのウェブサイトの多くはベトナム、またはロシアでホストされており、異なる著作権法のためにテイクダウンするのは困難です。 これらのサイトの多くは、ダウンロードリンクを違法に収益化し、Mod作成者の苦労でお金を稼いでいます。また、違法なコンテンツの所有権を主張する人もいます。 そのうちのいくつかはマルウェアやウイルスをホストし、これらが本物で無害なModであるかのような主張をしていることが知られています。 これは止めなければなりません。
 
 DMCAやテイクダウンが失敗した場合、私たちがこれらのサイトからModをダウンロードしないように呼び掛ける必要があります。 しかし、上記のような活動を行っているサイトの多くは、公式サイトに見え、多くの人を混乱させてこれらのサイトが本物のサイトであると信じさせています。 その結果、多くのPCがウイルスやマルウェアに感染しています。Modderは収益と評判を失い、すでに新しいバージョンのModでバグが修正されているにもかかわらず、違法なサイトでホストされているのは古いバージョンで、それが理由でバグに関する報告でMod作成者がスパムされています。 Stop Mod Reposts はこれを止めるために作られました。 どのようにして行っているかは次の通りです:
 
-- サイトが違法であることを閲覧している人に知らせる。 There is no way we can stop people from using these sites when they're unaware that the actions of the host is against the law and that the host is ignorant of the modders' rights. Therefore, this extension will display an overlay when browsing a site like this.
-- Letting people know that visiting these sites puts their computers at risk. No one wants to be infected with malware, so we'll warn them that the sites potentially can harm their machines.
+- サイトが違法であることを閲覧している人に知らせる。 ホストの行動が法律に反していること、ホストがMod作成者の権利を無視していることに気づいていない場合は、これらのサイトを使用する人々を止めることはできません。 したがって、この拡張機能はそのようなサイトを閲覧する際にオーバーレイを表示します。
+- これらのサイトを訪れるとコンピュータが危険にさらされることを知らせる。 マルウェアに感染したいと思う人はいません。サイトがPCに損害を与える可能性がある場合に警告します。
 
 This extension is developed by bilde2910, just another member of the modding community. The website StopModReposts.org is designed and developed by other members, so we're not directly affiliated with each other. The same goes for @StopModReposts on Twitter. If you have any reports or questions, feel free to tweet at @bilde2910, or send an e-mail to marius (at) varden (dot) info. You can also look for bilde2910 in the StopModReposts discord server (https://discord.gg/zg4tt2M).
 
