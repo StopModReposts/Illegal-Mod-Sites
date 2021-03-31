@@ -1,6 +1,6 @@
 {
     "appdesc": {
-        "message": "Minecraft 모드를 불법적으로 다시 올리는 것으로 알려진 사이트를 감지 및 경고합니다.",
+        "message": "Minecraft 모드를 불법적으로 다시 올리는 것으로 알려진 사이트를 감지하고 경고합니다.",
         "description": "The description of the extension as it appears when searching in Chrome Web Store."
     },
     "blacklist_warn": {
