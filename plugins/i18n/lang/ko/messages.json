@@ -34,7 +34,7 @@
         "description": "Message which helps users understand what the ratings mean."
     },
     "hide_rating_guide": {
-        "message": "(클릭해 숨기기)",
+        "message": "(숨기려면 클릭)",
         "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
     },
     "category": {
