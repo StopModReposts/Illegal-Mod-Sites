@@ -49,6 +49,10 @@
         "message": "Poziom",
         "description": "Samea as above, but is used for the five severities below instead of stars."
     },
+    "severity_none": {
+        "message": "Brak",
+        "description": "Used for sites which do not redistribute mods/advertise etc."
+    },
     "severity_low": {
         "message": "Niski",
         "description": "Used for sites which do the above to a small extent."
@@ -80,11 +84,15 @@
         "description": "Green button which user can press to return to the previous page they were on"
     },
     "why_go_back": {
-        "message": "(zalecane dla twojego bezpieczeństwa)",
+        "message": "(zalecane dla bezpieczeństwa)",
         "description": "Help text for the above button"
     },
     "continue": {
         "message": "Przejdź do strony",
         "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(może wyrządzić szkody na komputerze)",
+        "description": "Help text for the above button"
     }
 }
