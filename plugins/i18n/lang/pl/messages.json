@@ -48,5 +48,43 @@
     "ratelevel": {
         "message": "Poziom",
         "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_low": {
+        "message": "Niski",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Średni",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Wysoki",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Bardzo wysoki",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Dodatkowe informacje o tej stronie: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Wróć do poprzedniej strony",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(zalecane dla twojego bezpieczeństwa)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Przejdź do strony",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
     }
 }
