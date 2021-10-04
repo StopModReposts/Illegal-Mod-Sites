@@ -1,1 +1,52 @@
-{}
+{
+    "blacklist_warn": {
+        "message": "Strona umieszczona na czarnej liście przez StopModReposts!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "what_happened": {
+        "message": "Ta strona znajduje się na czarnej liście StopModReposts.org, ponieważ nielegalnie rozpowszechnia modyfikacje. To oznacza, że strona, którą chcesz odwiedzić, kradnie mody od ich autorów bez pozwolenia, aby je tu zamieścić, odsyła do przestarzałych, niekompatybilnych lub nieistniejących wersji modów, i/lub zarabia na ciężkiej pracy autorów. Możesz dalej przeglądać tę stronę, ale jest to odradzane i modyfikacje z niektórych witryn mogą zainfekować twój komputer wirusami i złośliwym oprogramowaniem.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "Kliknij tutaj, aby dowiedzieć się więcej o akcji StopModReposts.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "Ocena dla $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Kliknij tutaj, aby zobaczyć, jak oceniamy strony.",
+        "description": "Users click this link to display the message below."
+    },
+    "hide_rating_guide": {
+        "message": "(Kliknij, aby ukryć)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Kategoria",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Reklamy",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "Rozpowszechnianie",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "Inne",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "ratelevel": {
+        "message": "Poziom",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    }
+}
