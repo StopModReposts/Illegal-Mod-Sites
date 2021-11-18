@@ -1,0 +1,23 @@
+{
+  "name": "Stop Mod Reposts",
+  "version": "5.0.0",
+  "description": "__MSG_appdesc__",
+  "default_locale": "en",
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png",
+    "32": "icons/icon32.png",
+    "16": "icons/icon16.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["out/contentScript.bundle.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["out/background.bundle.js"]
+  },
+  "permissions": ["https://api.stopmodreposts.org/sites.json"],
+  "manifest_version": 2
+}

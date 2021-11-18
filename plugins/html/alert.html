@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+    <title>smr-blocked</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.min.css" />
+  </head>
+  <body style="background: rgba(0, 0, 0, 0.91)">
+    <section
+      class="highlight-clean"
+      style="
+        padding-left: 20px;
+        padding-right: 20px;
+        background: rgba(255, 255, 255, 0);
+      "
+    >
+      <div class="container">
+        <div class="intro">
+          <h2
+            class="text-left"
+            style="
+              color: rgb(215, 0, 0);
+              font-size: 55px;
+              font-weight: 700;
+              margin-top: 40px;
+            "
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="1em"
+              height="1em"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="icon icon-tabler icon-tabler-alert-octagon"
+              style="margin-bottom: 12px; margin-right: 10px"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path
+                d="M8.7 3h6.6c0.3 0 .5 .1 .7 .3l4.7 4.7c0.2 .2 .3 .4 .3 .7v6.6c0 .3 -.1 .5 -.3 .7l-4.7 4.7c-0.2 .2 -.4 .3 -.7 .3h-6.6c-0.3 0 -.5 -.1 -.7 -.3l-4.7 -4.7c-0.2 -.2 -.3 -.4 -.3 -.7v-6.6c0 -.3 .1 -.5 .3 -.7l4.7 -4.7c0.2 -.2 .4 -.3 .7 -.3z"
+              ></path>
+              <line x1="12" y1="8" x2="12" y2="12"></line>
+              <line x1="12" y1="16" x2="12.01" y2="16"></line></svg
+            >Blocked&nbsp;
+          </h2>
+          <p
+            class="text-left"
+            style="
+              margin-top: -10px;
+              color: rgb(255, 255, 255);
+              font-weight: 400;
+              font-size: 20px;
+              line-height: 25px;
+            "
+          >
+            This site was blocked by
+            <a href="https://stopmodreposts.org" target="_blank"
+              >StopModReposts </a
+            >since it was found on our list and could possibly harm your
+            computer.
+          </p>
+        </div>
+        <div
+          class="intro"
+          style="
+            border-radius: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            border: 3px solid rgba(244, 9, 9, 0.5);
+          "
+        >
+          <p style="color: rgba(255, 255, 255, 0.8); margin-top: 15px">
+            <strong>DOMAIN</strong>
+          </p>
+          <p
+            style="
+              color: rgb(255, 255, 255);
+              margin-top: -20px;
+              font-size: 19px;
+              font-weight: 300;
+            "
+            id="domain"
+          >
+            {{ domain }}
+          </p>
+          <p style="color: rgba(255, 255, 255, 0.8); margin-top: 15px">
+            <strong>REASON</strong>
+          </p>
+          <p
+            style="
+              color: rgb(255, 255, 255);
+              margin-top: -20px;
+              font-size: 19px;
+              font-weight: 300;
+            "
+          >
+            <strong id="reason">{{ reason }}</strong>
+          </p>
+          <p style="color: rgba(255, 255, 255, 0.8); margin-top: 15px">
+            <strong>NOTES</strong>
+          </p>
+          <p
+            style="
+              color: rgb(255, 255, 255);
+              margin-top: -20px;
+              font-size: 19px;
+              font-weight: 300;
+            "
+            id="notes"
+          >
+            {{ notes }}
+          </p>
+        </div>
+        <div class="intro" style="margin-top: 20px">
+          <a
+            class="btn btn-primary"
+            role="button"
+            style="
+              margin-bottom: 15px;
+              background: rgba(244, 9, 9, 0);
+              border-radius: 5px;
+              color: rgb(255, 255, 255);
+              margin-right: 10px;
+              border: 2px solid rgba(255, 255, 255, 0.5);
+            "
+            href="mailto:help@stopmodreposts.org"
+            ><strong>Report False-Positive</strong></a
+          ><a
+            class="btn btn-primary"
+            role="button"
+            style="
+              margin-bottom: 15px;
+              background: rgba(0, 0, 0, 0);
+              border-radius: 5px;
+              color: rgb(244, 9, 9);
+              border: 2px solid rgba(244, 9, 9, 0.5);
+            "
+            id="ignoresite"
+            ><strong>Open anyways</strong></a
+          >
+        </div>
+        <div class="intro" style="margin-top: 90px">
+          <p
+            style="
+              font-size: 14px;
+              letter-spacing: 0px;
+              color: rgb(160, 160, 160);
+              margin-top: 0px;
+              text-align: left;
+            "
+          >
+            Your Privacy is important to us. We do not collect personal data
+            like your browsing history. For any questions or inquiries, contact
+            us via
+            <a href="mailto:help@stopmodreposts.org" target="_blank">Email</a>
+            or chat with us on
+            <a href="https://discord.gg/tZBeUy3" target="_blank">Discord</a>.
+          </p>
+        </div>
+      </div>
+    </section>
+    <script src="../out/pageScript.bundle.js"></script>
+  </body>
+</html>
