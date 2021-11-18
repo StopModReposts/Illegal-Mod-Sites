@@ -17,6 +17,10 @@ chrome.runtime.sendMessage(
 
     ignoreBtn.addEventListener("click", () => {
       chrome.runtime.sendMessage({
+        type: "add-to-ignore",
+        data: response,
+      });
+      chrome.runtime.sendMessage({
         type: "tab-update",
         data: response.ext_redirFrom,
       });

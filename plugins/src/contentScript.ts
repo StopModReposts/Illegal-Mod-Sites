@@ -26,10 +26,6 @@ chrome.runtime.sendMessage(
       data: site,
     });
     chrome.runtime.sendMessage({
-      type: "add-to-ignore",
-      data: site,
-    });
-    chrome.runtime.sendMessage({
       type: "tab-update",
       data: chrome.runtime.getURL("/html/alert.html"),
     });
