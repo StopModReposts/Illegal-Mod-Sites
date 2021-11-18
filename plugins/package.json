@@ -13,7 +13,7 @@
     "url-matcher": "^0.2.2"
   },
   "scripts": {
-    "build": "web-ext build --overwrite-dest"
+    "build": "webpack --mode production && web-ext build --overwrite-dest"
   },
   "devDependencies": {
     "@types/chrome": "^0.0.164",
