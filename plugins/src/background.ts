@@ -1,6 +1,6 @@
 import axios from "axios";
 import { APIResponse, IllegalSite } from "./APITypes";
-
+console.log("background loaded");
 let cachedSites: APIResponse = [];
 let ignoreList: string[] = [];
 type ExtMessageType =
@@ -21,8 +21,9 @@ axios.get("https://api.stopmodreposts.org/sites.json").then((res) => {
 });
 
 chrome.runtime.onMessage.addListener(
-  async (message: ExtMessage, sender, sendResponse) => {
+  (message: ExtMessage, sender, sendResponse) => {
     if (message.type === "get-sites-list") {
+      console.log("sending site list", cachedSites);
       if (cachedSites[0])
         return sendResponse(
           cachedSites.filter((site) => !ignoreList.includes(site.domain))

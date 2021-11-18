@@ -4,6 +4,7 @@ import { APIResponse } from "./APITypes";
 chrome.runtime.sendMessage(
   { type: "get-sites-list" },
   (response: APIResponse | null) => {
+    console.log(response);
     if (!response) return console.log("ERR TOO FAST");
     let host = location.host;
     if (host.startsWith("www.")) {
