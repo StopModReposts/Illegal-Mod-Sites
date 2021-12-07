@@ -1,1 +1,110 @@
-{}
+{
+    "appdesc": {
+        "message": "Detecta y advierte sobre sitios web que publican mods de Minecraft ilegalmente.",
+        "description": "The description of the extension as it appears when searching in Chrome Web Store."
+    },
+    "blacklist_warn": {
+        "message": "Sitio en lista negra por StopModReposts!",
+        "description": "Appears as the title of the popup users see when visiting blacklisted sites. Please do not translate StopModReposts as it is the name of the campaign."
+    },
+    "what_happened": {
+        "message": "Este sitio web está en una lista de sitios en la lista negra de StopModReposts.org para la redistribución ilegal de mods. Esto significa que la página web que estás a punto de visitar ahora mismo está robando mods de modders sin permiso para subirlos aquí, está enlazando a versiones anticuadas, incompatibles o inexistentes de los mods, y/o está ganando dinero con el duro trabajo de los moders. Todavía puede navegar por esta página si lo desea, pero no es recomendado y puede que en algunos sitios ponga su ordenador en riesgo de estar infectado por virus y malware.",
+        "description": "The message that is shown to users when they land on a blacklisted page."
+    },
+    "campaign_info": {
+        "message": "Haga clic aquí para obtener más información sobre la campaña StopModReposts.",
+        "description": "Displayed at the end of the previous message to link to the campaign site."
+    },
+    "this_site": {
+        "message": "Valoración para $site$",
+        "description": "Shown above the ratings for this site. $site$ is a placeholder for the domain of the site, so don't translate that word.",
+        "placeholders": {
+            "site": {
+                "content": "$1",
+                "example": "example.com"
+            }
+        }
+    },
+    "learn_more": {
+        "message": "Haga clic aquí para saber cómo calificamos las paginas web.",
+        "description": "Users click this link to display the message below."
+    },
+    "how_we_rate": {
+        "message": "Cada sitio recibe una calificación de 1 a 5 en tres categorías: Anuncios, redistribución y misceláneo. La publicidad indica cuántos anuncios está mostrando el sitio a los descargadores de mods (más dinero para el propietario del sitio ilegal), redistribución indica hasta qué punto el sitio redistribuye mods sin permiso, y misceláneo indica hasta qué punto el propietario del sitio confunde a los usuarios acerca de los mods publicados (ej. versiones de mod obsoletas, incompatibles o inexistentes y si el autor está acreditado). Una puntuación más baja es mejor, con 1 estrella siendo la mejor puntuación.",
+        "description": "Message which helps users understand what the ratings mean."
+    },
+    "hide_rating_guide": {
+        "message": "(Presione para ocultar)",
+        "description": "Displayed at the end of the above message to hide it. Please make sure this is wrapped in parentheses."
+    },
+    "category": {
+        "message": "Categoría",
+        "description": "Table header for the three categories below."
+    },
+    "rating_ads": {
+        "message": "Publicidad",
+        "description": "Advertising category of the rating, this name is displayed in the evilness table."
+    },
+    "rating_redist": {
+        "message": "Redistribución",
+        "description": "Same as above, except this is for redistribution."
+    },
+    "rating_misc": {
+        "message": "Misceláneo",
+        "description": "Same as above, except this is for the miscellaneous category."
+    },
+    "evilness": {
+        "message": "Calificación de maldad",
+        "description": "Table header for the star ratings. Indicates how evil the site is in the above categories."
+    },
+    "ratelevel": {
+        "message": "Nivel de valoración",
+        "description": "Samea as above, but is used for the five severities below instead of stars."
+    },
+    "severity_none": {
+        "message": "Ninguno",
+        "description": "Used for sites which do not redistribute mods/advertise etc."
+    },
+    "severity_low": {
+        "message": "Bajo",
+        "description": "Used for sites which do the above to a small extent."
+    },
+    "severity_medium": {
+        "message": "Medio",
+        "description": "Used for sites which do the above to a slightly larger extent."
+    },
+    "severity_high": {
+        "message": "Alto",
+        "description": "Used for sites which do the above to a large extent."
+    },
+    "severity_veryhigh": {
+        "message": "Muy Alto",
+        "description": "Used for sites which do the above to a very large extent."
+    },
+    "site_notes": {
+        "message": "Notas de esta pagina web: $reason$",
+        "description": "Shown if the site has additional notes supplied by the site reviewers. $reason$ is a placeholder for the reason the site was blocked, so don't translate that word - see below:",
+        "placeholders": {
+            "reason": {
+                "content": "$1",
+                "example": "Malware alert!"
+            }
+        }
+    },
+    "go_back": {
+        "message": "Volver a la página anterior",
+        "description": "Green button which user can press to return to the previous page they were on"
+    },
+    "why_go_back": {
+        "message": "(recomendado para tu seguridad)",
+        "description": "Help text for the above button"
+    },
+    "continue": {
+        "message": "Continuar a la pagina",
+        "description": "Red button which the user can press to ignore the warning and continue to the blacklisted site"
+    },
+    "why_continue": {
+        "message": "(puede dañar su ordenador)",
+        "description": "Help text for the above button"
+    }
+}
