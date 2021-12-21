@@ -1,18 +1,11 @@
 print("[...] Initializing static generator")
 
-#from dotenv import load_dotenv
 import os
-#from deta import Deta
 import yaml
 from datetime import datetime
 from lxml import objectify, etree
 import json
 
-#load_dotenv()
-#DETA_TOKEN = os.getenv("DETA_TOKEN")
-
-#deta = Deta(DETA_TOKEN)
-#times = deta.Base("smr-timestamps")
 all_lists = os.listdir("lists")
 
 print("[ ✓ ] Initialized static generator")
@@ -25,7 +18,7 @@ for item in all_lists:
 print("[ ✓ ] Created directory structure")
 
 # ---------------------------------------------------- sites.yaml
-print("[1/7] Generating YAML")
+print("[1/8] Generating YAML")
 
 print("..... Generating master (sites.yaml) list")
 previous_dict = None
@@ -49,7 +42,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- sites.json
-print("[2/7] Generating JSON")
+print("[2/8] Generating JSON")
 
 print("..... Generating master (sites.json) list")
 with open("dist/sites.yaml", "r") as f1:
@@ -65,7 +58,7 @@ for item in all_lists:
 
       
 # ---------------------------------------------------- sites.txt
-print("[3/7] Generating TXT")
+print("[3/8] Generating TXT")
 
 def convertToTXT(contents):
     data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
@@ -80,7 +73,7 @@ def convertToTXT(contents):
 
 print("..... Generating master (sites.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/sites.txt", "w",encoding="utf-8") as f2:
+    with open("dist/sites.txt", "w", encoding="utf-8") as f2:
         f2.write(convertToTXT(f1.read()))
 
 for item in all_lists:
@@ -92,7 +85,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- hosts.txt GET TIME AND PASTE
-print("[4/7] Generating HOSTS")
+print("[4/8] Generating HOSTS")
 
 def convertToHOSTS(contents):
     data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
@@ -109,7 +102,7 @@ def convertToHOSTS(contents):
 
 print("..... Generating master (hosts.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/hosts.txt", "w",encoding="utf-8") as f2:
+    with open("dist/hosts.txt", "w", encoding="utf-8") as f2:
         f2.write(convertToHOSTS(f1.read()))
 
 for item in all_lists:
@@ -121,7 +114,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- uBlacklist
-print("[5/7] Generating UBLACKLIST")
+print("[5/8] Generating UBLACKLIST")
 
 def convertToUBLACKLIST(contents):
     data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
@@ -136,7 +129,7 @@ def convertToUBLACKLIST(contents):
         
 print("..... Generating master (ublacklist.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/ublacklist.txt", "w",encoding="utf-8") as f2:
+    with open("dist/ublacklist.txt", "w", encoding="utf-8") as f2:
         f2.write(convertToUBLACKLIST(f1.read()))
 
 for item in all_lists:
@@ -149,7 +142,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- sites.xml
-print("[6/7] Generating XML")
+print("[6/8] Generating XML")
 
 def convertToXML(contents):
     data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
@@ -170,7 +163,7 @@ def convertToXML(contents):
 
 print("..... Generating master (sites.xml) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/sites.xml", "w",encoding="utf-8") as f2:
+    with open("dist/sites.xml", "w", encoding="utf-8") as f2:
         f2.write(convertToXML(f1.read()))
 
 for item in all_lists:
@@ -182,11 +175,11 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- shields
-print("[7/7] Generating SHIELDS")
+print("[7/8] Generating SHIELDS")
 
 print("..... Generating total shield")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/stats/total.json", "w",encoding="utf-8") as f2:
+    with open("dist/stats/total.json", "w", encoding="utf-8") as f2:
         data = next(yaml.load_all(f1.read(), Loader=yaml.FullLoader))
         sites = len(data)
         total = {"schemaVersion": 1,
@@ -194,5 +187,17 @@ with open("dist/sites.yaml", "r") as f1:
                  "message": str(sites),
                  "color": "blue"}
         f2.write(json.dumps(total))
+        
+# ---------------------------------------------------- index
+print("[8/8] Generating INDEX")
+
+print("..... Generating index.html")
+with open("templates/index.html", "r") as f1:
+    with open("dist/index.html", "w", encoding="utf-8") as f2:
+        f2.write(f1.read())
+        
+print("..... Generating _redirects")
+with open("dist/_redirects", "w", encoding="utf-8") as f:
+    f.write("""/docs https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats""")
         
 print("[ ✓ ] Generated all formats")
