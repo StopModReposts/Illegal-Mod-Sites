@@ -7,6 +7,7 @@ from lxml import objectify, etree
 import json
 
 all_lists = os.listdir("lists")
+current_time = datetime.now()
 
 print("[ ✓ ] Initialized static generator")
 
@@ -90,7 +91,7 @@ print("[4/8] Generating HOSTS")
 def convertToHOSTS(contents):
     data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
     with open("templates/hosts.txt", "r") as f:
-        hosts = f.read().format(str(datetime.now()))
+        hosts = f.read().format(str(current_time))
     hosts = hosts + "\n \n"
     wwwhosts = ""
     for item in data:
@@ -194,7 +195,7 @@ print("[8/8] Generating INDEX")
 print("..... Generating index.html")
 with open("templates/index.html", "r") as f1:
     with open("dist/index.html", "w", encoding="utf-8") as f2:
-        f2.write(f1.read())
+        f2.write(f1.read().replace("{0}", str(current_time)))
         
 print("..... Generating _redirects")
 with open("dist/_redirects", "w", encoding="utf-8") as f:
