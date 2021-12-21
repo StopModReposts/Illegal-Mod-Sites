@@ -109,7 +109,7 @@ def convertToHOSTS(contents):
 
 print("..... Generating master (hosts.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/sites.txt", "w",encoding="utf-8") as f2:
+    with open("dist/hosts.txt", "w",encoding="utf-8") as f2:
         f2.write(convertToHOSTS(f1.read()))
 
 for item in all_lists:
@@ -136,7 +136,7 @@ def convertToUBLACKLIST(contents):
         
 print("..... Generating master (ublacklist.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/sites.txt", "w",encoding="utf-8") as f2:
+    with open("dist/ublacklist.txt", "w",encoding="utf-8") as f2:
         f2.write(convertToUBLACKLIST(f1.read()))
 
 for item in all_lists:
@@ -193,6 +193,6 @@ with open("dist/sites.yaml", "r") as f1:
                  "label": "sites",
                  "message": str(sites),
                  "color": "blue"}
-        f2.write(str(total))
+        f2.write(json.dumps(total))
         
 print("[ ✓ ] Generated all formats")
