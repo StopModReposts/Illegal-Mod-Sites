@@ -17,6 +17,13 @@ all_lists = os.listdir("lists")
 
 print("[ ✓ ] Initialized static generator")
 
+print("[...] Creating directory structure")
+os.mkdir("dist")
+os.mkdir("dist/stats")
+for item in all_lists:
+    os.mkdir(item.replace(".yaml", ""))
+print("[ ✓ ] Created directory structure")
+
 # ---------------------------------------------------- sites.yaml
 print("[1/7] Generating YAML")
 
@@ -35,9 +42,9 @@ with open("dist/sites.yaml", "w", encoding="utf-8") as f:
 
 for item in all_lists:
     game = item.replace(".yaml", "")
-    print(f"..... Generating {game}.yaml list")
+    print(f"..... Generating {game}/sites.yaml list")
     with open("lists/" + item, "r") as f1:
-        with open("dist/" + game + "/" + item, "w", encoding="utf-8") as f2:
+        with open("dist/" + game + "/sites.yaml", "w", encoding="utf-8") as f2:
             f2.write(f1.read())
 
 
@@ -51,9 +58,9 @@ with open("dist/sites.yaml", "r") as f1:
         
 for item in all_lists:
     game = item.replace(".yaml", "")
-    print(f"..... Generating {game}.json list")
+    print(f"..... Generating {game}/sites.json list")
     with open("lists/" + item, "r") as f1:
-        with open("dist/" + game + "/" + game + ".json", "w", encoding="utf-8") as f2:
+        with open("dist/" + game + "/sites.json", "w", encoding="utf-8") as f2:
             f2.write(json.dumps(next(yaml.load_all(f1.read(), Loader=yaml.FullLoader))))
 
       
@@ -78,46 +85,66 @@ with open("dist/sites.yaml", "r") as f1:
 
 for item in all_lists:
     game = item.replace(".yaml", "")
-    print(f"..... Generating {game}.txt list")
+    print(f"..... Generating {game}/sites.txt list")
     with open("lists/" + item, "r") as f1:
-        with open("dist/" + game + "/" + game + ".txt", "w", encoding="utf-8") as f2:
+        with open("dist/" + game + "/sites.txt", "w", encoding="utf-8") as f2:
             f2.write(convertToTXT(f1.read()))
 
 
 # ---------------------------------------------------- hosts.txt GET TIME AND PASTE
 print("[4/7] Generating HOSTS")
 
+def convertToHOSTS(contents):
+    data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
+    with open("templates/hosts.txt", "r") as f:
+        hosts = f.read().format(str(datetime.now()))
+    hosts = hosts + "\n \n"
+    wwwhosts = ""
+    for item in data:
+        if item["path"] == "/":
+            hosts = hosts  + "0.0.0.0 " + item["domain"] + "\n" 
+            wwwhosts = wwwhosts + "0.0.0.0 " + "www." + item["domain"] + "\n" 
+    hosts = hosts + wwwhosts + "\n" + "# === End of StopModReposts site list ==="
+    return hosts
+
 print("..... Generating master (hosts.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/hosts.txt", "w", encoding="utf-8") as f2:
-        data = next(yaml.load_all(f1.read(), Loader=yaml.FullLoader))
-        with open("templates/hosts.txt", "r") as f:
-            hosts = f.read().format(str(datetime.now()))
-        hosts = hosts + "\n \n"
-        wwwhosts = ""
-        for item in data:
-            if item["path"] == "/":
-                hosts = hosts  + "0.0.0.0 " + item["domain"] + "\n" 
-                wwwhosts = wwwhosts + "0.0.0.0 " + "www." + item["domain"] + "\n" 
-        hosts = hosts + wwwhosts + "\n" + "# === End of StopModReposts site list ==="
-        f2.write(hosts)
+    with open("dist/sites.txt", "w",encoding="utf-8") as f2:
+        f2.write(convertToHOSTS(f1.read()))
+
+for item in all_lists:
+    game = item.replace(".yaml", "")
+    print(f"..... Generating {game}/hosts.txt list")
+    with open("lists/" + item, "r") as f1:
+        with open("dist/" + game + "/hosts.txt", "w", encoding="utf-8") as f2:
+            f2.write(convertToHOSTS(f1.read()))
 
 
 # ---------------------------------------------------- uBlacklist
 print("[5/7] Generating UBLACKLIST")
 
+def convertToUBLACKLIST(contents):
+    data = next(yaml.load_all(contents, Loader=yaml.FullLoader))
+    blacklist = ""
+    for item in data:
+        if item["path"] != "/":
+            path = item["path"] + "/*"
+        else:
+            path = "/*"
+        blacklist = blacklist + "*://*." + item["domain"] + path + "\n"
+    return blacklist
+        
 print("..... Generating master (ublacklist.txt) list")
 with open("dist/sites.yaml", "r") as f1:
-    with open("dist/ublacklist.txt", "w", encoding="utf-8") as f2:
-        data = next(yaml.load_all(f1.read(), Loader=yaml.FullLoader))
-        blacklist = ""
-        for item in data:
-            if item["path"] != "/":
-                path = item["path"] + "/*"
-            else:
-                path = "/*"
-            blacklist = blacklist + "*://*." + item["domain"] + path + "\n"
-        f2.write(blacklist)
+    with open("dist/sites.txt", "w",encoding="utf-8") as f2:
+        f2.write(convertToUBLACKLIST(f1.read()))
+
+for item in all_lists:
+    game = item.replace(".yaml", "")
+    print(f"..... Generating {game}/ublacklist.txt list")
+    with open("lists/" + item, "r") as f1:
+        with open("dist/" + game + "/ublacklist.txt", "w", encoding="utf-8") as f2:
+            f2.write(convertToUBLACKLIST(f1.read()))
 
 
 
