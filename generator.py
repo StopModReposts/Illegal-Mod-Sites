@@ -21,7 +21,7 @@ print("[...] Creating directory structure")
 os.mkdir("dist")
 os.mkdir("dist/stats")
 for item in all_lists:
-    os.mkdir(item.replace(".yaml", ""))
+    os.mkdir("dist/" + item.replace(".yaml", ""))
 print("[ ✓ ] Created directory structure")
 
 # ---------------------------------------------------- sites.yaml
