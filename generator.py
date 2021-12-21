@@ -171,7 +171,7 @@ for item in all_lists:
     game = item.replace(".yaml", "")
     print(f"..... Generating {game}.xml list")
     with open("lists/" + item, "r") as f1:
-        with open("dist/" + game + "/" + game + ".xml", "w", encoding="utf-8") as f2:
+        with open("dist/" + game + "/sites.xml", "w", encoding="utf-8") as f2:
             f2.write(convertToXML(f1.read()))
 
 
