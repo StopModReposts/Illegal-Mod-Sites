@@ -203,9 +203,9 @@ with open("dist/sites.yaml", "r") as f1:
 print("..... Generating refreshed shield")
 with open("dist/stats/refreshed.json", "w", encoding="utf-8") as f:
     refreshed = {"schemaVersion": 1,
-             "label": "sites",
-             "message": str(current_time) + " UTC",
-             "color": "blue"}
+                 "label": "refreshed",
+                 "message": str(current_time) + " UTC",
+                 "color": "blue"}
     f.write(json.dumps(refreshed))
         
 # ---------------------------------------------------- index
