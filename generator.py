@@ -5,11 +5,15 @@ import yaml
 from datetime import datetime
 from lxml import objectify, etree
 import json
+import time
 
+start_time = time.time()
 all_lists = os.listdir("lists")
 current_time = datetime.now()
 
 print("[ ✓ ] Initialized static generator")
+
+print(f"..... Found {all_lists} ({len(all_lists)}) lists")
 
 print("[...] Creating directory structure")
 os.mkdir("dist")
@@ -19,6 +23,7 @@ for item in all_lists:
 print("[ ✓ ] Created directory structure")
 
 # ---------------------------------------------------- sites.yaml
+# Generates the YAML version of the lists
 print("[1/8] Generating YAML")
 
 print("..... Generating master (sites.yaml) list")
@@ -43,6 +48,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- sites.json
+# Generates the JSON version of the lists
 print("[2/8] Generating JSON")
 
 print("..... Generating master (sites.json) list")
@@ -59,6 +65,7 @@ for item in all_lists:
 
       
 # ---------------------------------------------------- sites.txt
+# Generates the TXT version of the lists
 print("[3/8] Generating TXT")
 
 def convertToTXT(contents):
@@ -85,7 +92,8 @@ for item in all_lists:
             f2.write(convertToTXT(f1.read()))
 
 
-# ---------------------------------------------------- hosts.txt GET TIME AND PASTE
+# ---------------------------------------------------- hosts.txt
+# Generates the Hosts version of the lists
 print("[4/8] Generating HOSTS")
 
 def convertToHOSTS(contents):
@@ -115,6 +123,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- uBlacklist
+# Generates the uBlacklist version of the lists
 print("[5/8] Generating UBLACKLIST")
 
 def convertToUBLACKLIST(contents):
@@ -143,6 +152,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- sites.xml
+# Generates the XML version of the lists
 print("[6/8] Generating XML")
 
 def convertToXML(contents):
@@ -176,6 +186,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- shields
+# Generates Shields which display stats
 print("[7/8] Generating SHIELDS")
 
 print("..... Generating total shield")
@@ -189,7 +200,16 @@ with open("dist/sites.yaml", "r") as f1:
                  "color": "blue"}
         f2.write(json.dumps(total))
         
+print("..... Generating refreshed shield")
+with open("dist/stats/refreshed.json", "w", encoding="utf-8") as f:
+    refreshed = {"schemaVersion": 1,
+             "label": "sites",
+             "message": str(current_time) + " UTC",
+             "color": "blue"}
+    f.write(json.dumps(refreshed))
+        
 # ---------------------------------------------------- index
+# Generates the main HTML frontend of the API
 print("[8/8] Generating INDEX")
 
 print("..... Generating index.html")
@@ -199,6 +219,16 @@ with open("templates/index.html", "r") as f1:
         
 print("..... Generating _redirects")
 with open("dist/_redirects", "w", encoding="utf-8") as f:
+    # More info about the _redirects file: https://developers.cloudflare.com/pages/platform/redirects
     f.write("""/docs https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats""")
-        
+    
+print("..... Generating _headers")
+with open("dist/_headers", "w", encoding="utf-8") as f:
+    # More info about the _headers file: https://developers.cloudflare.com/pages/platform/headers
+    f.write("""/*\n  Access-Control-Allow-Origin: *""")
+    
+end_time = time.time()
+elapsed_time = str(end_time - start_time)
+
 print("[ ✓ ] Generated all formats")
+print(f"..... took {elapsed_time} seconds")
