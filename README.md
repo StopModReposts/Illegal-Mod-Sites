@@ -17,3 +17,6 @@ We also allow translations to be submitted now. Please see the [translator guide
 ## API / Serialized Formats
 
 StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [API access and formats](https://github.com/VictiniX888/Illegal-Mod-Sites/wiki/API-access-and-formats) on the wiki for more information about this API.
+
+# other useful stuff that can protect you 
+besides installing the stopmodreposts extension it is also recommended to install [adblock](https://getadblock.com/en/) to prevent you from installing malicious sofware via the ads accidentally by clicking on on it
