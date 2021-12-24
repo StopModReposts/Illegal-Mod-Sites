@@ -2414,3 +2414,64 @@
     advertising: 2
     redistribution: 5
     miscellaneous: 4
+    
+-
+    domain: 'shadersmods.com'
+    advertising: 1
+    redistribution: 1
+    miscellaneous: 1
+    
+    
+-
+    domain: 'modminecraft.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 5
+    
+-
+    domain: ' 99minecraft.com'
+    advertising: 1
+    redistribution: 5
+    miscellaneous: 3
+    
+-
+    domain: 'download.komputerswiat.pl'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
+    
+ -
+    domain: 'www.minecraftyard.com'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
+    
+-
+    domain: 'mcpedl.com'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
+    
+-
+    domain: 'resourcepacks24.de'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 5
+    
+-
+    domain: 'www.mc-mod.net'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
+    
+-
+    domain: 'www.mtmods.com'
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
+    
+-
+    domain: 'minecraft11.com'
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
