@@ -16,4 +16,5 @@ Miscellaneous exacerbating circumstances. Examples of stuff taken into account a
 + outdated mod versions
 + non-existent mod versions.
 + bypassing AdFly links
++ claiming that it is a forge mod when to original mod is fabric
 
