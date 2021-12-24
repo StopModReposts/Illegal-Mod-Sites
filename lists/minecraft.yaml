@@ -2475,3 +2475,9 @@
     advertising: 3
     redistribution: 5
     miscellaneous: 3
+    
+-
+    domain: 'wminecraft.net'
+    advertising: 5
+    redistribution: 1
+    miscellaneous: 3
