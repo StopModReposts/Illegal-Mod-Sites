@@ -2477,7 +2477,21 @@
     miscellaneous: 3
     
 -
-    domain: 'wminecraft.net'
+    domain: 'wminecraft.net' 
     advertising: 5
     redistribution: 1
     miscellaneous: 3
+    
+-
+    domain: 'kingminecraftmod.com ' 
+    advertising: 5
+    redistribution: 5
+    miscellaneous: 3
+   
+ -
+    domain: 'worldofminecraft.com' 
+    advertising: 3
+    redistribution: 5
+    miscellaneous: 3
+    notes: 'A community with a form deadicated to repost mods'
+
