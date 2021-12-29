@@ -1,6 +1,0 @@
-name: Validate YAML
-uses: brittonhayes/validate-yaml
-with:
-  schemaPath: 'schema.json'
-  files: |
-    lists/*
