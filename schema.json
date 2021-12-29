@@ -1,0 +1,8 @@
+[
+    {
+        "domain": "string",
+        "notes": "string",
+        "path": "string",
+        "reason": "string"
+    }
+]
