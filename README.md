@@ -5,6 +5,7 @@ StopModReposts
 ![Refreshed](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.stopmodreposts.org%2Fstats%2Frefreshed.json)
 ![OpenCollective](https://opencollective.com/stopmodreposts/tiers/badge.svg)
 ![GitHub checks](https://badgen.net/github/checks/StopModReposts/Illegal-Mod-Sites)
+[![Validator](https://github.com/StopModReposts/Illegal-Mod-Sites/actions/workflows/validate.yml/badge.svg)](https://github.com/StopModReposts/Illegal-Mod-Sites/actions/workflows/validate.yml)
 
 > 👋 We're searching for Project Maintainers. If you're interested, send an email to help[at]stopmodreposts.org
 
