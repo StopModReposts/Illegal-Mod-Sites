@@ -1,2416 +1,1870 @@
--
-    domain: '0x10c-zone.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '10minecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '123minecraft.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '1minecraftsource.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '1ru-minecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '1st-minecraft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '24hminecraft.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '24mine.org'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '2minecraft.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '2minecraft.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: '2майнкрафтер.рф'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '3minecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '4minecraft.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
-    notes: 'Malware alert!'
--
-    domain: '4minecraft.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '5minecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '5minecraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '5minecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '6minecraft.net'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: '6minecraft.org'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: '6minecraftmods.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '7minecraft.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '8minecraft.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '8minecraft.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '9craft.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: '9lifehack.com'
-    advertising: 5
-    redistribution: 4
-    miscellaneous: 1
--
-    domain: '9minecraft.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: '9minecraftaz.blogspot.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '9minecraftmods.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '9minecrafts.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '9minecrafts.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '9minecraftscom.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: '9mobo.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'all-mod-for-minecraft.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'all-mods.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'allforminecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'allfreeapk.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'aminecraft.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'armscraft.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'atisot.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'atomcraft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'azminecraft.info'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'begin-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'bendercraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'bigminecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'blackspigot.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'bnstbns.pro'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'blockminecraft.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 1
--
-    domain: 'borealis.su'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'c-raft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'clubminecraftbr.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'comoinstalarmodsminecraft.com.br'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'cooll.pp.ua'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'crafthd.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'craftzon.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'cubixworld.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'dascraft.org'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'day2play.pl'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'deliverytodaymeta.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'descargarminecraftgratis.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'digitalgamesonlinenowone.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'dle01.sofftportall8nn.info'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
-    notes: 'Paywall'
--
-    domain: 'dlminecraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'dms.yt'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'dosakh.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'download-minecraft-mod.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'download.parcraftmc.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'downloadape.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'downloadatoz.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'downloadminecraft.altervista.org'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'downloadminecraft4free.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'downloadminecraftplay.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'duno-farm.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'eincraft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'eminecraft.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'en-minecraft.org'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'evlas.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
-    notes: 'Paywall, potential malware'
--
-    domain: 'excalibur-craft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'exe-craft.ru'
-    advertising: 1
-    redistribution: 4
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'fdminecraft.net'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'file-minecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'fileplanet.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'fileversal.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'finemine.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'filesforpc.xyz'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Many sites link to it'
--
-    domain: 'fmcpe.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'for-minecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'forminecrafters.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'fr-minecraft.net'
-    path: '/mod-minecraft-'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'free-mods.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'freedownloadminecraft.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'freeminecraftmods.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'freshminecraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'freshmod.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'full-mod.ru'
-    advertising: 4
-    redistribution: 3
-    miscellaneous: 3
-    notes: 'Paywall'
--
-    domain: 'fulllistofminecraftmods.cf'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 1
--
-    domain: 'galaxythecreative.blogspot.no'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'gamefiles.de'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'gameminecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'gamemodd.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'gamemodding.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'gamemodding.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'gameoverus.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'gamepoint.su'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'game-roblox.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'games-utilities.com'
-    advertising: 2
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'gamewise.co'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'getmod.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'gid-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
-    notes: 'Russian version of guide-minecraft.com'
--
-    domain: 'giga.de'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'gigminecraft.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'gl-mods.ru'
-    advertising: 2
-    redistribution: 4
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'godgames.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'goldmods-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'grand-mine.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 1
--
-    domain: 'greatray.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'guide-minecraft.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
-    notes: 'Englisch version of gid-minecraft.ru'
--
-    domain: 'hackphoenix.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Also distributes cracked launchers, and Mojang''s intellectual property'
--
-    domain: 'hcs.land'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'hil.su'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'hubicraft.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'imperialcraft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 1
--
-    domain: 'jojomine.com'
-    advertising: 2
-    redistribution: 4
-    miscellaneous: 3
--
-    domain: 'jtrent238-hammermod.decanterreviews.zero.lpk7.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'keepergames.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'kgamek.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'kminecraft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'lambdacore.ucoz.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'launcherfenix.com.ar'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'legacymodpack.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'legionminecraft.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'lemoncraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'lestnica44.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'letragon.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'loadminecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'loveminecraft.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'magnetobrowsers.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mc-mod.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'mc-mods.org'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'mc-pe.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'mc-vn.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mc.ahgame.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mc.twrx.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'mc164.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mcbbs.net'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 5
--
-    domain: 'mcdownloads.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mchacks.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mcmap.cc'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mcmoddatabase.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mcmodkit.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mcmods.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mcmodteam.blogspot.de'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
-    notes: 'No activity since 16th november 2014'
--
-    domain: 'mcmp.su'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'mcpatcher.net'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mcpe-minecraftmods.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'mcpebox.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'mcpefl.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mcpemods.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mcraft-info.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'mcraft-life.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'mcskill.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'megamods.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'metrominecraft.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 1
--
-    domain: 'mi-mundo-minecraft.blogspot.no'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'miinecraft.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-dl.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Many sites link to it'
--
-    domain: 'mine-craft.ws'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mine-play.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'mineblock.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft-365.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-all.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft-area.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-book.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraft-cube.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-double.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-downloads.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
-    notes: 'Malware alert!'
--
-    domain: 'minecraft-en.ucoz.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft-files.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft-flow.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraft-forum.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-game.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraft-home.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-inside.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-inside.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-installer.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-installer.de'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraft-item.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-jobs.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-mc.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft-modding.de'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraft-modi.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-mods-base.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-mods.info'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-mods.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-mods.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-mods.pro'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Launcher and mod downloads'
--
-    domain: 'minecraft-modsdownload.com'
-    advertising: 4
-    redistribution: 2
-    miscellaneous: 2
--
-    domain: 'minecraft-moscow.com'
-    advertising: 4
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'minecraft-open.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-re.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
-    notes: 'Paywall'
--
-    domain: 'minecraft-resourcepacks.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
-    notes: 'Reposts texture packs and Optifine'
--
-    domain: 'minecraft-sodeon.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraft-soul.ru'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'minecraft-tools.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft-x.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft-zet.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft.diablo1.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft.soft32.com'
-    advertising: 5
-    redistribution: 4
-    miscellaneous: 4
--
-    domain: 'minecraft.org.pl'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft11.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraft12.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'minecraft20.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraft123.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft15.my1.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraft172.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft37.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraft5.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraft70.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraft73.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftapks.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftaz.net'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'minecraftbay.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftbuildinginc.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftch.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftdata.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftdatablog.blogspot.de'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftdl.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftdls.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 4
--
-    domain: 'minecraftdownload.in'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftdownloadaz.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftdownloadmod.blogspot.no'
-    advertising: 5
-    redistribution: 4
-    miscellaneous: 5
--
-    domain: 'minecraftdrive.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecrafteando.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecrafted.su'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecrafteo.com'
-    advertising: 3
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'minecrafteon.com'
-    advertising: 1
-    redistribution: 2
-    miscellaneous: 4
--
-    domain: 'minecrafter-mod.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftes.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 1
--
-    domain: 'minecraftevi.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftexe.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Optional social paywall'
--
-    domain: 'minecraftexpert.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftfc.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftfile.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftfile.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftfive.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftforged.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Fake Forge website'
--
-    domain: 'minecraftfly.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraftfreedownloadpro.blogspot.no'
-    advertising: 2
-    redistribution: 4
-    miscellaneous: 5
--
-    domain: 'minecraftfreemods.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftgate.info'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
-    notes: 'Surveywall/paywall'
--
-    domain: 'minecraftgig.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftgood.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecrafthd.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecrafthub.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecrafthut.com'
-    advertising: 5
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'minecraftiamodpack.blogspot.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftiamods.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftian.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftinstallers.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftium.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraftjardl.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftmine.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftmodding.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmoddl.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftmodlari.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmodpacks.net'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 4
--
-    domain: 'minecraftmods.biz'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 2
--
-    domain: 'minecraftmodspc.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmods.com.br'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 1
--
-    domain: 'minecraftmods.izben.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftmods18.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftmods19.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraftmods9.blogspot.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmodsupdate.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'minecraftmod.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraftmodz.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmonster.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftmore.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftnodus.do.am'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftnow.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftom.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftonly.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftore.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftors.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftpatch.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftpe-mods.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftplanet.biz'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftplanet.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftplus.org'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftposts.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecraftpw.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftq.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftquick.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftred.com'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'minecraftresource.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minecrafts-mod.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftsemlimites.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftside.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'minecraftsix.com'
-    advertising: 5
-    redistribution: 2
-    miscellaneous: 5
--
-    domain: 'minecraftsix.es'
-    advertising: 5
-    redistribution: 2
-    miscellaneous: 5
--
-    domain: 'minecraftsone.blogspot.no'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftspace.com'
-    advertising: 3
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'minecraftspot.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftstorage.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftstores.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftsy.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecrafttexturepacks.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecrafttime.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecrafttube.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minecraftupdate.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minecraftvip.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftxl.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftxz.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minecraftyard.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'minecraftym.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'minedown.com'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 2
--
-    domain: 'minefan.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'minelife.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'mineplan.ru'
-    advertising: 5
-    redistribution: 2
-    miscellaneous: 1
--
-    domain: 'mineplanet.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'mineturk.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'minezona.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'minhvietltd.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mir-crafta.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'mirvideogames.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mizunospb.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mmods.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'mncraftmods.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mobileminecraft.com.br'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'mod-downloader.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mod-for-minecraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'mod-minecraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'mod-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'modcraft.biz'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'modcraft.su'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'moddingames.wordpress.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'modfast.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'modminecrafts.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mododrom.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
-    notes: 'Malware alert!'
--
-    domain: 'mods-for-minecraft.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'modscraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'modscraft.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'modsfire.download'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'modsforminecraft.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'modsgate.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'modsline.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Also reposts resource packs and data packs'
--
-    domain: 'modsmc.com'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'mods-minecraft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'modsminecraft.com'
-    advertising: 2
-    redistribution: 1
-    miscellaneous: 5
--
-    domain: 'modsminecraft.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'modsx.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mody4mine.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'mosminecraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'mybestgamesfilesone.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'myfreemediacloudone.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mymediadownloadsthirtytwo.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'mymediasearchnowthree.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'network.vgchartz.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'newfastmediasearcherfive.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'nextminecraft.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'niceminecraft.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'niinecrraftik.jeclo.pp.ua'
-    advertising: 5
-    redistribution: 3
-    miscellaneous: 5
-    notes: 'Paywall'
--
-    domain: 'o-crafte.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'o-minecraft.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'ofminecraft.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'ogmcdownload.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'old-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'ominecraft.net'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'oneland.su'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'onlinecheats.ru'
-    advertising: 1
-    redistribution: 4
-    miscellaneous: 2
--
-    domain: 'onlinegamesfilesone.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'onlineplayminecraft.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'only-minecraft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'onlycraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'onminecraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'optifined.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'oo-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'osdarlings.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'packs548.rssing.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'pandoriacraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'pcminecraft-mods.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'pd19.org'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'pentacraft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'pimpminecraft.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'pixelmon.pro'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'planet-m.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'planet-mc.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'planet-minecraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'planetaminecraft.com'
-    advertising: 5
-    redistribution: 4
-    miscellaneous: 3
--
-    domain: 'planetlemoncraft.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'planetmods.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'playways.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'proud-portal.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'q-craft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'qoobworld.ru'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'realmine.net'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'reddit.com'
-    path: '/r/modpiracy2'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Subreddit dedicated to redistributing mods'
--
-    domain: 'redserver.su'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 1
--
-    domain: 'resource-pack.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'resourcepack.info'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
-    notes: 'Mostly redistributes resource packs, but also mods'
--
-    domain: 'resourcepacks.download'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'revozin.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'rinoyundaapk.blogspot.no'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'rockybytes.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'ru-m.org'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'ru-minecraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'ru-minecrafty.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'rus-minecraft.com'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'secure.downloadfp.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'setcraft.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'shadersmod.net'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'shadersmod.download'
-    advertising: 1
-    redistribution: 1
-    miscellaneous: 5
-    notes: 'Download links dont work'
--
-    domain: 'sharemods.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'simpleminecraft.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'simplesminecraft.blogspot.com.br'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'simplesminecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'skachat-mody-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'skins-minecraft.net'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'sky-mine.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'skydaz.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'skyworxz.com'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'soft32.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'softonic.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'somecraf.net'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'space-games.ucoz.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'squareland.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 3
--
-    domain: 'stoninho.blogspot.com.br'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'stop-nalogi.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'streamcraft.net'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'sumycraft.ru'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'svida.org'
-    advertising: 3
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'terrariaw.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'the-minecraft.fr'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 2
-    notes: 'Mod rehosts, but also texture packs and maps'
--
-    domain: 'tlauncher.org'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'todocraft.net'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'topminecraftmods.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'ultimateminecraftlj.weebly.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'uminecraft.at.ua'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'upload-minecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'utk.io'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'vam-polezno.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'vencko.net'
-    advertising: 5
-    redistribution: 1
-    miscellaneous: 3
--
-    domain: 'victorycraft.ru'
-    advertising: 3
-    redistribution: 3
-    miscellaneous: 4
--
-    domain: 'vimeworld.ru'
-    advertising: 1
-    redistribution: 3
-    miscellaneous: 2
--
-    domain: 'vminecraft.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'vminecrafte.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'vodafoneuksignal.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'wc3-maps.ru'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'wdsj2.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 1
--
-    domain: 'wemine.ru'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'wikiminecraft.com'
-    advertising: 2
-    redistribution: 3
-    miscellaneous: 1
--
-    domain: 'wizardhax.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Likely malware, also distributes hacked clients.'
--
-    domain: 'world-minecraft.pp.ua'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'worldofmods.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'wpminecraft.blogspot.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'xn--18-6kca8bglk2avv.xn--p1ai'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'xn--2-8sbausglk2acux.xn--p1ai'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'xn--80aaycfjjdyvv.xn--p1ai'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'yaminecraft.ru'
-    advertising: 4
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'yourfreegamesnow.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'yourgamesdownloadsone.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
-    notes: 'Malware alert!'
--
-    domain: 'yourminecraft.com'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'zerocraft.ru'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'zinchat.com'
-    advertising: 3
-    redistribution: 4
-    miscellaneous: 1
--
-    domain: 'zip-mc.com'
-    advertising: 5
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'zonacraft.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 4
--
-    domain: 'майнкрафт18.рф'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'майнкрафтин.рф'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 4
+- domain: 0x10c-zone.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 10minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 123minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 1minecraftsource.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 1ru-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 1st-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 24hminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 24mine.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 2minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 2minecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: "2\u043C\u0430\u0439\u043D\u043A\u0440\u0430\u0444\u0442\u0435\u0440.\u0440\
+    \u0444"
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 3minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 4minecraft.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: 4minecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 5minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 5minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 5minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 6minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 6minecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 6minecraftmods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 7minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 8minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 8minecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9craft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9lifehack.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecraftaz.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecraftmods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecrafts.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecrafts.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9minecraftscom.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9mobo.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: all-mod-for-minecraft.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: all-mods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: allforminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: allfreeapk.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: aminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: armscraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: atisot.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: atomcraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: azminecraft.info
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: begin-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: bendercraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: bigminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: blackspigot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: bnstbns.pro
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: blockminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: borealis.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: c-raft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: clubminecraftbr.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: comoinstalarmodsminecraft.com.br
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: cooll.pp.ua
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: crafthd.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: craftzon.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: cubixworld.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: dascraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: day2play.pl
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: deliverytodaymeta.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: descargarminecraftgratis.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: digitalgamesonlinenowone.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: dle01.sofftportall8nn.info
+  notes: Paywall
+  path: /
+  reason: Illegal redistribution
+- domain: dlminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: dms.yt
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: dosakh.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: download-minecraft-mod.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: download.parcraftmc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: downloadape.org
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: downloadatoz.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: downloadminecraft.altervista.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: downloadminecraft4free.blogspot.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: downloadminecraftplay.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: duno-farm.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: eincraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: eminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: en-minecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: evlas.ru
+  notes: Paywall, potential malware
+  path: /
+  reason: Illegal redistribution
+- domain: excalibur-craft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: exe-craft.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: fdminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: file-minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: fileplanet.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: fileversal.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: finemine.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: filesforpc.xyz
+  notes: Many sites link to it
+  path: /
+  reason: Illegal redistribution
+- domain: fmcpe.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: for-minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: forminecrafters.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: fr-minecraft.net
+  notes: /
+  path: /mod-minecraft-
+  reason: Illegal redistribution
+- domain: free-mods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: freedownloadminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: freeminecraftmods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: freshminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: freshmod.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: full-mod.ru
+  notes: Paywall
+  path: /
+  reason: Illegal redistribution
+- domain: fulllistofminecraftmods.cf
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: galaxythecreative.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gamefiles.de
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gameminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gamemodd.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gamemodding.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: gamemodding.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gameoverus.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gamepoint.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: game-roblox.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: games-utilities.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gamewise.co
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: getmod.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gid-minecraft.ru
+  notes: Russian version of guide-minecraft.com
+  path: /
+  reason: Illegal redistribution
+- domain: giga.de
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: gigminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: gl-mods.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: godgames.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: goldmods-minecraft.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: grand-mine.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: greatray.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: guide-minecraft.com
+  notes: Englisch version of gid-minecraft.ru
+  path: /
+  reason: Illegal redistribution
+- domain: hackphoenix.com
+  notes: Also distributes cracked launchers, and Mojang's intellectual property
+  path: /
+  reason: Illegal redistribution
+- domain: hcs.land
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: hil.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: hubicraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: imperialcraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: jojomine.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: jtrent238-hammermod.decanterreviews.zero.lpk7.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: keepergames.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: kgamek.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: kminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: lambdacore.ucoz.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: launcherfenix.com.ar
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: legacymodpack.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: legionminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: lemoncraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: lestnica44.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: letragon.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: loadminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: loveminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: magnetobrowsers.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mc-mod.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc-mods.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc-pe.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc-vn.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc.ahgame.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc.twrx.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc164.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcbbs.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcdownloads.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mchacks.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mcmap.cc
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcmoddatabase.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mcmodkit.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcmods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcmodteam.blogspot.de
+  notes: No activity since 16th november 2014
+  path: /
+  reason: Illegal redistribution
+- domain: mcmp.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpatcher.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mcpe-minecraftmods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpebox.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpefl.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpemods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcraft-info.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcraft-life.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcskill.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: megamods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: metrominecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mi-mundo-minecraft.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: miinecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-dl.com
+  notes: Many sites link to it
+  path: /
+  reason: Illegal redistribution
+- domain: mine-craft.ws
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mine-play.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mineblock.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-365.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-all.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-area.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-book.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-cube.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-double.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-downloads.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-en.ucoz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-files.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-flow.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-forum.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-game.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-home.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-inside.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-inside.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-installer.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-installer.de
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-item.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-jobs.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mc.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-modding.de
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-modi.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mods-base.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mods.info
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mods.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-mods.pro
+  notes: Launcher and mod downloads
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-modsdownload.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-moscow.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-open.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-re.ru
+  notes: Paywall
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-resourcepacks.com
+  notes: Reposts texture packs and Optifine
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-sodeon.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-soul.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-tools.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-x.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-zet.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft.diablo1.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft.soft32.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft.org.pl
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft11.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft12.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft20.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft123.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft15.my1.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft172.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft37.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft5.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft70.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft73.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftapks.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftaz.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftbay.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftbuildinginc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftch.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdata.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdatablog.blogspot.de
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdl.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdls.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdownload.in
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdownloadaz.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdownloadmod.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftdrive.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafteando.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafted.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafteo.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafteon.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafter-mod.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftes.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftevi.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftexe.com
+  notes: Optional social paywall
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftexpert.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfile.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfile.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfive.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftforged.com
+  notes: Fake Forge website
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfly.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfreedownloadpro.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftfreemods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftgate.info
+  notes: Surveywall/paywall
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftgig.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftgood.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafthd.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafthub.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafthut.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftiamodpack.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftiamods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftian.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftinstallers.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftium.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftjardl.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmine.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodding.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmoddl.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodlari.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodpacks.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods.biz
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodspc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods.com.br
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods.izben.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods18.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods19.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmods9.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodsupdate.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmod.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmonster.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmore.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftnodus.do.am
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftnow.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftom.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftonly.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftore.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftors.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftpatch.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftpe-mods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftplanet.biz
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftplanet.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftplus.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftposts.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftpw.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftq.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftquick.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftred.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftresource.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafts-mod.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftsemlimites.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftside.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftsix.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftsix.es
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftsone.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftspace.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftspot.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftstorage.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftstores.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftsy.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafttexturepacks.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafttime.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecrafttube.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftupdate.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftvip.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftxl.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftxz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftyard.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftym.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minedown.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minefan.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: minelife.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mineplan.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mineplanet.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mineturk.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minezona.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minhvietltd.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mir-crafta.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mirvideogames.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mizunospb.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mmods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mncraftmods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mobileminecraft.com.br
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mod-downloader.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mod-for-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mod-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mod-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modcraft.biz
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modcraft.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: moddingames.wordpress.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modfast.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modminecrafts.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mododrom.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mods-for-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modscraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modscraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsfire.download
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: modsforminecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsgate.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsline.com
+  notes: Also reposts resource packs and data packs
+  path: /
+  reason: Illegal redistribution
+- domain: modsmc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mods-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsminecraft.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modsx.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mody4mine.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mosminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mybestgamesfilesone.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: myfreemediacloudone.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mymediadownloadsthirtytwo.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: mymediasearchnowthree.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: network.vgchartz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: newfastmediasearcherfive.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: nextminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: niceminecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: niinecrraftik.jeclo.pp.ua
+  notes: Paywall
+  path: /
+  reason: Illegal redistribution
+- domain: o-crafte.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: o-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: ofminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: ogmcdownload.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: old-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: ominecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: oneland.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: onlinecheats.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: onlinegamesfilesone.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: onlineplayminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: only-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: onlycraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: onminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: optifined.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: oo-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: osdarlings.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: packs548.rssing.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pandoriacraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pcminecraft-mods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pd19.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pentacraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pimpminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pixelmon.pro
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planet-m.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planet-mc.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planet-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planetaminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planetlemoncraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: planetmods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: playways.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: proud-portal.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: q-craft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: qoobworld.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: realmine.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: reddit.com
+  notes: Subreddit dedicated to redistributing mods
+  path: /r/modpiracy2
+  reason: Illegal redistribution
+- domain: redserver.su
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: resource-pack.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: resourcepack.info
+  notes: Mostly redistributes resource packs, but also mods
+  path: /
+  reason: Illegal redistribution
+- domain: resourcepacks.download
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: revozin.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: rinoyundaapk.blogspot.no
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: rockybytes.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: ru-m.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: ru-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: ru-minecrafty.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: rus-minecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: secure.downloadfp.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: setcraft.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: shadersmod.net
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: shadersmod.download
+  notes: Download links dont work
+  path: /
+  reason: Illegal redistribution
+- domain: sharemods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: simpleminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: simplesminecraft.blogspot.com.br
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: simplesminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: skachat-mody-minecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: skins-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: sky-mine.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: skydaz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: skyworxz.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: soft32.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: softonic.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: somecraf.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: space-games.ucoz.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: squareland.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stoninho.blogspot.com.br
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stop-nalogi.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: streamcraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: sumycraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: svida.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: terrariaw.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: the-minecraft.fr
+  notes: Mod rehosts, but also texture packs and maps
+  path: /
+  reason: Illegal redistribution
+- domain: tlauncher.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: todocraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: topminecraftmods.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: ultimateminecraftlj.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: uminecraft.at.ua
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: upload-minecraft.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: utk.io
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vam-polezno.ru
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: vencko.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: victorycraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vimeworld.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vminecrafte.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vodafoneuksignal.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wc3-maps.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wdsj2.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wemine.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wikiminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wizardhax.com
+  notes: Likely malware, also distributes hacked clients.
+  path: /
+  reason: Illegal redistribution
+- domain: world-minecraft.pp.ua
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: worldofmods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: wpminecraft.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: xn--18-6kca8bglk2avv.xn--p1ai
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: xn--2-8sbausglk2acux.xn--p1ai
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: xn--80aaycfjjdyvv.xn--p1ai
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: yaminecraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: yourfreegamesnow.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: yourgamesdownloadsone.com
+  notes: Malware alert!
+  path: /
+  reason: Illegal redistribution
+- domain: yourminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: zerocraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: zinchat.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: zip-mc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: zonacraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: "\u043C\u0430\u0439\u043D\u043A\u0440\u0430\u0444\u044218.\u0440\u0444"
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: "\u043C\u0430\u0439\u043D\u043A\u0440\u0430\u0444\u0442\u0438\u043D.\u0440\
+    \u0444"
+  notes: /
+  path: /
+  reason: Illegal redistribution

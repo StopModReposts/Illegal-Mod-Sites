@@ -1,0 +1,3 @@
+python-dotenv
+pyyaml
+lxml

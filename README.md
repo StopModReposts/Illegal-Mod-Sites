@@ -1,7 +1,8 @@
 StopModReposts
 ==============
-![Total](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmr-api.vercel.app%2Fshields%2Ftotal)
-![Refreshed](https://img.shields.io/endpoint?url=https%3A%2F%2Fsmr-api.vercel.app%2Fshields%2Frefreshed)
+
+![Total](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.stopmodreposts.org%2Fstats%2Ftotal.json)
+![Refreshed](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.stopmodreposts.org%2Fstats%2Frefreshed.json)
 ![OpenCollective](https://opencollective.com/stopmodreposts/tiers/badge.svg)
 
 > 👋 We're searching for Project Maintainers. If you're interested, send an email to help[at]stopmodreposts.org

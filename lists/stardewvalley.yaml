@@ -1,25 +1,20 @@
--
-    domain: 'modsfile.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 5
--
-    domain: 'stardew-valley.org'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 2
--
-    domain: 'stardewvalleymod.com'
-    advertising: 2
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'stardewvalleymods.com'
-    advertising: 1
-    redistribution: 5
-    miscellaneous: 3
--
-    domain: 'stardewvalleymods.net'
-    advertising: 3
-    redistribution: 5
-    miscellaneous: 3
+- domain: modsfile.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stardew-valley.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stardewvalleymod.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stardewvalleymods.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: stardewvalleymods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
