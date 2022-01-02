@@ -1951,15 +1951,15 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraftdungeonsmod.com
-  notes: /
+  notes: Fake mod site
   path: /
   reason: Illegal redistribution
 - domain: minecraftforfreenow.net
   notes: /
   path: /
-  reason: Illegal redistribution
+  reason: Piracy
 - domain: download.komputerswiat.pl
-  notes: /
+  notes: Malware alert!
   path: /
   reason: Illegal redistribution
 - domain: 99minecraft.com
@@ -2006,19 +2006,19 @@
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: Minecraft Mod DL Blogspot [WEBSITE]
+- domain: minecraftmoddl.blogspot.com
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: New site to add - by TGS-432098320161439755
+- domain: modsofminecraft.com
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: New site to add - by TGS-432098320161439755
+- domain: mod4minecraft.com
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: New site to add - by Keither-679683435043881076
+- domain: minecraft-france.net
   notes: /
   path: /
   reason: Illegal redistribution
