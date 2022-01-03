@@ -212,7 +212,7 @@
   reason: Illegal redistribution
 - domain: chip.de
   notes: /
-  path: /
+  path: /downloads
   reason: Illegal redistribution
 - domain: clubminecraftbr.blogspot.com
   notes: /
@@ -1063,9 +1063,9 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraftforfreenow.net
-  notes: /
+  notes: Distributes Minecraft applet illegally
   path: /
-  reason: Piracy
+  reason: Illegal redistribution
 - domain: minecraftforged.com
   notes: Fake Forge website
   path: /
@@ -1763,10 +1763,6 @@
   path: /
   reason: Illegal redistribution
 - domain: rus-minecraft.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: schaken-mods.com
   notes: /
   path: /
   reason: Illegal redistribution
