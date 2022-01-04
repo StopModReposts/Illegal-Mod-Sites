@@ -11,7 +11,7 @@ StopModReposts
 
 StopModReposts is a movement against illegal redistribution of Minecraft content, mainly focused on mods. The movement consists of a [website](http://stopmodreposts.org/), a [Twitter campaign](https://twitter.com/search?q=%23StopModReposts&src=savs), a [list of illegal mod mirrors](http://git.io/jaBI), and a [browser plugin](https://stopmodreposts.org/dl/extension.html). We also have a [Discord server](https://discord.gg/zg4tt2M) and a [Twitter profile](https://twitter.com/StopModReposts).
 
-### how to submit a site
+## Submitting a site
 To report a site that might be illegally redistributing mods, please open an issue in our [issue tracker](http://git.io/jaB7) or submit a pull request. We do currently target reposts of the following content types: mods, resource packs, maps, and modpacks. In addition, we target websites providing malicious Minecraft content but before you submit an issue your submission might allready be on our list so please check that it is not already on that list join our  \[Discord server](https://discord.gg/zg4tt2M) and go on #submit-site channel and use the /check then the url of the modrepost website.
 
 ![](https://i.imgur.com/4t1E8YW.png)
