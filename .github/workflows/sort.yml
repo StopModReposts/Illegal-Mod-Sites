@@ -1,0 +1,25 @@
+name: Go
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Download List-Utils
+        run: |
+        wget https://github.com/StopModReposts/List-Utils/releases/latest/download/smr-list-utils.elf -O smr-list-utils
+        chmod +x smr-list-utils
+
+      - name: Sort
+        run: |
+        for f in ./lists/*.yaml; do
+          ./smr-list-utils sort "$f"
+        done
+      
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: 'lists'
