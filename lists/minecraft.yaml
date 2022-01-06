@@ -1454,6 +1454,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: modminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: modminecrafts.com
   notes: /
   path: /
@@ -1734,6 +1738,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: resourcepacks24.de
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: revozin.com
   notes: /
   path: /
@@ -1954,6 +1962,10 @@
   notes: Malware alert!
   path: /
   reason: Illegal redistribution
+- domain: worldofminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: worldofmods.com
   notes: /
   path: /
@@ -2014,15 +2026,3 @@
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: resourcepacks24.de
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: modminecraft.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: worldofminecraft.com
-  notes: /
-  path: /
-  reason: Illegal redistribution 
