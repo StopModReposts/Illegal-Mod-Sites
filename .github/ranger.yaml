@@ -1,0 +1,15 @@
+# in .github/ranger.yaml
+labels:
+  'rejected':
+    action: close
+    # You can specify times in human readable form
+    # using seconds, minutes, hours, days, weeks and years
+    delay: 5 minutes
+    comment: "Your request was denied and the domain was not added to our list. Please do not open a new issue with the same domain again. If you think this was an error, comment below and a project maintainer will review the request again. Closing in $DELAY..."
+  'accepted':
+    action: close
+    delay: 30 seconds
+    comment: "Your request was accepted and the domain was added to our list. Thanks for your report ❤️ Closing in $DELAY..."
+  'addition':
+    action: comment
+    comment: "A project maintainer will review your request shortly. Thanks for your report ❤️"
