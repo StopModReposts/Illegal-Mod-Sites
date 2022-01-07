@@ -1,3 +1,15 @@
+- domain: minecraftmodapk.com
+  notes: Redistributes illegal Minecraft APK downloads
+  path: /
+  reason: Illegal redistribution
+- domain: mcpe-game.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpefun.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: 0x10c-zone.ru
   notes: /
   path: /
