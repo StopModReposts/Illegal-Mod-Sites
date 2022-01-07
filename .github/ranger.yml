@@ -5,10 +5,10 @@ labels:
     # You can specify times in human readable form
     # using seconds, minutes, hours, days, weeks and years
     delay: 0s
-    comment: "Your request was denied and the domain was not added to our list. Please do not open a new issue with the same domain again. If you think this was an error, comment below and a project maintainer will review the request again."
+    comment: "Your request was denied and the domain was not added to / removed from our list. Please do not open a new issue with the same domain again. If you think this was an error, comment below and a project maintainer will review the request again."
   accepted:
     action: close
     delay: 0s
-    comment: "Your request was accepted and the domain was added to our list. Thanks for your report ❤️"
+    comment: "Your request was accepted and the domain was added to / removed from our list. Thanks for your report ❤️"
   duplicate: close
   
