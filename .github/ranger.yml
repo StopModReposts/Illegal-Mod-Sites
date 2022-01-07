@@ -10,7 +10,5 @@ labels:
     action: close
     delay: 0s
     comment: "Your request was accepted and the domain was added to our list. Thanks for your report ❤️"
-  addition:
-    action: comment
-    delay: 0s
-    message: "A project maintainer will review your request shortly. Thanks for your report ❤️"
+  duplicate: close
+  
