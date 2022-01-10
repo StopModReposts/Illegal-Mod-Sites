@@ -38,13 +38,6 @@ If the behavior is threatening or harassing, or for other reasons requires immed
 
 However, for the vast majority of issues, we aim to empower individuals to first resolve conflicts themselves, asking for help when needed, and only after that fails to escalate further. This approach gives people more control over the outcome of their dispute.
 
-If you are experiencing or witnessing conflict, we ask you to use the following escalation strategy to address the conflict:
-
-Address the perceived conflict directly with those involved, preferably in a real-time medium.
-If this fails, get a third party (e.g. a mutual friend, and/or someone with background on the issue, but not involved in the conflict) to intercede.
-If you are still unable to resolve the conflict, and you believe it rises to harassment or another code of conduct violation, report it.
-Reporting Violations
-Violations of the Code of Conduct can be reported to TensorFlow’s Project Stewards, Thea Lamkin (thealamkin@google.com) and Joana Carrasqueira (joanafilipa@google.com). The Project Steward will determine whether the Code of Conduct was violated, and will issue an appropriate sanction, possibly including a written warning or expulsion from the project, project sponsored spaces, or project forums. We ask that you make a good-faith effort to resolve your conflict via the conflict resolution policy before submitting a report.
 
 Violations of the Code of Conduct can occur in any setting, even those unrelated to the project. We will only consider complaints about conduct that has occurred within one year of the report.
 
