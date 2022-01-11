@@ -15,5 +15,11 @@ labels:
       Your request was accepted and the domain will be added to / removed from our list. 
       
       Thanks for your report ❤️
-  duplicate: close
+  duplicate: 
+    action: close
+    delay: 0s
+    comment: |
+      Your request was denied since the domain was already added or denied before. **Please do not open a new issue with the same domain again.** 
+      
+      >ℹ️ If you think this was an error, comment below and a project maintainer will review the request again.
   
