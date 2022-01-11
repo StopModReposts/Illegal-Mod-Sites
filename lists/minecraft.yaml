@@ -2038,3 +2038,19 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: optifine.info
+  notes: Fake Optifine website
+  path: /
+  reason: Illegal redistribution
+- domain: mc-mod.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpe-planet.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: 9valheim.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
