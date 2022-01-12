@@ -142,6 +142,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: 9valheim.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: all-mod-for-minecraft.blogspot.com
   notes: /
   path: /
@@ -594,6 +598,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: mc-mod.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: mc-mod.net
   notes: /
   path: /
@@ -671,6 +679,10 @@
   path: /
   reason: Illegal redistribution
 - domain: mcpe-minecraftmods.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpe-planet.com
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1642,6 +1654,10 @@
   notes: Fake Optifine website
   path: /
   reason: Illegal redistribution
+- domain: optifine.info
+  notes: Fake Optifine website
+  path: /
+  reason: Illegal redistribution
 - domain: optifine.vip
   notes: Fake Optifine website
   path: /
@@ -2035,22 +2051,6 @@
   path: /
   reason: Illegal redistribution
 - domain: майнкрафтин.рф
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: optifine.info
-  notes: Fake Optifine website
-  path: /
-  reason: Illegal redistribution
-- domain: mc-mod.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: mcpe-planet.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: 9valheim.net
   notes: /
   path: /
   reason: Illegal redistribution
