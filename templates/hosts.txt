@@ -6,7 +6,7 @@
 # version of this file may at any time be downloaded from the following URL:
 #
 # https://api.stopmodreposts.org/hosts.txt
-# (optionally add ?game=yourgame at the end to only show the file for one game)
+# (optionally use /game/hosts.txt to only show the file for one game)
 #
 # Please see the StopModReposts GitHub wiki for more information about this
 # file and other serialized data formats supplied by this API:
