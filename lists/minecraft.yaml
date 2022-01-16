@@ -2061,12 +2061,16 @@
 - domain: optifine.es
   notes: /
   path: /
-  reason: Illegal redistribution
+  reason: Illegal redistribution 
 - domain: mcpeaddons.com
   notes: /
   path: /
   reason: Illegal redistribution
 - domain: mc-addons.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcbedrock.com
   notes: /
   path: /
   reason: Illegal redistribution
