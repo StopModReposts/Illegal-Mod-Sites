@@ -2054,3 +2054,35 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: optifine.online
+  notes: Fake Optifine website
+  path: /
+  reason: Illegal redistribution
+- domain: optifine.es
+  notes: Fake Optifine website
+  path: /
+  reason: Illegal redistribution 
+- domain: mcpeaddons.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc-addons.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcbedrock.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-pocket.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: monster-mcpe.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: modov-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
