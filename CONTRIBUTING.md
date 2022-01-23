@@ -1,6 +1,6 @@
 # Contributing to StopModReposts
 
-A big welcome and thank you for considering contributing to StopModReposts open source project! It’s people like you that make it a reality for users in our community.
+A big welcome and thank you for considering contributing to the StopModReposts open source project! It’s people like you that make it a reality for users in our community.
 
 When contributing you must agree to the following terms terms:
 By contributing, you grant us full permission to use your work in any way, including, but not limited to: redistribution, relicensing, modifying, etc.
