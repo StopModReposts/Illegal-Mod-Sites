@@ -1,5 +1,3 @@
-# StopModReposts Pull request
-
 ## Description
 
 - Please include a summary of the change and which issue is fixed.
@@ -29,4 +27,3 @@ Please delete options that are not relevant.
 - [ ] My changes generate no new warnings
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] I have checked my code and corrected any misspellings
-
