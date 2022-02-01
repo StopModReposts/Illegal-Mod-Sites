@@ -2092,12 +2092,19 @@
 - domain: filehippo.com
   notes: /
   path: /
+  reason: Illegal redistribution
 - domain: crystal-launcher.net
   notes: /
   path: /
+  reason: Illegal redistribution
 - domain: launchershiginima.com
   notes: /
   path: /
 - domain: salwyrr.com
   notes: /
   path: /
+  reason: Illegal redistribution
+- domain: tlauncherminecraft.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
