@@ -2108,3 +2108,6 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: mcmodspc.com
+  notes: redistributes Optifine,Forge and Fabric Modloader but the mods itself links backs to original download
+  path: /
