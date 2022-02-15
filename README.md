@@ -23,7 +23,9 @@ The StopModReposts movement is a movement against illegal redistribution of Mine
 ## Submitting a site
 To report a site which is illegally redistributing mods, please open an issue in our [issue tracker](http://git.io/jaB7), submit a pull request or join our [Discord sever](https://discord.gg/zg4tt2M) and use the `/submit` command in the `#submit-site` channel also when submitting a site make sure it is not already on our [list](https://stopmodreposts.org/sites) and a "repost site" that links backs to the original download page does not count as a repost site. We are currently targeting reposting of the following content types: mods, resource packs, maps, and modpacks. In addition, we target websites providing malicious Minecraft content.
 
-this project has code of conduct so please read our [code of conduct](https://github.com/StopModReposts/Illegal-Mod-Sites/blob/master/CODE_OF_CONDUCT.md)
+
+### CODE OF CONDUCT
+this project has code of conduct so please read our [CODE_OF_CONDUCT](https://github.com/StopModReposts/Illegal-Mod-Sites/blob/master/CODE_OF_CONDUCT.md)
 
 
 ## Submitting Translations
