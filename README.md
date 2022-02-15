@@ -25,7 +25,7 @@ To report a site which is illegally redistributing mods, please open an issue in
 
 
 ### CODE OF CONDUCT
-this project has code of conduct so please read our [CODE_OF_CONDUCT](https://github.com/StopModReposts/Illegal-Mod-Sites/blob/master/CODE_OF_CONDUCT.md) we take it very seriously
+this project has code of conduct so please read our [CODE_OF_CONDUCT](https://github.com/StopModReposts/Illegal-Mod-Sites/blob/master/CODE_OF_CONDUCT.md) and we take it very seriously
 
 
 ## Submitting Translations
