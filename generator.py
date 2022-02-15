@@ -59,6 +59,7 @@ with open("dist/sites.yaml", "r") as f1:
         f2.write(json.dumps(next(yaml.load_all(f1.read(), Loader=yaml.FullLoader))))
         
 for item in all_lists:
+    # replace the .yaml to .json
     game = item.replace(".yaml", "")
     print(f"..... Generating {game}/sites.json list")
     with open("lists/" + item, "r") as f1:
@@ -82,6 +83,7 @@ def convertToTXT(contents):
     return txt
 
 print("..... Generating master (sites.txt) list")
+# replace the .yaml to .txt
 with open("dist/sites.yaml", "r") as f1:
     with open("dist/sites.txt", "w", encoding="utf-8") as f2:
         f2.write(convertToTXT(f1.read()))
@@ -117,6 +119,7 @@ with open("dist/sites.yaml", "r") as f1:
         f2.write(convertToHOSTS(f1.read()))
 
 for item in all_lists:
+    # replace the .yaml to host.txt
     game = item.replace(".yaml", "")
     print(f"..... Generating {game}/hosts.txt list")
     with open("lists/" + item, "r") as f1:
@@ -162,6 +165,7 @@ def convertToXML(contents):
     sites = objectify.Element("sites", nsmap='', _pytype='')
 
     for item in data:
+        # generates  the tags <domain> <notes> <path> <reason> tags
         site = objectify.Element("site", nsmap='', _pytype='')
         site.domain = item["domain"]
         site.notes = item["notes"]
@@ -175,6 +179,7 @@ def convertToXML(contents):
     return str(etree.tostring(sites, pretty_print=True, xml_declaration=True, with_tail=False), "utf-8")
 
 print("..... Generating master (sites.xml) list")
+# replace the .yaml to .xml
 with open("dist/sites.yaml", "r") as f1:
     with open("dist/sites.xml", "w", encoding="utf-8") as f2:
         f2.write(convertToXML(f1.read()))
