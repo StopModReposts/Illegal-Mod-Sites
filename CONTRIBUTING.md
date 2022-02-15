@@ -8,6 +8,11 @@ By contributing, you grant us full permission to use your work in any way, inclu
 
 ##  Quick start
 We  accept issues that are New website request, bug reports, or feature requests.
+- [new website](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=addition&template=submit-a-site.md&title=New+site+to+add%3A+%5BWEBSITE%5D)
+- [Site removal](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=removal&template=remove-a-site.md&title=Site+removal%3A+%5BWEBSITE%5D)
+- [Bug report](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
+- [Feture request](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=)
+- [Lanuage request](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=translation&template=request-a-language.md&title=Add+translation+language%3A+%5BLANGUAGE%5D)
 
 
 # Key branches 
