@@ -1,3 +1,7 @@
+
+<img src="https://i.imgur.com/m6A4RYm.png" alt="The stopmodrepost Logo" width="200" height="165">
+<br>
+<br>
 The StopModReposts Movement
 ==============
 
