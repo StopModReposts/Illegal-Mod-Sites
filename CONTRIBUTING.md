@@ -12,7 +12,7 @@ We  accept issues that are New website request, bug reports, or feature requests
 
 # Key branches 
 
-The [master](https://github.com/StopModReposts/Illegal-Mod-Sites/tree/master) brantch is the lastest recommended  version
+The [master](https://github.com/StopModReposts/Illegal-Mod-Sites/tree/master) brantch is the lastest recommended  version of thh brantch
 
 
 
