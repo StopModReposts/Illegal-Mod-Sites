@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://stopmodreposts.com/">
 <img src="https://i.imgur.com/m6A4RYm.png" alt="The stopmodrepost Logo" >
   </a>
+  </p>
 <br>
 <br>
 <br>
