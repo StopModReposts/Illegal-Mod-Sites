@@ -1,9 +1,10 @@
 
-<img src="https://i.imgur.com/m6A4RYm.png" alt="The stopmodrepost Logo" width="200" height="165">
+<img src="https://i.imgur.com/m6A4RYm.png" alt="The stopmodrepost Logo" >
 <br>
 <br>
-The StopModReposts Movement
-==============
+<br>
+# The StopModReposts Movement
+
 
 ![Total](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.stopmodreposts.org%2Fstats%2Ftotal.json)
 ![Refreshed](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.stopmodreposts.org%2Fstats%2Frefreshed.json)
