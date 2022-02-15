@@ -21,7 +21,7 @@ We  accept issues that are New website request, bug reports,  feature requests o
 The [master](https://github.com/StopModReposts/Illegal-Mod-Sites/tree/master) brantch is the lastest recommended  version of thh brantch
 
 ### making reports on the pull request
-All reports made on the issue tracker or pull request can be reported [here](https://github.com/StopModReposts/Illegal-Mod-Sites/pull) and please make sure to follow [githubs pull request guideline](https://docs.github.com/en/github/site-policy/github-community-guidelines)
+All reports made on the issue tracker or pull request can be reported [here](https://github.com/StopModReposts/Illegal-Mod-Sites/pulls) and before making a Pull request please make sure that you follow [githubs pull request guideline](https://docs.github.com/en/github/site-policy/github-community-guidelines)
 
 # questions and discussions
 if you have a question or you want to  discuss something You can go to our [discord sever](https://discord.gg/zg4tt2M) or our [discussions board](https://github.com/StopModReposts/Illegal-Mod-Sites/discussions) on github
