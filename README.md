@@ -37,4 +37,4 @@ We also allow translations to be submitted now. Please see the [translator guide
 StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [API access and formats](https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats) on the wiki for more information about this API.
 
 ## License
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+our License is [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) so please read it's terms
