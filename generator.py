@@ -1,5 +1,6 @@
 print("[...] Initializing static generator")
 
+# imports
 import os
 import yaml
 from datetime import datetime
@@ -7,6 +8,7 @@ from lxml import objectify, etree
 import json
 import time
 
+# gets the time when it starts
 start_time = time.time()
 all_lists = os.listdir("lists")
 current_time = datetime.now()
@@ -186,7 +188,7 @@ for item in all_lists:
 
 
 # ---------------------------------------------------- shields
-# Generates Shields which display stats
+# Generates Shields which display stats on the readme.md
 print("[7/8] Generating SHIELDS")
 
 print("..... Generating total shield")
@@ -231,4 +233,5 @@ end_time = time.time()
 elapsed_time = str(end_time - start_time)
 
 print("[ ✓ ] Generated all formats")
+# gets the time on when it is finished
 print(f"..... took {elapsed_time} seconds")
