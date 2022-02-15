@@ -6,7 +6,7 @@ StopModReposts
 ![OpenCollective](https://opencollective.com/stopmodreposts/tiers/badge.svg)
 ![GitHub checks](https://badgen.net/github/checks/StopModReposts/Illegal-Mod-Sites)
 
-> 👋 We're searching for Project Maintainers. If you're interested, send an email to help@stopmodreposts.org
+> 👋 We're searching for Project Maintainers. If you're interested, send an email to help[at]stopmodreposts.org
 
 StopModReposts is a movement against illegal redistribution of Minecraft content, mainly focused on mods. The movement consists of a [website](http://stopmodreposts.org/), a [Twitter campaign](https://twitter.com/search?q=%23StopModReposts&src=savs), a [list of illegal mod mirrors](http://git.io/jaBI), and a [browser plugin](https://stopmodreposts.org/extension). We also have a [Discord server](https://discord.gg/zg4tt2M) and a [Twitter profile](https://twitter.com/StopModReposts).
 
