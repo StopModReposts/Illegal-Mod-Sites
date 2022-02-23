@@ -1,7 +1,7 @@
-name: "✨New Site✨"
-description: "Add a new site to SMR"
-title: "[New site to add: ()]: "
-labels: ["addion"]
+name: 'New site to add'
+description: 'Add a new site to SMR'
+title: 'New site to add: '
+labels: '["addion"]'
 
 body:
   - type: textboxes
