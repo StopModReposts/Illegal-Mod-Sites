@@ -2,7 +2,7 @@ name: 🐞 new site to add
 title: "[new site] <site name>"
 labels: [addition]
 body:
-  - type: textboxes
+  - type: textarea
     attributes:
     label: New Site
     description: Please add the site that you want to be added to StopModReposts
@@ -16,7 +16,7 @@ body:
         - Skyrim
         - Stardewvalley
         - Subnautica
-  - type: textboxes
+  - type: textarea
     attributes:
         label: Anything else?
     description: do you have anything else that you would like to mention
