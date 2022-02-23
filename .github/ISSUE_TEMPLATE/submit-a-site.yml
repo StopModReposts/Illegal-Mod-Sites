@@ -6,7 +6,7 @@ body:
   id: sitereadd
   attributes:
     label: site to be added
-    description: "site to be added
+    description: "site to be added"
   validations:
     required: true
 - type: textarea
