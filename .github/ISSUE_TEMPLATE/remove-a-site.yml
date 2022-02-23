@@ -1,0 +1,17 @@
+name: ❌Remove a site❌
+about: Suggest removing a website from the blacklisted sites list
+labels: removal
+
+- type: textarea
+  attributes:
+    label: What site do you want to be removed
+    description: Add the site you would like to be removed
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why  would you like to remove that site?
+    description: Give a reason why you want to remove the website
+  validations:
+    required: true
