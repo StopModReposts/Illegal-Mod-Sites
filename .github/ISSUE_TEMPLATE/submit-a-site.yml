@@ -1,6 +1,6 @@
 name: ❌Site to add❌
 description: true 
-labels: [removal]
+labels: [addition]
 body:
 - type: textarea
   id: sitereadd
