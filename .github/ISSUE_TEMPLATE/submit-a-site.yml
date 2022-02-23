@@ -1,5 +1,5 @@
-name: New site to add
-title: "New site to add:"
+name: 🐞 new site to add
+title: "[new site] <site name>"
 labels: [addion]
 body:
   - type: textboxes
