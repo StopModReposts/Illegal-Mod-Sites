@@ -17,13 +17,13 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: whattypeofrepost
+  id: whatrepost
   attributes:
-    label: What game does the site repost content for? (Example: Minecraft, Subnautica, etc)?
+    label: What game did it repost?
     options:
       - Minecraft
       - Skyrim
-      - Stardewvalley
-      - Subnauticia
+      - stardewvallay
+      - Subnatica
   validations:
     required: true
