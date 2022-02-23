@@ -2,4 +2,17 @@ name: Request a language
 description: true
 labels: [translation]
 
-I would like to translate the StopModReposts project into [LANGUAGE]. Please add it to the translation portal.
+body:
+- type: textarea
+  id: newlang
+  attributes:
+    label: Reproduction steps
+    description: "How do you trigger this bug? Please walk us through it step by step."
+    value: |
+    I would like to translate the StopModReposts project into [LANGUAGE]. Please add it to the translation portal.
+      ...
+    render: bash
+  validations:
+    required: true
+
+
