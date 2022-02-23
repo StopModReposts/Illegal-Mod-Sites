@@ -1,5 +1,4 @@
 name: Bug report
-title: "Bug found:
 labels: [bug]
 body: 
  - type: textboxes
@@ -24,7 +23,7 @@ body:
     value: |
       If applicable, add screenshots to help explain your problem. 
 - type: textboxes
- 		 id: bugdesc4
+    id: bugsesc4
     attributes:
     label: Additional context
     description: Add any other context about the problem here.
