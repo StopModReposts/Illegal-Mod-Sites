@@ -1,15 +1,19 @@
 name: ❌Remove a site❌
+description: true 
 labels: [removal]
 body:
 - type: textarea
+  id: siteremove
   attributes:
     label: What site do you want to be removed
-    description: Add the site you would like to be removed
+    description: "Add the site you would like to be removed"
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Why  would you like to remove that site?
-    description: Give a reason why you want to remove the website
+    id: whyremove
+    label: Why would you like to remove that site?
+    description: "Give a reason why you want to remove the website"
   validations:
     required: true
+
