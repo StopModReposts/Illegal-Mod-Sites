@@ -1,6 +1,6 @@
 name: 🐞 new site to add
 title: "[new site] <site name>"
-labels: [addion]
+labels: [addition]
 body:
   - type: textboxes
     attributes:
