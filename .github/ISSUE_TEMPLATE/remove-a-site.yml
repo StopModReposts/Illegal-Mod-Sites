@@ -1,7 +1,7 @@
-name: '❌Remove a site❌'
-about: 'Suggest removing a website from the blacklisted sites list'
-labels: 'removal'
+name: ❌Remove a site❌
+labels: [removal]
 
+body:
 - type: textarea
   attributes:
     label: What site do you want to be removed
