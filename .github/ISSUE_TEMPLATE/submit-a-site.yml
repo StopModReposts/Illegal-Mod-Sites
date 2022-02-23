@@ -3,11 +3,12 @@ title: "[new site] <site name>"
 labels: [addition]
 body:
   - type: textarea
+    id: siteaddlist
     attributes:
     label: New Site
     description: Please add the site that you want to be added to StopModReposts
  - type: dropdown
-    id: version
+    id: whattypeofrepost
     attributes:
       label: Version
       description: What site do you want to be added?
