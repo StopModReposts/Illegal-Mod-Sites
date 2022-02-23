@@ -3,9 +3,9 @@ contact_links:
   - name: Website
     url: https://stopmodreposts.org/
     about: SMR website
-  - name: Bug reports
-    url: https://stopmodreposts.org/contribute
-    about: email us with that email adress
+  - name: sucerity vulnerabilities
+    url: help@stopmodreposts.org
+    about: email us with that email adress for any sucerity vulnerabilities that you find
   - name: Discord sever
     url: https://discord.gg/tZBeUy3
     about: Our discord sever
@@ -13,4 +13,3 @@ contact_links:
     url: https://opencollective.com/stopmodreposts
     about: OpenCollective is a platform where you can donate money towards an organization. If (eligible) expenses arise, you (contributor, team member, etc.) can get them refunded. These donations help us cover our costs like domain renewals, hosting, etc.
     
-   
