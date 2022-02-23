@@ -1,15 +1,11 @@
 name: New site to add
-description: Add a new site to SMR
 title: "New site to add:"
 labels: [addion]
-
 body:
   - type: textboxes
     attributes:
     label: New Site
     description: Please add the site that you want to be added to StopModReposts
-    
-    
  - type: dropdown
     id: version
     attributes:
@@ -20,7 +16,6 @@ body:
         - Skyrim
         - Stardewvalley
         - Subnautica
-      
   - type: textboxes
     attributes:
         label: Anything else?
