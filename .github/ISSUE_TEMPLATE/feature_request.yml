@@ -1,7 +1,6 @@
 name: Feature request
 title:  Feature request
 labels: feature request
-assignees: 
 
 body:
 - type: textarea
