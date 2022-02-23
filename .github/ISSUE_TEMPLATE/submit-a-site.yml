@@ -19,7 +19,7 @@ body:
 - type: dropdown
   id: whattypeofrepost
   attributes:
-    label: How did you download the software?
+    label: What game does the site repost content for? (Example: Minecraft, Subnautica, etc)?
     options:
       - Minecraft
       - Skyrim
