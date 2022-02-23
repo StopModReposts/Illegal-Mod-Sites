@@ -2,17 +2,17 @@ name: Bug report
 labels: [bug]
 description: true 
 body: 
- - type: textboxes
+ - type: textarea
     id: bug1j 
     attributes:
     label: Describe the bug
     description: "A clear and concise description of what the bug is."
- - type: textboxes
+ - type: textarea
     id: bugdesc2
     attributes:
     label: To Reproduce
     description: "Steps to reproduce the behavior"
- - type: textboxes
+ - type: textarea
     id: bugdesc3
     attributes:
     label: Expected behavior
@@ -23,7 +23,7 @@ body:
   attributes:
     value: |
       "If applicable, add screenshots to help explain your problem."
-- type: textboxes
+- type: textarea
     id: bugsesc4
     attributes:
     label: Additional context
