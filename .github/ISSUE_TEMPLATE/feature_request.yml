@@ -1,6 +1,6 @@
-name: Feature request
-title:  Feature request
-labels: feature request
+name: ❌Site to add❌
+description: true 
+labels: [removal]
 body:
 - type: textarea
   attributes:
@@ -13,22 +13,20 @@ body:
   attributes:
     id: probelem2
     label: Describe the solution you'd like
-    description: A clear and concise description of what you want to happen.
+    description: "A clear and concise description of what you want to happen."
   validations:
     required: false
 - type: textarea
   attributes:
     id: probelem3
     label: Describe alternatives you've considered
-    description: A clear and concise description of any alternative solutions or features you've considered.
+    description: "A clear and concise description of any alternative solutions or features you've considered."
   validations:
     required: false
-
 - type: textarea
   attributes:
     id: probelem4
     label: Additional context
-    description: Add any other context or screenshots about the feature request here.
+    description: "Add any other context or screenshots about the feature request here."
   validations:
     required: false
-
