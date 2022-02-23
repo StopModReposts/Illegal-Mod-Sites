@@ -1,23 +1,29 @@
-name: 🐞 new site to add
-title: "[new site] <site name>"
-labels: [addition]
+name: ❌Site to add❌
+description: true 
+labels: [removal]
 body:
-  - type: textarea
-    id: siteaddlist
-    attributes:
-    label: New Site
-    description: Please add the site that you want to be added to StopModReposts
- - type: dropdown
-    id: whattypeofrepost
-    attributes:
-      label: Version
-      description: What site do you want to be added?
-      options:
-        - Minecraft
-        - Skyrim
-        - Stardewvalley
-        - Subnautica
-  - type: textarea
-    attributes:
-        label: Anything else?
-    description: do you have anything else that you would like to mention
+- type: textarea
+  id: sitereadd
+  attributes:
+    label: site to be added
+    description: "site to be added
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    id: anythingwortmention
+    label: Do you have anything else worth mentioning?
+    description: "Do you have anything else worth mentioning"
+  validations:
+    required: true
+- type: dropdown
+  id: whattypeofrepost
+  attributes:
+    label: How did you download the software?
+    options:
+      - Minecraft
+      - Skyrim
+      - Stardewvalley
+      - Subnauticia
+  validations:
+    required: true
