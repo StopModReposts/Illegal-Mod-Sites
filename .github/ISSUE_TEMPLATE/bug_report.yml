@@ -1,8 +1,9 @@
 name: Bug report
 labels: [bug]
+description: true 
 body: 
  - type: textboxes
-    id: bug1
+    id: bug1j 
     attributes:
     label: Describe the bug
     description: "A clear and concise description of what the bug is."
