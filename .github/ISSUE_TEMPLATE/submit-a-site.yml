@@ -1,7 +1,7 @@
 name: New site to add
 description: Add a new site to SMR
 title: "New site to add:"
-labels: addion
+labels: [addion]
 
 body:
   - type: textboxes
