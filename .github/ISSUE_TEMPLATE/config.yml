@@ -1,1 +1,16 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Website
+    url: https://stopmodreposts.org/
+    about: SMR website
+  - name: Bug reports
+    url: https://stopmodreposts.org/contribute
+    about: email us with that email adress
+  - name: Discord sever
+    url: https://discord.gg/tZBeUy3
+    about: Our discord sever
+  - name: Donate on OpenCollective
+    url: https://opencollective.com/stopmodreposts
+    about: OpenCollective is a platform where you can donate money towards an organization. If (eligible) expenses arise, you (contributor, team member, etc.) can get them refunded. These donations help us cover our costs like domain renewals, hosting, etc.
+    
+   
