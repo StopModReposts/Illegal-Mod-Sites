@@ -7,7 +7,7 @@ body:
     description: Add the site you would like to be removed
   validations:
     required: true
--type: textarea
+- type: textarea
   attributes:
     label: Why  would you like to remove that site?
     description: Give a reason why you want to remove the website
