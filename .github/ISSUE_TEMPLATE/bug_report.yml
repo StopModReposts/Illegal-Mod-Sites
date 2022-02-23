@@ -17,17 +17,13 @@ body:
     attributes:
     label: Expected behavior
     description: A clear and concise description of what you expected to happen.
-
-
 - type: markdown
   value: "## Screenshots!"
 - type: markdown
   attributes:
     value: |
       If applicable, add screenshots to help explain your problem. 
-
-
- - type: textboxes
+- type: textboxes
  		id: bugdesc4
     attributes:
     label: Additional context
