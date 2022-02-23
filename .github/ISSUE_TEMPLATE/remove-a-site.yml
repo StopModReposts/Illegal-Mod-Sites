@@ -1,4 +1,5 @@
 name: ❌Remove a site❌
+title: "I would like to remove [website]"
 description: true 
 labels: [removal]
 body:
