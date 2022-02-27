@@ -2123,4 +2123,9 @@
   notes: Lots of ads and popups 
   path: /
   reason: Illegal redistribution
-  
+- domain: mooks.ru
+  notes: /
+  reason : Illegal redistribution
+- domain: minecraft-max.net
+  notes: /
+  reason: Illegal redistribution
