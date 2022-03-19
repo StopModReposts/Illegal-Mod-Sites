@@ -20,6 +20,6 @@ jobs:
             ./smr-list-utils sort "$f"
           done
 
-      - uses: EndBug/add-and-commit@v8.0.2
+      - uses: EndBug/add-and-commit@v9.0.0
         with:
           add: "lists"
