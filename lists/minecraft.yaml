@@ -2127,11 +2127,17 @@
   notes: /
   reason : Illegal redistribution
 - domain: minecraft-max.net
-  notes: Has its own currency to get its mods 
+  notes: Has it's own currency to get the mods witch you have to pay money for(paywall)
   reason: Illegal redistribution
 - domain: kingminecraftmod.net
   notes: /
   reason: Illegal redistribution
 - domain: minecraftshader.com
+  notes: /
+  reason: Illegal redistribution
+- domain: mods-craft.ru
+  notes: /
+  reason: Illegal redistribution
+- domain: minecraft17.net
   notes: /
   reason: Illegal redistribution
