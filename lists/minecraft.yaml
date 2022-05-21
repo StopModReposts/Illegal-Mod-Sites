@@ -2086,3 +2086,31 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: kingminecraftmod.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodhub.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: moddrops.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodsforums.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpedl.org
+  notes: Fake mcpedl impersonator
+  path: /
+  reason: Illegal redistribution
+- domain: craftear.info
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: moddrop.com
+  notes: Community dedicated to reposting mods
+  path: /
+  reason: Illegal redistribution
