@@ -220,7 +220,7 @@ with open("templates/index.html", "r") as f1:
 print("..... Generating _redirects")
 with open("dist/_redirects", "w", encoding="utf-8") as f:
     # More info about the _redirects file: https://developers.cloudflare.com/pages/platform/redirects
-    f.write("""/docs https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats""")
+    f.write("""/docs https://docs.stopmodreposts.org""")
     
 print("..... Generating _headers")
 with open("dist/_headers", "w", encoding="utf-8") as f:
