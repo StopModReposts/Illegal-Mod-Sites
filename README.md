@@ -19,5 +19,4 @@ We also allow translations to be submitted now. Please see the [translator guide
 
 ## API / Serialized Formats
 
-StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [API access and formats](https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats) on the wiki for more information about this API.
-
+StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [our Site API documentation](https://docs.stopmodreposts.org) for more information about this API.
