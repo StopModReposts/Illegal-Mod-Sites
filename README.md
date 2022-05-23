@@ -20,3 +20,7 @@ We also allow translations to be submitted now. Please see the [translator guide
 ## API / Serialized Formats
 
 StopModReposts provides its site list in various data formats that may be useful for developers. These list formats are available by querying an external API. Please see [our Site API documentation](https://docs.stopmodreposts.org) for more information about this API.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The StopModReposts list</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://stopmodreposts.org/" property="cc:attributionName" rel="cc:attributionURL">StopModReposts</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://git.io/jaBI" rel="dct:source">https://github.com/StopModReposts/Illegal-Mod-Sites</a>.
