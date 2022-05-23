@@ -8,13 +8,13 @@
 # https://api.stopmodreposts.org/hosts.txt
 # (optionally use /game/hosts.txt to only show the file for one game)
 #
-# Please see the StopModReposts GitHub wiki for more information about this
+# Please see the StopModReposts documentation for more information about this
 # file and other serialized data formats supplied by this API:
+#
+# https://docs.stopmodreposts.org
 #
 # NOTE: Sites with a path (e.g. /path) have been removed since this is a hosts
 # only list.
-#
-# https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats
 #
 # *******************************************************************************
 # This file is up to date as of {0} (UTC)
@@ -22,10 +22,10 @@
 #
 # The StopModReposts list by StopModReposts is licensed under a Creative
 # Commons Attribution-ShareAlike 4.0 International License.
-# Based on a work at http://git.io/jaBI.
+# Based on a work at https://github.com/StopModReposts/Illegal-Mod-Sites.
 #
 # All distribution and usage of this hosts file must occur in accordance with
 # this license. If you have any questions concerning this, feel free to reach
 # out through raising an issue on GitHub or contacting us privately on Twitter
 # (@StopModReposts), Discord (https://discord.gg/tZBeUy3) or e-mail
-# (contact@stopmodreposts.org).
+# (help@stopmodreposts.org).
