@@ -2114,3 +2114,6 @@
   notes: Community dedicated to reposting mods
   path: /
   reason: Illegal redistribution
+- domain: minecraftalpha.net
+  notes: Redirect to 9minecraft.net which in turn reposts mods
+  reason: Illegal redistribution
