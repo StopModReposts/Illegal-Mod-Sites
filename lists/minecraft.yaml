@@ -2175,7 +2175,7 @@
 - domain: minecraftalpha.net
   notes: Redirect to 9minecraft.net which in turn reposts mods
   reason: Illegal redistribution
-- domain:worldofmods.ru
+- domain: worldofmods.ru
   notes: Russian version of worldomods.com
   reason: Illegal redistribution 
 - domain: esportsasia.com
