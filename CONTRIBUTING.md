@@ -8,8 +8,8 @@ A big welcome and thank you for considering contributing to the StopModReposts o
 
 ##  Quick start
 We  accept issues that are New website request, bug reports,  feature requests or Site removal.
-- [new website](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=addition&template=submit-a-site.md&title=New+site+to+add%3A+%5BWEBSITE%5D)
-- [Site removal](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=removal&template=remove-a-site.md&title=Site+removal%3A+%5BWEBSITE%5D)
+- [New Website](https://report.stopmodreposts.org/)
+- [False reports](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=removal&template=remove-a-site.md&title=Site+removal%3A+%5BWEBSITE%5D)
 - [Bug report](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
 - [Feture request](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=)
 - [Lanuage request](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/new?assignees=&labels=translation&template=request-a-language.md&title=Add+translation+language%3A+%5BLANGUAGE%5D)
