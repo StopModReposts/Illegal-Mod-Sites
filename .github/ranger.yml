@@ -22,7 +22,7 @@ labels:
       Your request was denied since the domain was already added or denied before. **Please do not open a new issue with the same domain again.** 
       
       >ℹ️ If you think this was an error, comment below and a project maintainer will review the request again.
-  duplicate:
+  transferred:
     action: close
     delay: 0s
     comment: |
