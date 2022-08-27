@@ -1,8 +1,8 @@
-- domain: nowmods.com
+- domain: lttlword.net
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: schaken-mods.com
-  notes: /
+- domain: lttlword.ru
+  notes: Connected to lttlword.net
   path: /
   reason: Illegal redistribution
