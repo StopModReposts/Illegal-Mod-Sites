@@ -36,6 +36,13 @@ for item in all_lists:
     else:
         current_dict = next(yaml.load_all(r, Loader=yaml.FullLoader))
         previous_dict.extend(current_dict)
+        temporary_dict = []
+        cleaned_dict = dict()
+        for key, val in previous_dict.items():
+            if val not in temporary_dict:
+                temporary_dict.append(val)
+                cleaned_dict[key] = val
+        
 with open("dist/sites.yaml", "w", encoding="utf-8") as f:
     f.write(yaml.dump(previous_dict))
 
