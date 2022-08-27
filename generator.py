@@ -43,7 +43,7 @@ for item in all_lists:
             if dict_item not in temporary_dict:
                 temporary_dict.append(dict_item)
         
-        print(f"     Removed duplicates {len(previous_dict)} -> {len(temporary_dict)}")
+        print(f"      Removed duplicates {len(previous_dict)} -> {len(temporary_dict)}")
         previous_dict = temporary_dict
         
 with open("dist/sites.yaml", "w", encoding="utf-8") as f:
