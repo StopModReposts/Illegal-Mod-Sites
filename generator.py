@@ -36,7 +36,15 @@ for item in all_lists:
     else:
         current_dict = next(yaml.load_all(r, Loader=yaml.FullLoader))
         previous_dict.extend(current_dict)
-        previous_dict = list(dict.fromkeys(previous_dict))
+        
+        # remove duplicates
+        temporary_dict = []
+        for dict_item in previous_dict:
+            if dict_item not in temporary_dict:
+                temporary_dict.append(dict_item)
+        
+        print(f"     Removed duplicates {len(previous_dict)} -> {len(temporary_dict)}")
+        previous_dict = temporary_dict
         
 with open("dist/sites.yaml", "w", encoding="utf-8") as f:
     f.write(yaml.dump(previous_dict))
