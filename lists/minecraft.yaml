@@ -58,6 +58,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: 3minecraftmod.com
+  notes: Similar to 9minecraft.net
+  path: /
+  reason: Illegal redistribution
 - domain: 4minecraft.com
   notes: Malware alert!
   path: /
@@ -230,12 +234,20 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: craftear.info
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: crafthd.net
   notes: /
   path: /
   reason: Illegal redistribution
 - domain: craftzon.ru
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: creeper.gg
+  notes: Links to 9minecraft.net
   path: /
   reason: Illegal redistribution
 - domain: cubixworld.ru
@@ -338,6 +350,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: esportsasia.com
+  notes: Links to 9minecraft.net
+  path: /
+  reason: Illegal redistribution
 - domain: evlas.ru
   notes: Paywall, potential malware
   path: /
@@ -352,6 +368,10 @@
   reason: Illegal redistribution
 - domain: fabricmods.com
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: faithful.team
+  notes: Imitates faithfulpack.net
   path: /
   reason: Illegal redistribution
 - domain: fdminecraft.net
@@ -518,6 +538,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: hdpackmod.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: hil.su
   notes: /
   path: /
@@ -548,6 +572,10 @@
   reason: Illegal redistribution
 - domain: kingminecraftmod.com
   notes: 9minecraft.net clone
+  path: /
+  reason: Illegal redistribution
+- domain: kingminecraftmod.net
+  notes: /
   path: /
   reason: Illegal redistribution
 - domain: kminecraft.ru
@@ -610,7 +638,15 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: mc-mods.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: mc-mods.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mc-pc.net
   notes: /
   path: /
   reason: Illegal redistribution
@@ -666,6 +702,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: mcmodspc.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: mcmodteam.blogspot.com
   notes: Uses adf.ly links
   path: /
@@ -700,6 +740,10 @@
   reason: Illegal redistribution
 - domain: mcpebox.com
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcpedl.org
+  notes: Fake mcpedl impersonator
   path: /
   reason: Illegal redistribution
 - domain: mcpefl.com
@@ -770,6 +814,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: minecraft-aventure.com
+  notes: Links to 9minecraft.net
+  path: /
+  reason: Illegal redistribution
 - domain: minecraft-book.ru
   notes: /
   path: /
@@ -822,6 +870,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: minecraft-inside.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: minecraft-inside.ru
   notes: /
   path: /
@@ -843,6 +895,10 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraft-loads.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraft-max.net
   notes: /
   path: /
   reason: Illegal redistribution
@@ -954,6 +1010,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: minecraft17.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: minecraft172.com
   notes: /
   path: /
@@ -975,6 +1035,10 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraft73.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftalpha.net
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1158,6 +1222,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: minecraftio.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: minecraftium.ru
   notes: /
   path: /
@@ -1190,6 +1258,10 @@
   notes: Malware alert!
   path: /
   reason: Illegal redistribution
+- domain: minecraftmodhub.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: minecraftmodlari.com
   notes: /
   path: /
@@ -1219,6 +1291,10 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraftmods9.blogspot.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftmodsforums.weebly.com
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1267,6 +1343,10 @@
   path: /
   reason: Illegal redistribution
 - domain: minecraftpatch.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftpatch.ru
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1418,6 +1498,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: minesters.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: minethatcraft.com
   notes: /
   path: /
@@ -1490,6 +1574,14 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: moddrop.com
+  notes: Community dedicated to reposting mods
+  path: /
+  reason: Illegal redistribution
+- domain: moddrops.weebly.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: modfast.ru
   notes: /
   path: /
@@ -1507,6 +1599,10 @@
   path: /
   reason: Illegal redistribution
 - domain: modov-minecraft.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mods-craft.ru
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1571,6 +1667,10 @@
   path: /
   reason: Illegal redistribution
 - domain: monster-mcpe.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mooks.ru
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1707,6 +1807,10 @@
   path: /
   reason: Illegal redistribution
 - domain: pandoriacraft.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: pcminecraft-mods.com
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1926,11 +2030,27 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: texture-packs.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: texturespack.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: the-minecraft.fr
   notes: Mod rehosts, but also texture packs and maps
   path: /
   reason: Illegal redistribution
+- domain: tlauncher-legacy.ru
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: tlauncher.org
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: tlauncherminecraft.com
   notes: /
   path: /
   reason: Illegal redistribution
@@ -1972,6 +2092,10 @@
   reason: Illegal redistribution
 - domain: vimeworld.ru
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: vlauncher.net
+  notes: Redistributes cracked launchers
   path: /
   reason: Illegal redistribution
 - domain: vminecraft.ru
@@ -2078,39 +2202,11 @@
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: майнкрафт18.рф
+- domain: "майнкрафт18.рф"
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: майнкрафтин.рф
+- domain: "майнкрафтин.рф"
   notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: kingminecraftmod.net
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: minecraftmodhub.weebly.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: moddrops.weebly.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: minecraftmodsforums.weebly.com
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: mcpedl.org
-  notes: Fake mcpedl impersonator
-  path: /
-  reason: Illegal redistribution
-- domain: craftear.info
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: moddrop.com
-  notes: Community dedicated to reposting mods
   path: /
   reason: Illegal redistribution
