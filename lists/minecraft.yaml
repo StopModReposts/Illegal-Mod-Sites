@@ -250,8 +250,16 @@
   notes: Links to 9minecraft.net
   path: /
   reason: Illegal redistribution
+- domain: crystal-launcher.net
+  notes: Redistributes Modpacks and Optifine, has sketchy links
+  path: /
+  reason: Illegal redistribution
 - domain: cubixworld.ru
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: cursefire.com
+  notes: CurseForge clone
   path: /
   reason: Illegal redistribution
 - domain: dascraft.org
@@ -338,6 +346,10 @@
   notes: Malware alert!
   path: /
   reason: Illegal redistribution
+- domain: easymc.io
+  notes: Alt Generator
+  path: /
+  reason: Illegal redistribution
 - domain: eincraft.ru
   notes: /
   path: /
@@ -372,6 +384,10 @@
   reason: Illegal redistribution
 - domain: faithful.team
   notes: Imitates faithfulpack.net
+  path: /
+  reason: Illegal redistribution
+- domain: fastalts.com
+  notes: Alt Generator/Shop
   path: /
   reason: Illegal redistribution
 - domain: fdminecraft.net
@@ -522,6 +538,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: grant88.pixnet.net
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: greatray.ru
   notes: /
   path: /
@@ -578,6 +598,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: klpbbs.com
+  notes: /
+  path: /
+  reason: Illegal redistribution
 - domain: kminecraft.ru
   notes: /
   path: /
@@ -588,6 +612,10 @@
   reason: Illegal redistribution
 - domain: launcherfenix.com.ar
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: launchershiginima.com
+  notes: Links to minecrafteo.com
   path: /
   reason: Illegal redistribution
 - domain: legacymodpack.com
@@ -654,6 +682,10 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: mc-premium.org
+  notes: Alt Generator
+  path: /
+  reason: Illegal redistribution
 - domain: mc-vn.net
   notes: /
   path: /
@@ -686,8 +718,20 @@
   notes: Malware alert!
   path: /
   reason: Illegal redistribution
+- domain: mcleaks.net
+  notes: Alt Generator
+  path: /
+  reason: Illegal redistribution
 - domain: mcmap.cc
   notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcmod.cn
+  notes: /
+  path: /
+  reason: Illegal redistribution
+- domain: mcmod.com
+  notes: Forwards to mcmod.cn
   path: /
   reason: Illegal redistribution
 - domain: mcmoddatabase.com
@@ -1886,6 +1930,10 @@
   notes: Subreddit dedicated to redistributing mods
   path: /r/modpiracy2
   reason: Illegal redistribution
+- domain: reddit.com
+  notes: Another r/modpiracy Subreddit
+  path: /r/modpiracy4
+  reason: Illegal redistribution
 - domain: redserver.su
   notes: /
   path: /
@@ -2040,6 +2088,10 @@
   reason: Illegal redistribution
 - domain: the-minecraft.fr
   notes: Mod rehosts, but also texture packs and maps
+  path: /
+  reason: Illegal redistribution
+- domain: thealtening.com
+  notes: Alt Generator
   path: /
   reason: Illegal redistribution
 - domain: tlauncher-legacy.ru
@@ -2202,11 +2254,11 @@
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: "майнкрафт18.рф"
+- domain: майнкрафт18.рф
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: "майнкрафтин.рф"
+- domain: майнкрафтин.рф
   notes: /
   path: /
   reason: Illegal redistribution
