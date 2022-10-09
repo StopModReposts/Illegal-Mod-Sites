@@ -726,14 +726,6 @@
   notes: /
   path: /
   reason: Illegal redistribution
-- domain: mcmod.cn
-  notes: /
-  path: /
-  reason: Illegal redistribution
-- domain: mcmod.com
-  notes: Forwards to mcmod.cn
-  path: /
-  reason: Illegal redistribution
 - domain: mcmoddatabase.com
   notes: Malware alert!
   path: /
