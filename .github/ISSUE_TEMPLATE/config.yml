@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Website
+    url: https://stopmodreposts.org/
+    about: This is the main stopmodreposts website
+  - name: sucerity vulnerabilities
+    url: https://pastebin.com/iKrM2Pb9
+    about: email us with that email adress in the pastebin for any security vulnerabilities that you could have possibly found
+  - name: Discord sever
+    url: https://discord.gg/tZBeUy3
+    about: Our discord sever where you can talk about stuff
+  - name: Donate on OpenCollective
+    url: https://opencollective.com/stopmodreposts
+    about: OpenCollective is a platform where you can donate money towards an organization. If (eligible) expenses arise, you (contributor, team member, etc.) can get them refunded. These donations help us cover our costs like domain renewals, hosting, etc.
+    

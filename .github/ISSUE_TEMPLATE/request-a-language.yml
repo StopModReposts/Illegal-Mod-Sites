@@ -1,0 +1,15 @@
+name: Request a language
+title: "I would like to add the [lanuage] Please add it to the translation portal "
+description: true
+labels: [translation]
+
+body:
+- type: textarea
+  id: newlang
+  attributes:
+    label: I would like to translate the StopModReposts project into [LANGUAGE]. Please add it to the translation portal.
+    description: "Please add the lanuage you would like to add."
+  validations:
+    required: true
+
+

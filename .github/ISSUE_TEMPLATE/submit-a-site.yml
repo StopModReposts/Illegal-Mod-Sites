@@ -1,0 +1,30 @@
+name: ✅Site to add✅
+title: " ✅Site to add✅  "
+description: true 
+labels: [addition]
+body:
+- type: textarea
+  id: sitereadd
+  attributes:
+    label: site to be added
+    description: "site to be added"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    id: anythingwortmention
+    label: Do you have anything else worth mentioning?
+    description: "Do you have anything else worth mentioning"
+  validations:
+    required: true
+- type: dropdown
+  id: whatrepost
+  attributes:
+    label: What game did it repost?
+    options:
+      - Minecraft
+      - Skyrim
+      - stardewvallay
+      - Subnatica
+  validations:
+    required: true
