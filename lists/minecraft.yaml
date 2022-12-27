@@ -2254,3 +2254,7 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: modland.net
+  notes: Some link back to the og download and some use their own download link but most of them use modland.net download 
+  path: /
+  reason: Illegal redistribution
