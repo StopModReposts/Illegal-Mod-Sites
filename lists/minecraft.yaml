@@ -675,7 +675,7 @@
   path: /
   reason: Illegal redistribution
 - domain: mc-pc.net
-  notes: Forces you to log in to their accounts in order to download from the original sources
+  notes: Forces you to sign up for their accounts in order to download from the original sources.
   path: /
   reason: Illegal redistribution
 - domain: mc-pe.net
