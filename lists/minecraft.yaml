@@ -2254,3 +2254,7 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: tlmods.org
+  notes: Mod rehosts, but also texture packs and maps. Connected to tlauncher.org
+  path: /
+  reason: Illegal redistribution
