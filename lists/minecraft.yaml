@@ -717,6 +717,9 @@
 - domain: mchacks.net
   notes: Malware alert!
   path: /
+- domain: mcjedl.com
+  notes: /
+  path: /
   reason: Illegal redistribution
 - domain: mcleaks.net
   notes: Alt Generator
