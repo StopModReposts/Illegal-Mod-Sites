@@ -2254,3 +2254,51 @@
   notes: /
   path: /
   reason: Illegal redistribution
+- domain: modland.net
+  notes: Some link back to the og download and some use their own download link but most of them use modland.net download 
+  path: /
+  reason: Illegal redistribution
+- domain: playmods.net
+  notes: Redistributes Minecraft .apk file and other apps .apk file 
+  path: /
+  reason: Illegal redistribution
+- domain: simplesminecraft.blogspot.com
+  notes: Some use 9minecraft.net download links, not recommended to use 
+  path: /
+  reason: Illegal redistribution
+- domain: boomalts.com
+  notes: Alt generator 
+  path: /
+  reason: Illegal redistribution
+- domain: alts.pizza
+  notes: Alt generator 
+  path: /
+  reason: Illegal redistribution
+- domain: altsforyou.org
+  notes: Fake Alt generator 
+  path: /
+  reason: Illegal redistribution
+- domain: proalts.com
+  notes: Fake Alt generator 
+  path: /
+  reason: Illegal redistribution
+- domain: minecraftalt.com
+  notes: Allows you to buy alts with money 
+  path: /
+  reason: Illegal redistribution
+- domain: altspage.github.io
+  notes: Allows you to buy alts with money 
+  path: /
+  reason: Illegal redistribution
+- domain: alts.rip
+  notes: Alt shop 
+  path: /
+  reason: Illegal redistribution
+- domain: mcalting.weebly.com
+  notes: Alt shop 
+  path: /
+  reason: Illegal redistribution
+- domain: freealtsgenerator.es
+  notes: Alt shop 
+  path: /
+  reason: Illegal redistribution
